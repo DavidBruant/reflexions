@@ -10,48 +10,51 @@ Du coup j'ai décidé de lister les quelques trucs (que je tente de faire et/ou 
 
 Cher·e lecteur·rice, si tu as l'élan et/ou l'inspiration, tu es grandement invité·e à contribuer. Je suis curieuse !!
 
+### Poser une intention claire
+
+
 ### S'appuyer sur les valeurs à défendre
 - Poser des intentions claires et concrètes qui vont guider l'élaboration de l'évent
 - Clarifier, s'aligner sur des valeurs et décider à partir de ces valeurs
 
-### Sortir des posture hautes
+### Sortir des postures hautes
 - Privilégier les Retours d'EXpérience 
-- Eviter les "grands experts" et privilégier des personnes peu connues mais qui ont plein de choses à dire
-- Inventer de nouveaux formats qui nous font descendre de la scène : ateliers, théâtre forum, ballades, forum ouverts...
+- Ignorer la question de la notoriété des intervenants pour privilégier le contenu des sujets.
+- Utiliser des formats qui "font descendre de la scène" : ateliers, théâtre forum, ballades, forum ouverts...
 
 ### Co-créer - utiliser l'intelligence collective
-- Créer des espaces de travail et d'entraide dans lesquels les participant·e·s travaillent ensemble ([hackinghealth](http://hackinghealth.ca/fr/event/hacking-health-camp-hackathon-fr/) qui propose des défis autour desquels les participant·e·s se réunissent et co-développent un projet. Tout le monde peut proposer un projet.
-- Utiliser des outils tels que le Forum Ouvert
-- Co-organiser l'évent avec la communauté (ouvrir les appels à orateurs et faire en sorte que ce soient les participant·e·s qui votent, co-créer les Code of Conduct via des outils collaboratifs...) les organisateur·rice·s seraient alors plus des coordinateur·rice·s/facilitateur·rice·s et des petites mains que des décideur·se·s.
-- faire appel à la communauté tout au long de la mise en place de l'évent pour récolter des feed-back réguliers
+- Créer des espaces de travail et d'entraide dans lesquels les participant·e·s travaillent ensemble ([hackinghealth](http://hackinghealth.ca/fr/event/hacking-health-camp-hackathon-fr/) qui propose des défis autour desquels les participant·e·s se réunissent et co-développent un projet. Tout le monde peut proposer un projet.)
+- Utiliser des outils qui encouragent l'émergence spontanée tels que le Forum Ouvert
+- Impliquer les participants et participantes dans la co-organisation de l'évènement (ouvrir les appels à orateurs et faire en sorte que ce soient les participant·e·s qui votent, co-créer les Code of Conduct via des outils collaboratifs...). Les organisateur·rice·s seraient alors plus des coordinateur·rice·s/facilitateur·rice·s et des petites mains que des décideur·se·s.
+- Faire appel aux participant·e·s tout au long de la mise en place de l'évènement pour récolter des feed-back réguliers et améliorer les pratiques.
 
-
-### Créer une équipe d'orga 
-L'équipe créé est garante de la culture et de l'énergie qu'il y aura dans l'évent. Si elle fonctionne bien, il y a de grandes chances que l'évent aussi. 
+### Consacrer le temps nécessaire à la création d'une Equipe d'orga 
+L'équipe créé est garante de la culture et de l'énergie qu'il y aura dans l'évent. Inventer/expérimenter de novueaux modèle de céveloppement de projets, infuser des changements de postures qui vont vers plus de soin (respect de chacun), préserver la congruence. 
 - Consacrer du temps à l'alignement des membres de l'équipe
 - Prendre le temps de créer une culture commune qui permet de solidifier le socle que représente une équipe d'organisation
-- Communiquer pour rester aligné·e·s tout au long du processus de création
+- Prendre le temps qu'il faut pour communiquer afin de rester aligné·e·s tout au long du processus de création
 
-### Créer du mouvement
-- Ne pas reproduire la même recette tous les ans et créer à minima une modifications, un changement
+### Avoir l'intention de créer du mouvement
+- Ne pas reproduire la même recette tous les ans et créer à minima une modification, un changement
 - Changer les équipes d'organisation pour sortir de l'entre-soi et faire bouger les lignes/innover
 
 ### Etre "en soin"
-- Mettre en place des "Codes of Conduct" pour créer un cadre d'interactions safe
-- Proposer des outils pour mieux collaborer
-- Avoir au moins un·e membre de l'équipe d'organisation opérationnel·le sur la question de la gestion relationnelle
+- Avoir un posture inclusive en mettant en place un "Code of Conduct" et proposer des tarifs abordables et/ou des possibilités d'achat solidaires et/ou des tickets de diversité
+- [Proposer des outils](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/creer-un-cadre-de-collaboration-safe.md) pour créer un cadre d'interactions safe
+- Avoir au moins un·e membre de l'équipe d'organisation opérationnel·le (active, présente, qui se sent prête) pour observer, gérer et prendre soin des interactions entre les Humains en présence 
 
 ### Cultiver le lien et la rencontre 
-- Créer des temps/espaces informels que les participants puissent s'approprier
-- Créer des expériences immersives
+- Créer des temps/espaces informels dans lesquels les participant·e·s peuvent échanger librement et créer spontanemment leur propre contenu
+- Offrir la possibilité d'expériences immersives où les participant·e·s vivent "ensemble"
 
-### Inclure
-- Mettre en place des "Codes of Conduct" pour protéger les communautés sous-représentées
-- Proposer des tarifs abordables et/ou des possibilités d'achat solidaires et/ou des tickets de diversité
+### Repenser la question de l'argent
+- Limiter (et pourquoi pas éviter) les sponsors
+- Gérer et planifier sa comptabilité avec précision pour être "juste" (avoir l'ambition des ses moyens et les moyens de ses ambitions) : pas trop d'argent pour rester sobre et pas en manque pour pas de déficit qui retombe sur l'équipe d'orga "que quelqu'un devra payer"
+- Transparence du budget et des décisions attenantes au budget envers toutes les personnes qui sont impactées par les décisions financières (participants, organisateurs, prestataires...). Expliquer le pourquoi du comment du prix permet à celui qui achète de décider de payer en son âme et conscience. C'est mettre tout en place pour prendre soin du consentement de l'acheteur. Veiller aussi à faire preuve de pédagogie pour le présenter et qu'il soit facilement compréhensible
+
 
 ## Conclusion
 Finalement, organiser un évent, n'est-ce pas aussi l'occasion de créer, le temps d'un week-end un îlot d'un idéal culturel ? Imaginons un peu des events où la culture prévaut sur le contenu. Le produit ne serait plus alors les conférences et les ateliers mais l'expérience humaine... 
 
-
-*Comme d'habitude, je suis pas toute seule : Camille Pène, Boris Schapira, la thym de Sudweb, Thomas Gasc, La bande des Girafes - CNV poils aux pieds, Raphaël Pierquin, Stéphane Langlois.*
+*Comme d'habitude, je suis pas toute seule : Camille Pène, Boris Schapira, la thym de Sudweb, Thomas Gasc, La bande des Girafes - CNV poils aux pieds, Raphaël Pierquin, Stéphane Langlois, David de Bruant.*
 
