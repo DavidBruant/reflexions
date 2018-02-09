@@ -32,7 +32,7 @@ Cher·e lecteur·rice, si tu as l'élan et/ou l'inspiration, tu es grandement in
 L'équipe créé est garante de la culture et de l'énergie qu'il y aura dans l'évent. Inventer/expérimenter de novueaux modèle de céveloppement de projets, infuser des changements de postures qui vont vers plus de soin (respect de chacun), préserver la congruence. 
 - Consacrer du temps à l'alignement des membres de l'équipe
 - Prendre le temps de créer une culture commune qui permet de solidifier le socle que représente une équipe d'organisation
-- Prendre le temps qu'il faut pour communiquer afin de rester aligné·e·s tout au long du processus de création
+- Prendre le temps qu'il faut pour communiquer afin de rester aligné·e·s tout au long du processus de création et s'assurer du consentement de tous et toutes
 
 ### Avoir l'intention de créer du mouvement
 - Ne pas reproduire la même recette tous les ans et créer à minima une modification, un changement
