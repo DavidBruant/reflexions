@@ -93,7 +93,8 @@ Un code of condut ne remplace pas la culture d'un évenement.
 [http://agiletour-montpellier.fr/code-de-conduite/]  
 [https://www.paris-web.fr/code-de-conduite.php/]  
 [https://medium.com/@julia.barbelane/les-codes-de-conduite-dans-nos-events-f100bfed374b]  
-[https://modelviewculture.com/pieces/a-code-of-conduct-is-not-enough]
+[https://modelviewculture.com/pieces/a-code-of-conduct-is-not-enough]  
+[http://movilab.org/index.php?title=IndieCamp]  
 
 
 
