@@ -1,8 +1,7 @@
-# Etre précis dans l'utilisation de nouveaux outils
+# La précision : gardienne de la pertinence ?
 
 ## Lexique
 **Outils et pratiques** : ici il s'agit de l'agilité, la Communication Non Violente, le Lean, le Forum Ouvert, le Scrum, GitHub, Slack, la "formation"...  
-**Nouveaux outils** : outils que je ne connaissais pas avant et qui sont peu (voir pas) utilisés dans les milieux que je fréquentais jusqu'alors (associations, collectifs, cercles amicaux et familiaux)  
 **Façons de faire plus soutenables** : fonctionnements qui privilégient le bien-être (moral, physique, émotionnels) et qui prennent soin du vivant (développement durable au sens très large)  
 **Postures d'avant** : façons dont on a fonctionné toute notre vie, besoin d'efficacité, de productivité, hiérarchie, négation des émotions, manque de communication authentique, enjeux personnels forts (égo, choses à prouver...) qui distancent du projet.
 
@@ -11,7 +10,7 @@ Dans mon processus d'exploration, je découvre plein d'outils et de pratiques su
 
 J'adore ! Chaque découverte réactive ma soif d'apprendre et ma "foi" en l'idée que des façons de faire plus soutenables existent.
 
-Mais en tentant de les éprouver (et en observant d'autres le faire), je réalise que j'ai très vite tendance à utiliser ces "nouveaux outils" avec des "postures d'avant".
+Mais en tentant de les éprouver (et en observant d'autres le faire), je réalise que j'ai très vite tendance à utiliser ces "nouveaux outils" avec des "postures d'avant". 
 
 ## La précision : le bouclier contre mes vieux réflexes ?
 
@@ -28,7 +27,7 @@ Prenons l'exemple de la Communication Non Violente. Je peux utiliser le processu
 5. A l'envie de s'améliorer, de progresser, d'apprendre...
 
 
-## C'est quand même l'intention qui compte  nan ?
+## C'est quand même l'intention qui compte, nan ?
 
 Si je m'en contente pas et que je suis prête à explorer les pistes listée ci-dessus je dirais que oui.
 
