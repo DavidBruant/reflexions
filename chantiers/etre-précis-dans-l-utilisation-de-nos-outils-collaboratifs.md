@@ -19,7 +19,7 @@ C'est ce que j'aurais tendance à dire puisqu'ici je définis la précision comm
 
 Prenons l'exemple de la Communication Non Violente. Je peux utiliser le processus OSBD autant que je veux, si  je le pratique sans me connecter à l'intention première de la CNV qui est "la connexion" je m'empute de toute la beauté de l'outil qui ne réside aucunement dans le processus...
 
-## Quelques pistes pour préserver la précision
+## Quelques pistes pour la préserver
 
 1. Fait preuve d'humilité : elle/il est OK avec l'idée qu'il·elle "ne sait pas" en fait
 2. Est curieux·se : elle/il l'élan d'aller chercher de nouvelle information, de se former
@@ -30,4 +30,8 @@ Prenons l'exemple de la Communication Non Violente. Je peux utiliser le processu
 
 ## C'est quand même l'intention qui compte  nan ?
 
-La bonne nouvelle c'est que, même si parfois je loupe le coche de la précision, en m'efforçant de changer mes pratiques j'enclenche à minima un processus de changement et de remise en question qui appelle le mouvement et donc l'évolution ?
+Si je m'en contente pas et que je suis prête à explorer les pistes listée ci-dessus je dirais que oui.
+
+La bonne nouvelle c'est que, même si parfois je loupe le coche de la précision, en m'efforçant de changer mes pratiques j'enclenche à minima un processus de changement et de remise en question qui appelle le mouvement.
+
+Or, le mouvement n'est-il pas le premier petit pas vers l'évolution ?
