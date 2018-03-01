@@ -21,11 +21,11 @@ Prenons l'exemple de la Communication Non Violente. Je peux utiliser le processu
 
 ## Quelques pistes pour la préserver
 
-1. Fait preuve d'humilité : elle/il est OK avec l'idée qu'il·elle "ne sait pas" en fait
-2. Est curieux·se : elle/il l'élan d'aller chercher de nouvelle information, de se former
-3. Sait se rendre disponible : consacre du temps pour se former, réfléchir, veiller
-4. EsteEntouré·e d'une communauté de pratiques qui peut lui apporter du feed-back qui lui permettent d'améliorer ses pratiques
-5. A l'envie de s'améliorer, de progresser, d'apprendre...
+1. Faire preuve d'humilité : je suis OK avec l'idée que "je ne sais pas" en fait
+2. Etre curieuse : j'ai l'élan d'aller chercher de nouvelles informations, de tester des trucs
+3. Me rendre disponible : consacre du temps pour me former, réfléchir, veiller
+4. M'entourer de personnes inspirantes qui peuvent m'apporter du feed-back qui me permettent d'améliorer mes pratiques
+5. Avoir l'envie de m'améliorer, de progresser, d'apprendre...
 
 
 ## C'est quand même l'intention qui compte  nan ?
