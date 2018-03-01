@@ -18,10 +18,10 @@ L'observation principale que je fais est qu'un contexte "safe" permet de pouvoir
 ## 1) Quelques trucs qui peuvent participer à la création d’un cadre Safe 
 
 **Parler au « Je »** Souvent ça me permet d’éviter un peu les jugements et de ne pas imposer mon point de vue.  
-Par exemple dire “*La discussion d'hier ne nous a servi à rien*.” n’évoque pas la même chose que “*J'ai l'impression que la discussion d'hier ne m'a rien apportée.”. La première version implique l’ensemble des autres participants, mais qu’est-ce qui dit qu’elle n’a rien apportée à Jacqueline ou Loric ?  
+Par exemple dire “*La discussion d'hier ne nous a servi à rien*.” n’évoque pas la même chose que “*J'ai l'impression que la discussion d'hier ne m'a rien apportée.*”. La première version implique l’ensemble des autres participants, mais qu’est-ce qui dit qu’elle n’a rien apportée à Jacqueline ou Loric ?  
 Aussi, faire l'effort de parler au “Je” est une belle invitation à prendre ses “responsabilités”. C’est plus impliquant, je suis donc généralement plus précautionneuse : je prends le temps de vérifier ce qui se passe pour moi et je fais plus attention aux mots que j’emploie.
 
-**Utiliser le langage inclusif** *Réflexion en cours. A développer. Idées pas encore assez claires. Préfère ne pas se prononcer pour l'instant. Mais l'idée est là. 
+**Utiliser le langage inclusif** *Réflexion en cours. A développer. Idées pas encore assez claires. Préfère ne pas se prononcer pour l'instant. Mais l'idée est là.* 
 
 **Faire preuve de bienveillance et vérifier qu'on est aussi dans la bientraitance** La bienveillance serait l’intention qui vise le bien et le bonheur de l’autre. La bientraitance serait la mise en action de cette intention. Elles me paraissent complémentaires.  
 Ben ouais… je peux tout à fait avoir une intention bienveillante et être maltraitante dans mes actes.  
