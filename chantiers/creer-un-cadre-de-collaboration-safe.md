@@ -1,5 +1,7 @@
 # Quelques pistes pour créer un cadre de collaboration Safe
 
+![Meuf tranquille en pleine ville](https://github.com/Julia-barbelane/reflexions/blob/master/photos/creer-cadre-collaboration-safe.png)
+
 ## Contexte de l'article 
 Depuis 2015, j'évolue au sein de plusieurs collectifs. 2 raisons m'ont poussées à rédiger cet article :   
 1 - Lorsque le contexte relationnel est "Safe" je me sens mieux donc je collabore mieux donc je créé et réfléchi mieux.  
