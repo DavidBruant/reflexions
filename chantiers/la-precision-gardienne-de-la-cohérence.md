@@ -13,7 +13,7 @@ Mais en tentant de les éprouver (et en observant d'autres le faire), je réalis
 
 Si on s'accorde qu'ici la précision est "**le fait de comprendre quelque chose dans son fondement, son intention première et sa subtilité.**" alors oui (enfin pour moi hein). 
 
-Prenons l'exemple de la Communication Non Violente. Je peux utiliser le processus OSBD autant que je veux, si je le pratique sans me connecter à l'intention première de la CNV (qui est "la connexionà l'autre") je m'empute de toute la subtilité de l'outil qui ne réside à mon avis pas dans le processus... Concrètement, ça peut se traduire par une expression très douce dans la forme et une posture plutôt pas cool dans le fond où j'échange avec l'autre pour lui répondre, le convaincre ou tout autre truc du genre...
+Prenons l'exemple de la Communication Non Violente. Je peux utiliser le processus OSBD autant que je veux, si je le pratique sans me connecter à l'intention première de la CNV (qui est "la connexion à l'autre") je m'empute de toute la subtilité de l'outil qui ne réside à mon avis pas dans le processus... Concrètement, ça peut se traduire par une expression très douce dans la forme et une posture plutôt pas cool dans le fond où j'échange avec l'autre pour lui répondre, le convaincre ou tout autre truc du genre...
 
 Et parceque je trouve ça troooop dommage et que j'aspire à faire bon usage de ce que peuvent apporter ces outils et pratiques, j'ai identifié les quelques trucs auxquels je fait appel pour (tenter) de les utiliser avec précision :  
 
@@ -34,7 +34,7 @@ Or, le mouvement n'est-il pas le premier petit pas vers l'évolution ?
 
 
 ## Auto-Lexique
-**Cohérence** Selon M.Larousse :  Propriété de ce qui est cohérent, logique interne d'un discours, d'une idée, d'un acte, etc. ; qualité d'une personne, d'un groupe cohérents" (Larrousse)
+**Cohérence** Selon M.Larousse :  Propriété de ce qui est cohérent, logique interne d'un discours, d'une idée, d'un acte, etc. ; qualité d'une personne, d'un groupe cohérents" (Larrousse)  
 **Outils et pratiques** : ici il s'agit de l'agilité, la Communication Non Violente, le Lean, le Forum Ouvert, le Scrum, GitHub, Slack, la "formation"...  
 **Nouveaux outils** : outils que je ne connaissais pas avant et qui sont peu (voir pas) utilisés dans les milieux que je fréquentais jusqu'alors (associations, collectifs, cercles amicaux et familiaux)  
 **Façons de faire plus soutenables** : fonctionnements qui privilégient le bien-être (moral, physique, émotionnels) et qui prennent soin du vivant (développement durable au sens très large)  
