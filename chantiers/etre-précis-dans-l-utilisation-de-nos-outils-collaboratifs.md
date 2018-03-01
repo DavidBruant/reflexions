@@ -1,5 +1,7 @@
 # La précision : gardienne de la cohérence ? 
 
+![The précision dude !](https://github.com/Julia-barbelane/reflexions/blob/master/photos/precision.png)
+
 ## Auto-Lexique
 **cohérence** : "Propriété de ce qui est cohérent, logique interne d'un discours, d'une idée, d'un acte, etc. ; qualité d'une personne, d'un groupe cohérents" (Larrousse)
 **Outils et pratiques** : ici il s'agit de l'agilité, la Communication Non Violente, le Lean, le Forum Ouvert, le Scrum, GitHub, Slack, la "formation"...  
