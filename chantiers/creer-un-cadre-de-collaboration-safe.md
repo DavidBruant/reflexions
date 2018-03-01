@@ -9,7 +9,7 @@ Depuis 2015, j'évolue au sein de plusieurs collectifs. 2 raisons m'ont poussée
 
 Du coup, j’ai décidé d’observer et questionner mes acolytes pour essayer d'identifier les “trucs” qui empêchent ou encouragent la création d'un contexte relationnel Safe… Retour sur cette exploration (non exhaustif !)
 
-## Défintion
+## Définition
 Pour moi, un contexte "Safe" incarne un climat de confiance, de tranquillité et d’harmonie dans lequel je me sens "soignée" et en sécurité affective et émotionnelle. C'est un contexte dans lequel je n'ai pas besoin d'être sur "mes gardes". C'est à dire que je suis exemptée de peurs telle que "Et si l'autre me juge ? Et s'il.elle se moque de moi ? Et si je me trompe ? Et si l'autre me demande de me justifier ?". 
 
 ## Ce que ce cadre "Safe" peut apporter concrètement
@@ -21,7 +21,7 @@ L'observation principale que je fais est qu'un contexte "safe" permet de pouvoir
 Par exemple dire “*La discussion d'hier ne nous a servi à rien*.” n’évoque pas la même chose que “*J'ai l'impression que la discussion d'hier ne m'a rien apportée.”. La première version implique l’ensemble des autres participants, mais qu’est-ce qui dit qu’elle n’a rien apportée à Jacqueline ou Loric ?  
 Aussi, faire l'effort de parler au “Je” est une belle invitation à prendre ses “responsabilités”. C’est plus impliquant, je suis donc généralement plus précautionneuse : je prends le temps de vérifier ce qui se passe pour moi et je fais plus attention aux mots que j’emploie.
 
-**Utiliser le langage inclusif** 
+**Utiliser le langage inclusif** *Réflexion en cours. A développer. Idées pas encore assez claires. Préfère ne pas se prononcer pour l'instant. Mais l'idée est là. 
 
 **Faire preuve de bienveillance et vérifier qu'on est aussi dans la bientraitance** La bienveillance serait l’intention qui vise le bien et le bonheur de l’autre. La bientraitance serait la mise en action de cette intention. Elles me paraissent complémentaires.  
 Ben ouais… je peux tout à fait avoir une intention bienveillante et être maltraitante dans mes actes.  
