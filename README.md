@@ -18,6 +18,7 @@ Un endroit ou poser mes réflexions, travaux, articles, idées en cours...Histoi
 [Merci à toi](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/lettres-ouvertes/merci-a-toi.md)  
 [Ma meilleure pub c'est toi](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/lettres-ouvertes/ma-meilleure-pub-c-est-toi.md)  
 [T'as pas de budget ?](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/lettres-ouvertes/t-as-pas-de-budget.md)  
+[Et toi, combien tu vaut ?](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/lettres-ouvertes/et-toi-combien-tu-vaut.md)  
 
 ### Rencontre & evenements
 [Comment mon badge de SydWeb a atterit au milieu de mes photos de familles](https://medium.com/@julia.barbelane/comment-mon-badge-pour-sudweb-a-atterrit-au-milieu-des-mes-photos-de-famille-146283e2e219)  
