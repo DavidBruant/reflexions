@@ -14,7 +14,7 @@ Je déteste cette phrase.
 
 A chaque fois que je l'entends c'est comme un fracas de plaques tectoniques à l'intérieur de moi. 
 
-Deux parts s'affrontent : **La première est pleine de compassion** (c'est celle qui a bien conscience que tu ne roules pas sur l'or, celle qui a envie de t'aider, de trouver une solution, de contribuer), **la seconde quand à elle est sur ses gardes** (elle souhaite me préserver et défendre la valeur de mon temps et de mes compétences).
+Deux parts s'affrontent alors : **la première est pleine de compassion** (c'est celle qui a bien conscience que tu ne roules pas sur l'or, celle qui a envie de t'aider, de trouver une solution, de contribuer), **la seconde quand à elle est sur ses gardes** (celle là c'est celle qui souhaite me préserver sur le long terme et défendre la valeur de mon temps et de mes compétences).
 
 Voilà. 
 
