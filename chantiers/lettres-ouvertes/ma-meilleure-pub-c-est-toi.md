@@ -1,6 +1,6 @@
 # Ma meilleure pub c'est toi
 
-![le beau ballon !](https://github.com/Julia-barbelane/reflexions/blob/master/photos/ma-meilleure-pub-c-est-toi.png)
+<p style="text-align:center";>![le beau ballon !](https://github.com/Julia-barbelane/reflexions/blob/master/photos/ma-meilleure-pub-c-est-toi.png)</p>
 
 Cher·e Client·e, 
 
