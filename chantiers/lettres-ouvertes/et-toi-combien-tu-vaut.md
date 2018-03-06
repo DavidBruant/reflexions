@@ -20,7 +20,7 @@ Aîe. Mon petit coeur se tord. Mon cerveau s'agite. Encore.
 
 **Je me sens coupable et un peu en colère**. Coupable parceque sur le coup je doute. Evidemment. Je me dis que peut-être tu as raison. Que c'est pas facile pour toi. En colère parceque non, "*c'est pas trop cher*". Je sais que c'est juste. C'est ce dont j'ai besoin pour vivre décemment. C'est ce dont j'ai besoin pour garder la niaque tout au long du projet. 
 
-Je te propose quand même d'autres solutions. Mais vu l'ambition du projet, je veux pas tirer sur ma corde. Du coup on va pouvoir travailler ensemble.
+Je te propose quand même d'autres solutions. Mais vu l'ambition du projet, je veux pas tirer sur ma corde. Du coup on va pas pouvoir travailler ensemble.
 
 C'est con. On avait bien accroché. Ton projet était chouette et j'avais déjà plein d'idées. J'aurai été bonne. Je suis sûre qu'on aurait pu faire un truc cool ensemble.
 
