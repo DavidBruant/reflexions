@@ -3,7 +3,7 @@ Un endroit ou poser mes réflexions, travaux, articles, idées en cours...Histoi
 
 ![reflexions !](https://github.com/Julia-barbelane/reflexions/blob/master/photos/icone-reflexions.png)
 
-## Articles en ligne
+## Glossaire
 
 ### La vidéo et moi 
 [La théorie de l'adorement](https://medium.com/@julia.barbelane/la-th%C3%A9orie-de-ladorement-175dc0a384e9)  
@@ -14,6 +14,10 @@ Un endroit ou poser mes réflexions, travaux, articles, idées en cours...Histoi
 [Quelle fichue configuration audio pour mes vidéos ?](https://medium.com/@julia.barbelane/quelle-p-de-configuration-audio-pour-mes-vid%C3%A9os-bea1dc9e5285)  
 [Me cadrer dans mes vidéos sans passer pour un clown](https://medium.com/@julia.barbelane/me-cadrer-dans-mes-vid%C3%A9os-sans-passer-pour-un-clown-e15f1e9d4926)  
 
+### Lettres ouvertes à mes client·e·s
+[Merci à toi](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/lettres-ouvertes/merci-a-toi.md)
+[Ma meilleure pub c'est toi](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/lettres-ouvertes/ma-meilleure-pub-c-est-toi.md)
+[T'as pas de budget ?](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/lettres-ouvertes/t-as-pas-de-budget.md)
 
 ### Rencontre & evenements
 [Comment mon badge de SydWeb a atterit au milieu de mes photos de familles](https://medium.com/@julia.barbelane/comment-mon-badge-pour-sudweb-a-atterrit-au-milieu-des-mes-photos-de-famille-146283e2e219)  
