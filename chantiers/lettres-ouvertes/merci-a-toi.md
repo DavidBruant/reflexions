@@ -1,5 +1,7 @@
 # Merci à toi.
 
+![la tignasse en pétard](https://github.com/Julia-barbelane/reflexions/blob/master/photos/merci-a-toi.png)
+
 Cher·e Client·e, 
 
 Je me sens particulièrement touchée par les retours que tu m'as fait suite à notre dernière collaboration. Tu m'as partagé ton ressenti avec sincérité et générosité. Tu as aussi su habillement soupoudrer le tout, de remarques constructives m'offrant de chouettes perspectives d'amélioration.
