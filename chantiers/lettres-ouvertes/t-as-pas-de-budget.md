@@ -22,11 +22,9 @@ Quand tu prononces cette toute petite phrase, c'est la guerre des tranchées dan
 
 Grrrrrrr tu me mets dans une situation vraiment pas confortable, j'te jure. 
 
-Commence alors le moment pas désagréable où, en prise avec ces 2 parts de moi, je dois m'expliquer. 
+Commence alors ce moment désagréable où, en prise avec ces 2 parts de moi, je dois m'expliquer. 
 
-Portée par l'une, je m'efforce de prendre soin de toi et de trouver un compromis. 
-
-Sauf que ça me coûte en fait. Parceque la deuxième, elle crie. Ça arrive trop souvent. Du coup elle m'oblige à "poser des limites", justifier mon tarifs, tout autre stratégie désagréable à dire et à entendre. Je suis un peu sur crispée.
+Portée par l'une, je m'efforce de prendre soin de toi et de trouver un compromis. Sauf que ça me coûte en fait. Parceque la deuxième, elle crie. Ça arrive trop souvent. Du coup elle m'oblige à "poser des limites", justifier mon tarif... bref elle fait tout un tas trucs désagréable à dire. Je suis un peu sur crispée.
 
 Pas top comme base de départ pour une collaboration hein ? 
 
