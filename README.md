@@ -6,8 +6,6 @@ Un endroit ou poser mes réflexions, travaux, articles, idées en cours...Histoi
 ## Glossaire
 
 ### Lettres ouvertes à mes client·e·s
-Série de lettres ouvertes rédigées au détours de ma vie d'entrepreneuse. L'idée : partager le vécu de ma relation avec mes client·e·s à afin que celles et ceux qui font appel aux freelances aient quelques billes pour prendre soin de nous.
-
 [Merci à toi](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/lettres-ouvertes/merci-a-toi.md)  
 [Ma meilleure pub c'est toi](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/lettres-ouvertes/ma-meilleure-pub-c-est-toi.md)  
 [T'as pas de budget ?](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/lettres-ouvertes/t-as-pas-de-budget.md)  
