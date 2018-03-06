@@ -12,9 +12,11 @@ Ouch. Mon petit coeur se tord. Mon cerveau s'agite.
 
 Je déteste cette phrase. 
 
-A chaque fois que je l'entends c'est comme un fracas de plaques tectoniques à l'intérieur de moi. Deux parts s'affrontent : 
+A chaque fois que je l'entends c'est comme un fracas de plaques tectoniques à l'intérieur de moi. 
 
-La première est pleine de compassion (c'est celle qui a bien conscience que tu ne roules pas sur l'or, celle qui a envie de t'aider, de trouver une solution, de contribuer), la seconde quand à elle est sur ses gardes (elle souhaite me préserver et défendre la valeur de mon temps et de mes compétences).
+Deux parts s'affrontent : 
+
+**La première est pleine de compassion** (c'est celle qui a bien conscience que tu ne roules pas sur l'or, celle qui a envie de t'aider, de trouver une solution, de contribuer), **la seconde quand à elle est sur ses gardes** (elle souhaite me préserver et défendre la valeur de mon temps et de mes compétences).
 
 Voilà. Quand tu prononces cette toute petite phrase, c'est la guerre des tranchées dans mon petit corps. Parcequ'en fait il y a rarement de compromis possible : je ne sais pas tellement faire vite, bien et pour pas cher.
 
