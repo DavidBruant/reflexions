@@ -23,7 +23,7 @@ Un endroit ou poser mes réflexions, travaux, articles, idées en cours...Histoi
 [Comment mon badge de SydWeb a atterit au milieu de mes photos de familles](https://medium.com/@julia.barbelane/comment-mon-badge-pour-sudweb-a-atterrit-au-milieu-des-mes-photos-de-famille-146283e2e219)  
 
 ### Interactions
-[Créer un contexte de collaboration Safe](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/creer-un-cadre-de-collaboration-safe.md)
+[Créer un contexte de collaboration Safe](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/creer-un-cadre-de-collaboration-safe.md)  
 [La théorie de l'angle-mort selon David Bruant](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/la-theorie-de-l-angle-mort.md)  
 
 ### Apprentissage
