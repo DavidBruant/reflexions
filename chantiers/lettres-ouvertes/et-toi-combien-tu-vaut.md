@@ -1,5 +1,7 @@
 # Et toi combien tu vaut ? 
 
+![chouette ton chien !](https://github.com/Julia-barbelane/reflexions/blob/master/photos/et-toi-combien-tu-vaut-ok.png)
+
 Cher·e Client·e
 
 On s'est rencontré·e à une soirée. Je crois que je t'ai un peu tapé dans l'oeil.   
