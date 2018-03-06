@@ -1,6 +1,6 @@
 # T'as pas de budget ? 
 
-![ça caille !](https://github.com/Julia-barbelane/reflexions/blob/master/photos/et-toi-combien-tu-vaut.png)
+![ça caille !](https://github.com/Julia-barbelane/reflexions/blob/master/photos/t-a-pas-de-budget.png)
 
 Cher·e Client·e, 
 
