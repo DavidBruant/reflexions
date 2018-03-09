@@ -14,7 +14,7 @@ Je n'ai pas de "*stratégie de com*" parceque ça prend beaucoup de temps. Or je
 
 Enfin, "*je sais pas me vendre*" parceque je crois que les contrats et les clients c'est comme les amoureu·x·ses : j'aurai beau mettre mes plus beaux vêtements et choisir le rouge le mieux assorti à mon teint, si ça matche pas, ça matche pas. Et je veux forcer personne. En revanche, je vais tenter d'être au clair sur mes intentions, histoire d'être la plus sincère possible quand je raconte la façon dont je vois mon travail. L'enthousiasme naturel faisant le reste.
 
-Parceque je crois, qu'en fait, ma meilleure pub c'est Toi. 
+**Parceque je crois, qu'en fait, ma meilleure pub c'est Toi.** 
 
 Je crois que j'ai plutôt tout intérêt à faire en sorte que notre collaboration soit une expérience chouette pour toi. Je me dis que si à ce moment là, je réussi à te comprendre, à te mettre à l'aise, à cerner tes aspirations et à produire un travail de qualité alors tu seras content·e. 
 
