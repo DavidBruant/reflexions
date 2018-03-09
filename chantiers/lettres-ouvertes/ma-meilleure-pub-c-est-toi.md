@@ -4,7 +4,7 @@
 
 Cher·e Client·e, 
 
-Tu me demandes souvent pourquoi "*je ne signe pas mes films*". D'autres m'interpellent parfois sur l'absence de "*stratégie de communication*". Certain·e·s disent que "*je ne sais pas me vendre*". Et puis y'a aussi celles et ceux qui s'en foutent... 
+Tu me demandes souvent pourquoi "*je ne signe pas mes films*". D'autres m'interpellent parfois sur l'absence de "*stratégie de communication*" et puis certain·e·s disent que "*je ne sais pas me vendre*".
 
 D'un côté je suis touchée parceque j'y vois une belle marque d'attention et des encouragements. D'un autre je me sens un peu incomprise. 
 
