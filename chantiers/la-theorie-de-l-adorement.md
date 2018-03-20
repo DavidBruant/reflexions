@@ -44,7 +44,7 @@ Tertio, écouter et suivre ma petite voix (d’autres appellent ça l’intuitio
 Quarto, ne pas accorder trop d’importance à mes flips’ (trop facile !) et tracer ma route en me focalisant sur toutes les fois où ça a bien marché pour moi.
 
 ## Et si j'y arrive pô toujours ? Un an plus tard le bilan. 
-Oui. Des fois ça marche pas. En un an, il m'est effectivement même arrivé d'accepter des contrats pas tout à fait alignés avec mes aspirations parceque c'était des occasions faciles d'assurer de rentrer des sous.
+Oui. Des fois ça marche pas. En un an, il m'est effectivement même arrivé d'accepter des contrats pas tout à fait alignés avec mes aspirations (pas des films pour des ventilateurs non plus hein !) parceque c'étaient des occasions faciles d'assurer de rentrer des sous.
 
 Comment faire dans ce cas ? 
 
