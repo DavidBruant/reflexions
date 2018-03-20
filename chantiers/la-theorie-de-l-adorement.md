@@ -11,10 +11,14 @@
 ## La dépression post-trop-cool-je-monte-ma-boîte-je-suis-libre !
 
 Au fur et à mesure que je développe mon projet, la réalité vient percuter l’idée que j’ai de mon métier. Je me suis vite rendue compte que même dans le “petit monde” de l’audiovisuel et de l’entrepreneuriat, dérives et contraintes fortes persistent :  
-1- La contrainte technique est tellement forte que si j’ai pas l’énergie, mentale, physique et financière pour investir dans le matos et la formation je suis foutue.  
-2- Si je suis pas reconnue “de ouf” je suis obligés de faire comme tout le monde : courir après les contrats pour finalement me retrouver à filmer des conférences d’experts comptables….  
-3- Dans la rencontre, on est plus loin de la bande de potes artistes inspirés qui met la technique au service de l’art que de la course à celui qui aura le plus gros objectif (si vous voyez ce que je veux dire).  
-4- En tant qu’indépendant je dois être multitâches (comptable, commercial, artiste, technicien, manager….) et être performant pour chacune d’elle.  
+
+1- **La contrainte technique est tellement forte* que si j’ai pas l’énergie, mentale, physique et financière pour investir dans le matos et la formation je suis foutue.  
+
+2- **Si je suis pas reconnue “de ouf”** je suis obligés de faire comme tout le monde : courir après les contrats pour finalement me retrouver à filmer des conférences d’experts comptables….  
+
+3- Dans la rencontre, **on est plus loin de la bande de potes artistes inspirés** qui met la technique au service de l’art que de la course à celui qui aura le plus gros objectif (si vous voyez ce que je veux dire).  
+
+4- En tant qu’indépendante **je dois être multitâches** (comptable, commercial, artiste, technicien, manager….) et être performante pour chacune d’elle.  
 5- Je dois souvent faire face à ceux qui me demandent « un petit film rapido » pour leur concert, conférence, anniversaire… qui sont souvent des amis ou des amis de mes amis et à qui je dois pouvoir dire non.  
 
 Tout ça peut vite aurait pu vite me faire déchanter et basculer en dépression post-trop-cool-je-monte-ma-boîte-je-suis-libre !
@@ -29,9 +33,12 @@ La théorie de « l’adorement » c’est l’idée que je me suis inventé p
 ## Pour que le sens fasse autorité
 
 En choisissant de travailler sur des projets inspirants je suis sûr « d’y trouver le sens ». Résultat : je suis beaucoup plus inspirée, motivée, créative et donc performante :  
-1 - J’adore mes clients et leurs projets m’inspirent. J’ai établi une relation de confiance et de collaboration qui me donne vraiment envie de les aider. Réussir le projet devient alors plus fort que les contraintes techniques inhérentes à mon activité. Résultat : rencontrer mes clients, réfléchir à leur projets, trouver des solutions…est plus “l’occasion de faire encore mieux” qu’un problème.  
-2 - Je ne m’oblige pas à faire des trucs chiants que je n’ai pas vraiment choisi. Cette approche permet de me positionner fort dans un univers et un fonctionnement qui me ressemblent. Résultat : je réalise des films pour des entrepreneur(e)s « qui font du bien » (yoga, écologie, alimentation saine, innovation…) au lieu de filmer les vœux du maire de ma commune.  
-3 - Je n’ai peut-être pas une grande bande de potes artistes engagés mais je m’entoure de personnes que je choisi, qui me correspondent et qui m’inspirent : pas besoin de comparer nos performances (là aussi vous voyez ce que je veux dire). Résultat : on se focalise sur le projet et on fonctionne bien ensemble !  
+
+1 - **J’adore mes clients et leurs projets m’inspirent.** J’ai établi une relation de confiance et de collaboration qui me donne vraiment envie de les aider. Réussir le projet devient alors plus fort que les contraintes techniques inhérentes à mon activité. Résultat : rencontrer mes clients, réfléchir à leur projets, trouver des solutions…est plus “l’occasion de faire encore mieux” qu’un problème.  
+
+2 - **Je ne m’oblige pas à faire des trucs chiants que je n’ai pas vraiment choisi.** Cette approche permet de me positionner fort dans un univers et un fonctionnement qui me ressemblent. Résultat : je réalise des films pour des entrepreneur(e)s « qui font du bien » (yoga, écologie, alimentation saine, innovation…) au lieu de filmer les vœux du maire de ma commune.  
+
+3 - Je n’ai peut-être pas une grande bande de potes artistes engagés mais **je m’entoure de personnes que je choisi**, qui me correspondent et qui m’inspirent : pas besoin de comparer nos performances (là aussi vous voyez ce que je veux dire). Résultat : on se focalise sur le projet et on fonctionne bien ensemble !  
 
 *projets que j’adore = enthousiasme = performance = qualité = collaborateurs contents = projet réussi = reconnaissance = nouveaux projets que j’adore ect…*  
 
@@ -61,6 +68,7 @@ Ce qui m'a plus c'est que, même si cette proposition ne résoud pas le problèm
 ## « L’adorement», une porte vers une société plus épanouie et responsable ?
 
 Oui !
-Imagines une société dans laquelle chaque individu sait suffisamment qui il est et ce qui le motive pour choisir précisément des projets, entreprises, associés… qu’il adore : fini les dépressions, les coups de gueules, les projets non aboutis, les calomnies… et en route vers des adultes créateurs et responsables.
+Imagines une société dans laquelle chaque individu sait suffisamment qui il est et ce qui le motive pour choisir précisément des projets, entreprises, associés… qu’il adore : fini les dépressions, les coups de gueules, les projets non aboutis, les calomnies… et en route vers des adultes créateurs et responsables.  
+
 On essaye ?
  
