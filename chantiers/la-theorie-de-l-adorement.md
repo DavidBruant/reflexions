@@ -24,7 +24,7 @@ Au fur et à mesure que je développe mon projet, la réalité vient percuter l�
 Tout ça peut vite aurait pu vite me faire déchanter et basculer en dépression post-trop-cool-je-monte-ma-boîte-je-suis-libre !
 
 ## La théorie de « l’adorement »
-*Adorement (nom masc.) désigne l’état de grâce qui advient lorsque tu adores faire quelque chose et qui te rapproche de l’état de super héro.*
+"*Adorement (nom masc.) désigne l’état de grâce qui advient lorsque tu adores faire quelque chose et qui te rapproche de l’état de super héro.*"
 
 Je ne suis pas devenue indépendante pour finalement tomber dans les travers propre au salariat. J’ai choisi d’être indépendante pour être libre de choisir des projets enthousiasmants et motivants. Ce qui signifie pour moi, se tenir bien loin des conférences d’experts comptables !  
 
@@ -61,9 +61,9 @@ Comment faire dans ce cas ?
 
 Quand ça m'arrive je tente de me rassurer en me disant que c'est nécessaire pour créer de la sécurité. Mais récemment un grand ami à moi m'a fait cette suggestion (réécrite pour que ce soit claire, mais l'idée est là) :  
 
-"* Pour moi, il ne vaut mieux pas négocier avec nos valeurs, même quand c'est difficile. Mieux vaut dans ce cas, assumer en disant OK, là ici et maintenant, je m'éloigne de ce qui est pourtant important pour moi. Et surtout ne pas commencer à se trouver des excuses telles que "en acceptant cette presta alors que c'est pas tout à fait dans ma ligne de conduite je nourris mon besoin de sécurité." Sinon ça coule, et on en vient à les piétiner...en douceur, sans même s'en rendre compte. Et là ça craint.*"
+"*Pour moi, il ne vaut mieux pas négocier avec nos valeurs, même quand c'est difficile. Mieux vaut dans ce cas, assumer en disant OK, là ici et maintenant, je m'éloigne de ce qui est pourtant important pour moi. Et surtout ne pas commencer à se trouver des excuses telles que "en acceptant cette presta alors que c'est pas tout à fait dans ma ligne de conduite je nourris mon besoin de sécurité." Sinon ça coule, et on en vient à les piétiner...en douceur, sans même s'en rendre compte. Et là ça craint.*"
 
-Ce qui m'a plus c'est que, même si cette proposition ne résoud pas le problème, elle permet de se dire la vérité. Oui, vous voyez, celle qui fait un peu mal au coeur...
+Ce qui m'a plu c'est que, même si cette proposition ne résoud pas le problème, elle permet de se dire la vérité. Oui, vous voyez, celle qui fait un peu mal au coeur...
 
 ## « L’adorement», une porte vers une société plus épanouie et responsable ?
 
