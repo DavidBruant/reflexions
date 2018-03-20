@@ -1,8 +1,12 @@
+*janvier 2017*
+
 # La théorie de “l’adorement”
 
 *Je suis vidéaste et réalisatrice de vidéos pour le web en tant qu’indépendante. La plupart des gens à qui je présente mon métier trouvent ça super. C’est vrai… mais encore faut-il que ça le reste !*
 
 *C’est comme ça que j’ai inventé la théorie de “l’adorement”. Cette dernière consiste à refuser les contrats et collaborations qui ne “matchent pas” pour se focaliser sur ceux qui m’inspirent et faire en sorte que mon métier reste super.*
+
+![la théorie de l'adorement](https://github.com/Julia-barbelane/reflexions/blob/master/photos/la-theorie-de-l'adorement.jpg)
 
 ## La dépression post-trop-cool-je-monte-ma-boîte-je-suis-libre !
 
