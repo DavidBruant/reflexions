@@ -1,4 +1,6 @@
 
+*juin 2017*
+
 # Web et vidéos : et si on essayait de ne pas faire n’importe quoi ?
 
 *Je trouve l’outil vidéo magnifique et je suis enchantée de voir la production audiovisuelle se démocratiser. En même temps, je m’interroge sur le contenu créé et partagé. Est-il réellement créateur de valeur ? J’en doute….*
@@ -34,7 +36,7 @@ Voici quelques pistes que j’ai isolées au cours de mon exploration…
 
 ## 3 critères pour faire/repérer des vidéos pertinentes
 1 - **L’intention première est de créer de la valeur** et non de te vendre quelque chose. Quand je décide de faire une vidéo, quelle est mon intention première ? Que le gars qui la visionne achète ou que ça l’inspire, que ça le touche ? Ça peut facilement sembler être la même chose, avec une tournure de phrase différente. C’est là où l’intention est précieuse. Employée avec sincérité et précision, elle va infuser toute la démarche et déterminer l’ensemble de la posture.  
-2 - **Du soin apporté à la forme afin d’honorer le fond.** Souvent il y a des personnes géniales qui partagent des contenus géniaux dont on a du mal à s’emparer par manque de qualité. Techniquement, il existe plein de petites astuces pour tous les budgets, qui peuvent permettre d’augmenter la qualité technique et prendre soin de l’internaute : gérer un peu la lumière pour éviter une image est « brouillon », utiliser un micro pour que ce soit facile à suivre, soigner un peu le cadrage pour que ce soit agréable à regarder…
+2 - **Du soin apporté à la forme afin d’honorer le fond.** Souvent il y a des personnes géniales qui partagent des contenus géniaux dont on a du mal à s’emparer par manque de qualité. Techniquement, il existe plein de petites astuces pour tous les budgets, qui peuvent permettre d’augmenter la qualité technique et prendre soin de l’internaute : gérer un peu la lumière pour éviter une image est « brouillon », utiliser un micro pour que ce soit facile à suivre, soigner un peu le cadrage pour que ce soit agréable à regarder…   
 3 - **La précision du rythme et la structuration du propos**. L’idée : rendre le contenu plus efficace, accessible et enthousiasmant. Cette posture permet par exemple de faire en sorte que l’information arrive tout de suite (*j’évite le générique d’introduction de 30s et je fais en sorte qu’en 10s on soit dans le sujet*), que la promesse du titre soit respectée (si j’annonce que je vais parler de l’éthique de mon projet je ne parle pas de la genèse !) ou encore que ce soit accessible (*si j’ai bien préparé mon propos, la construction est logique, fluide et maîtrisée. Il y a Pédagogie.*).
 
 ## Les utilisations à explorer
