@@ -46,29 +46,28 @@ En gros, pas besoin d’en faire des tonnes y’a plus qu’à me promener de ch
 
 ## Mon truc pour atteindre cet état de grâce
 
-Primo, il m’est indispensable de me poser la question du sens que je donne à mes actions : “qu’est-ce qui me motive à faire ce que je j’entreprends ? Est-ce bien en accord avec mes valeurs ? ”.  
+Primo, il m’est indispensable de me poser la question du sens que je donne à mes actions : “*qu’est-ce qui me motive à faire ce que je j’entreprends ? Est-ce bien en accord avec mes valeurs ?* ”.  
 
-Deuxio, m’y référer systématiquement avec cette question magique : “est-ce que la contrainte est plus forte que la valeur ou la valeur plus forte que la contrainte ? “ et orienter mes choix en fonction.  
+Deuxio, m’y référer systématiquement avec cette question magique : “*est-ce que la contrainte est plus forte que la valeur ou la valeur plus forte que la contrainte ?* “ et orienter mes choix en fonction.  
 
-Tertio, écouter et suivre ma petite voix (d’autres appellent ça l’intuition). C’est ce truc qui s’impose comme une évidence et qui me fait dire “oh oui cette idée, je la kiffe ! ce mec là est génial, j’y vais !”.  
+Tertio, écouter et suivre ma petite voix (d’autres appellent ça l’intuition). C’est ce truc qui s’impose comme une évidence et qui me fait dire “*oh oui cette idée, je la kiffe ! cette personne là est géniale, j’y vais !*”.  
 
 Quarto, ne pas accorder trop d’importance à mes flips’ (trop facile !) et tracer ma route en me focalisant sur toutes les fois où ça a bien marché pour moi.
 
-## Et si j'y arrive pô toujours ? Un an plus tard le bilan. 
-Oui. Des fois ça marche pas. En un an, il m'est effectivement même arrivé d'accepter des contrats pas tout à fait alignés avec mes aspirations (pas des films pour des ventilateurs non plus hein !) parceque c'étaient des occasions faciles d'assurer de rentrer des sous.
+## Quand justement les flipes sont trop forts. 
+Oui. Des fois ça marche pas. Il m'arrive encore d'accepter des contrats pas tout à fait alignés avec mes aspirations (pas des films pour des ventilateurs non plus hein !) parceque c'étaient des occasions faciles d'assurer de rentrer des sous (grr, aïe, ouïe).
 
 Comment faire dans ce cas ? 
 
-Quand ça m'arrive je tente de me rassurer en me disant que c'est nécessaire pour créer de la sécurité. Mais récemment un grand ami à moi m'a fait cette suggestion (réécrite pour que ce soit claire, mais l'idée est là) :  
+Quand ça m'arrive je tente de me rassurer en me disant que c'est nécessaire pour créer de la sécurité. Mais récemment un grand ami à moi m'a fait cette suggestion (réécrite pour que ce soit clair, mais l'idée est là) :  
 
 "*Pour moi, il ne vaut mieux pas négocier avec nos valeurs, même quand c'est difficile. Mieux vaut dans ce cas, assumer en disant OK, là ici et maintenant, je m'éloigne de ce qui est pourtant important pour moi. Et surtout ne pas commencer à se trouver des excuses telles que "en acceptant cette presta alors que c'est pas tout à fait dans ma ligne de conduite je nourris mon besoin de sécurité." Sinon ça coule, et on en vient à les piétiner...en douceur, sans même s'en rendre compte. Et là ça craint.*"
 
-Ce qui m'a plu c'est que, même si cette proposition ne résoud pas le problème, elle permet de se dire la vérité. Oui, vous voyez, celle qui fait un peu mal au coeur...
+Ce qui m'a plu c'est que, même si cette proposition ne résoud pas le problème, c'est une invitation à me dire la vérité. Même si elle fait mal au coeur, au moins je suis au clair avec le fait que je piétine mes valeurs. Cette posture m'évitera probablement un peu de m'éloigner tout doucement d'elles...
 
-## « L’adorement», une porte vers une société plus épanouie et responsable ?
+## « L’adorement», une porte vers une société plus épanouie ?
 
-Oui !
-Imagines une société dans laquelle chaque individu sait suffisamment qui il est et ce qui le motive pour choisir précisément des projets, entreprises, associés… qu’il adore : fini les dépressions, les coups de gueules, les projets non aboutis, les calomnies… et en route vers des adultes créateurs et responsables.  
+Et ça se peut bien ! Imagines une société dans laquelle chaque individu sait suffisamment qui il est et ce qui le motive pour choisir précisément des projets, entreprises, associé·e·s… qu’il·elle adore : moins de dépressions, de coups de gueules, de projets non aboutis, de calomnies… et en route vers des adultes bien dans leurs baskets.  
 
 On essaye ?
  
