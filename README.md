@@ -12,7 +12,7 @@ Un endroit ou poser mes réflexions, travaux, articles, idées en cours...Histoi
 [Et toi, combien tu vaut ?](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/lettres-ouvertes/et-toi-combien-tu-vaut.md)  
 
 ### La vidéo et moi 
-[La théorie de l'adorement](https://medium.com/@julia.barbelane/la-th%C3%A9orie-de-ladorement-175dc0a384e9)  
+[La théorie de l'adorement](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/la-theorie-de-l-adorement.md)  
 [Tournage en résidence avec 2 clientes](https://medium.com/@julia.barbelane/tournage-en-r%C3%A9sidence-avec-2-clientes-91066f80b2a5)  
 [Web et vidéo, et si on essayait de pas faire n'importe quoi ?](https://medium.com/@julia.barbelane/web-et-vid%C3%A9os-et-si-on-essayait-de-ne-pas-faire-nimporte-quoi-7d852402ac88)  
 
