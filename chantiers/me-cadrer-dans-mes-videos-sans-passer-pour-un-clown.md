@@ -1,3 +1,5 @@
+*Juin 2017*
+
 # Me cadrer dans mes vidéos sans passer pour un clown
 
 *La bonne nouvelle c’est que (contrairement à la configuration audio — lire l’article) il existe des solutions “pré-mâchées” pour faire en sorte que son cadrage (c’est à dire, là où je met dans les limites du viseur de ma caméra) soit à la fois simple et propre.*
@@ -7,7 +9,7 @@
 ## Place ta caméra à hauteur de regard
 Pas besoin de faire l’apologie de ton double menton ! N’hésites pas à surélever ta caméra pour faire en sorte que l’objectif soit positionné à la même hauteur que ton regard.  
 
-![3 exemples de cadrages](https://github.com/Julia-barbelane/reflexions/blob/master/photos/me-cadrer-dans-mes-videos-sans-passer-pour-un-clown/a-hauteur-de-regard.png)
+![3 exemples de cadrages](https://github.com/Julia-barbelane/reflexions/blob/master/photos/me-cadrer-dans-mes-videos-sans-passer-pour-un-clown/placer-la-camera-a-hauteur-de-regard.png)
 
 NB : bien sûr avec une intention particulière, tu peux choisir de placer la caméra autrement, mais soit peut-être vigilent au sens que ça a et à comment ce choix se met au service de ton intention.  
 
