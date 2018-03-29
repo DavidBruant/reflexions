@@ -10,16 +10,14 @@ Du coup j'ai décidé de lister les quelques trucs (que je tente de faire et/ou 
 
 Cher·e lecteur·rice, si tu as l'élan et/ou l'inspiration, tu es grandement invité·e à contribuer. Je suis curieuse !!
 
-### Poser une intention claire
-
-
 ### S'appuyer sur les valeurs à défendre
-- Poser des intentions claires et concrètes qui vont guider l'élaboration de l'évent
-- Clarifier, s'aligner sur des valeurs et décider à partir de ces valeurs
+- Poser des intentions claires et concrètes qui vont guider l'élaboration de l'évent : "au service de quoi l'équipe et moi nous mettons en nous engageant dans l'organisation de cet évènement ?"
+- Clarifier, s'aligner sur des valeurs et s'appuyer sur ces valeurs pour faire nos choix.
 
 ### Privilégier le fond sur la forme
-- sacrifier le pragmatisme (délais, technique...) s'il se fait au détirment du sens. 
-Exemple : "On" avait décidé qu'il fallait annoncer le programme d'un évent dans les 7 jours qui arrivaient, sauf que les titres et descriptions n'avaient pas été travaillée avec les personnes en amont. Or 7 jours s'est avéré être un délais trop court pour contacter les intervenants et réécrire leurs tires et descriptions. Résultats : on était prêt·e·s à diffuser des résumés et des intitulés qui ne reflétaient pas toute la richesse des interventions. Pour moi, ce n'est pas prendre soin des futur·e·s participant·e·s, ni des intervenant·e·s. 
+- Sacrifier le pragmatisme (les délais, la technique...) s'il ce dernier dessert le sens. 
+
+J'ai une anecdote à ce sujet. Je faisais alors partie d "On" avait décidé qu'il fallait annoncer le programme d'un évent dans les 7 jours qui arrivaient, sauf que les titres et descriptions n'avaient pas été travaillée avec les personnes en amont. Or 7 jours s'est avéré être un délais trop court pour contacter les intervenants et réécrire leurs tires et descriptions. Résultats : on était prêt·e·s à diffuser des résumés et des intitulés qui ne reflétaient pas toute la richesse des interventions. Pour moi, ce n'est pas prendre soin des futur·e·s participant·e·s, ni des intervenant·e·s. 
 
 ### Sortir des postures hautes
 - Privilégier les Retours d'EXpérience 
