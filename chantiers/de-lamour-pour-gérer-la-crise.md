@@ -2,7 +2,7 @@
 
 # N'est-ce pas dans les situations de crise, de stress qu'on a le plus besoin de douceur et d'amour ?
 
-! [Câlin](https://github.com/Julia-barbelane/reflexions/blob/master/photos/de-lamour-pour-gerer-la-crise.png)
+![Câlin](https://github.com/Julia-barbelane/reflexions/blob/master/photos/de-lamour-pour-gerer-la-crise.png)
 
 Et n'est-ce pas plutôt l'inverse qui se produit ?
 
