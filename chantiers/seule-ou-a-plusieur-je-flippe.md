@@ -2,7 +2,7 @@
 
 ![alone ?](https://github.com/Julia-barbelane/reflexions/blob/master/photos/seule-ou-a-plusieur-je-flippe.png)
 
-C'est parfois difficile pour moi de tenir les projets. Et je suis pas à l'aise avec ça, car j'ai besoin de concret pour me sentir avancer. 
+C'est parfois difficile pour moi de tenir les projets. Et je suis pas à l'aise avec ça, car j'ai besoin de concret pour me sentir avancer. Du coup pafois je travaille seule, parfois je travail à plusieurs.  
 
 ## Constat
 Seule : 
