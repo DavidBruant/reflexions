@@ -1,6 +1,6 @@
 # Pourquoi je suis moins choquée quand une femme exprime son désir envers un homme que quand c'est l'inverse ? 
 
-Question que je me suis posée suite à une discussion avec une amie. On parlait du film Twilight et des quelques scènes où l'acteur jouant Jacob ôte son tee-shirt et dévoile son corps musclé dans une attitude plutôt "sexy" ( [exemple 1](https://giphy.com/gifs/jacob-black-iBjggkiN8H7Xi), [exemple 2](https://giphy.com/gifs/kristen-stewart-twilight-breaking-dawn-PU3FEPxWdLlZe), [exemple 3](https://giphy.com/gifs/taylor-lautner-9AyCWxeUcVhQI), [exemple 4](https://giphy.com/gifs/taylor-lautner-13d5lbSGlgkCd2)).
+Question que je me suis posée suite à une discussion avec une amie. On parlait du film Twilight et des quelques scènes où l'acteur jouant Jacob ôte son tee-shirt et dévoile son corps musclé dans une attitude plutôt "sexy" ([exemple 1](https://giphy.com/gifs/kristen-stewart-twilight-breaking-dawn-PU3FEPxWdLlZe), [exemple 2](https://giphy.com/gifs/taylor-lautner-9AyCWxeUcVhQI), [exemple 3](https://giphy.com/gifs/taylor-lautner-13d5lbSGlgkCd2)).
 
 Loin d'être convaincue d'avoir raison, plusieurs explications : 
 - La question du fantasme sur le corps de l'homme n'est pas une "problématique sociétale"
