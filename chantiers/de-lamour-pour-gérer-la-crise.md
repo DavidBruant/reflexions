@@ -4,7 +4,7 @@
 
 ![Câlin](https://github.com/Julia-barbelane/reflexions/blob/master/photos/de-lamour-pour-gerer-la-crise.png)
 
-Et n'est-ce pas plutôt l'inverse qui se produit ?
+Or, c'est plutôt l'inverse qui se produit, non ?
 
 Après un conflit, un désaccord ou une dispute (ou tout autre situation qui a clairement endomagé la relation à l'instant T) on peut facilement éprouver le besoin de signifier TRES clairement à l'autre que c'est pas OK pour nous et qu'on se sent mal. 
 
