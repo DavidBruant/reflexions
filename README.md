@@ -43,3 +43,5 @@ Un endroit ou poser mes réflexions, travaux, articles, idées en cours...Histoi
 - [Astuce pour sortir du statut quo et agir dans le sens de l'auto-régulation sociale - *avec David Bruant*](https://docs.google.com/document/d/14e2l6H2w-TiGlExbOjPkkr6BujGi5I-u2fs5HyF0VA8/edit)  
 - [Et si le collaboratif dans un projet était le projet en lui-même ?](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/le-collaboratif-est-le-projet-lui-m%C3%AAme.md)  
 - [Code Of Conduct : Pour VS Contre](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/CoC-pour-VS-contre.md)
+- [Sexisme envers les hommes ?](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/sexisme-envers-les-hommes.md)
+- [Seule ou à plusieurs, je flippe](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/seule-ou-a-plusieur-je-flippe.md)
