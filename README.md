@@ -26,6 +26,7 @@ Un endroit ou poser mes réflexions, travaux, articles, idées en cours...Histoi
 ### Interactions
 [Créer un contexte de collaboration Safe](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/creer-un-cadre-de-collaboration-safe.md)  
 [La théorie de l'angle-mort selon David Bruant](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/la-theorie-de-l-angle-mort.md)  
+[De l'amour pour gérer les crises ?](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/de-lamour-pour-g%C3%A9rer-la-crise.md)  
 
 ### Apprentissage
 [Etre précis·e·s dans l'utilisation de nouveaux outils](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/etre-pr%C3%A9cis-dans-l-utilisation-de-nos-outils-collaboratifs.md)  
