@@ -6,7 +6,7 @@
 
 Or, c'est plutôt l'inverse qui se produit, non ?
 
-Après un conflit, un désaccord ou une dispute (ou tout autre situation qui a clairement endomagé la relation à l'instant T) on peut facilement éprouver le besoin de signifier TRES clairement à l'autre que c'est pas OK pour nous et qu'on se sent mal. 
+Après un conflit, un désaccord ou une dispute (ou tout autre situation qui a clairement endomagé la relation à l'instant T) on peut facilement éprouver le besoin de signifier très clairement à l'autre que c'est pas OK pour nous et qu'on se sent mal. 
 
 D'ailleurs on a mis en place tout plein de stratégies pour ça : souffler fort, "faire la gueule", tourner le dos, crier, ignorer, partir en claquant la porte, disparaître, garder le silence, calomnier, faire des sarcasmes, "mal regarder"...
 
