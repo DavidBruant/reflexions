@@ -45,3 +45,4 @@ Un endroit ou poser mes réflexions, travaux, articles, idées en cours...Histoi
 - [Code Of Conduct : Pour VS Contre](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/CoC-pour-VS-contre.md)
 - [Sexisme envers les hommes ?](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/sexisme-envers-les-hommes.md)
 - [Seule ou à plusieurs, je flippe](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/seule-ou-a-plusieur-je-flippe.md)
+- [Faire des events autrement](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/faire-des-events-autrement.md)
