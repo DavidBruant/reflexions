@@ -24,7 +24,9 @@ J'ai une anecdote à ce sujet. Je faisais alors partie d "On" avait décidé qu'
 - Ignorer la question de la notoriété des intervenants pour privilégier le contenu des sujets.
 - Utiliser des formats qui "font descendre de la scène" : ateliers, théâtre forum, ballades, forum ouverts...
 - Repenser l'organisation des salles de conférences : disposer les participant·e·s en demi cercle, positionner l'orateur de plein pied à l'intérieur du demi-cercle
-- Faciliter la circulation des participant·e·s pour qu'ils·elles puissent facilement quitter la conférence si il·elle le souhaite : créer des espaces entre les chaises, faire des ilôts de chaises plutôt que des grandes lignes
+- Faciliter la circulation des participant·e·s pour qu'ils·elles puissent facilement quitter la conférence si il·elle le souhaite : créer des espaces entre les chaises, faire des ilôts de chaises plutôt que des grandes lignes (cf schéma ci-dessous avec l'exemple de l'organisation de la salle de conférence de SudWeb).
+
+![organisation de la salle de conférence de SudWeb](https://github.com/Julia-barbelane/reflexions/blob/master/photos/faire-des-events-autrement/orga-salle-conf-sudweb.jpg)
 
 
 ### Co-créer - utiliser l'intelligence collective
@@ -46,9 +48,7 @@ L'équipe créé est garante de la culture et de l'énergie qu'il y aura dans l'
 ### Etre "en soin"
 - Avoir un posture inclusive en mettant en place un "Code of Conduct" et proposer des tarifs abordables et/ou des possibilités d'achat solidaires et/ou des tickets de diversité
 - [Proposer des outils](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/creer-un-cadre-de-collaboration-safe.md) pour créer un cadre d'interactions safe
-- Avoir au moins un·e membre de l'équipe d'organisation opérationnel·le (active, présente, qui se sent prête) pour observer, gérer et prendre soin des interactions entre les Humains en présence (cf schéma ci-dessous avec l'exemple de l'organisation de la salle de conférence de SudWeb)
-
-![organisation de la salle de conférence de SudWeb](https://github.com/Julia-barbelane/reflexions/blob/master/photos/faire-des-events-autrement/orga-salle-conf-sudweb.jpg)
+- Avoir au moins un·e membre de l'équipe d'organisation opérationnel·le (active, présente, qui se sent prête) pour observer, gérer et prendre soin des interactions entre les Humains en présence 
 
 ### Cultiver le lien et la rencontre 
 - Créer des temps/espaces informels dans lesquels les participant·e·s peuvent échanger librement et créer spontanemment leur propre contenu
