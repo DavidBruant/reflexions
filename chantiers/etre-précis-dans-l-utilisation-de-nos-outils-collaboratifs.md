@@ -10,7 +10,7 @@ Dans mon processus d'exploration, je découvre plein d'outils et de pratiques su
 
 J'adore ! Chaque découverte réactive ma soif d'apprendre et ma "foi" en l'idée que des façons de faire plus soutenables existent.
 
-Mais en tentant de les éprouver (et en observant d'autres le faire), je réalise que j'ai très vite tendance à utiliser ces "nouveaux outils" avec des "postures d'avant". 
+Mais en tentant de les éprouver (et en observant d'autres le faire), je réalise que j'ai très vite tendance à utiliser ces "nouveaux outils" avec des "postures d'avant".
 
 ## La précision : le bouclier contre mes vieux réflexes ?
 
