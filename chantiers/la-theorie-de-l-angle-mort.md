@@ -1,5 +1,7 @@
 # La Théorie de l'angle mort - *selon David Bruant*
 
+![et toi c'est quoi ton angle mort ?](https://github.com/Julia-barbelane/reflexions/blob/master/photos/la-theorie-de-langle-mort.png)
+
 Il arrive parfois que certaines choses me parraissent évidentes. J'observe des trucs qui sont en train de se passer et ça me saute aux yeux avec force et fracas là où mes accolytes/compagnons/collaborat·rice·eur·s du moment ne perçoivent rien. 
 
 Deux postures se présentent alors à moi : 
