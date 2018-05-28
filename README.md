@@ -1,10 +1,3 @@
-# Réflexions
-Un endroit où poser mes réflexions, travaux, articles, idées en cours...Histoire de pas les perdre et en même temps les rendre accessibles.
-
-![reflexions !](https://github.com/Julia-barbelane/reflexions/blob/master/photos/icone-reflexions.png)
-
-## Glossaire
-
 ### Lettres ouvertes à mes client·e·s
 [Merci à toi](chantiers/lettres-ouvertes/merci-a-toi.md)  
 [Ma meilleure pub c'est toi](chantiers/lettres-ouvertes/ma-meilleure-pub-c-est-toi.md)  
