@@ -4,24 +4,24 @@
 
 *La bonne nouvelle c’est que (contrairement à la configuration audio — lire l’article) il existe des solutions “pré-mâchées” pour faire en sorte que son cadrage (c’est à dire, là où je met dans les limites du viseur de ma caméra) soit à la fois simple et propre.*
 
-![clown](https://github.com/Julia-barbelane/reflexions/blob/master/photos/me-cadrer-dans-mes-videos-sans-passer-pour-un-clown/clown.jpeg)
+![clown](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/me-cadrer-dans-mes-videos-sans-passer-pour-un-clown/clown.jpeg)
 
 ## Place ta caméra à hauteur de regard
 Pas besoin de faire l’apologie de ton double menton ! N’hésites pas à surélever ta caméra pour faire en sorte que l’objectif soit positionné à la même hauteur que ton regard.  
 
-![3 exemples de cadrages](https://github.com/Julia-barbelane/reflexions/blob/master/photos/me-cadrer-dans-mes-videos-sans-passer-pour-un-clown/placer-la-camera-a-hauteur-de-regard.png)
+![3 exemples de cadrages](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/me-cadrer-dans-mes-videos-sans-passer-pour-un-clown/placer-la-camera-a-hauteur-de-regard.png
 
 NB : bien sûr avec une intention particulière, tu peux choisir de placer la caméra autrement, mais soit peut-être vigilent au sens que ça a et à comment ce choix se met au service de ton intention.  
 
 ## Prend soin de la hauteur du haut du cadre
 Le haut de ton image doit presque toucher le haut de ton crâne au lieu de couper le milieu de ton front ou à l’inverse de laisser un grand espace au dessus de ta tête.  
 
-![la hauteur de cadre](https://github.com/Julia-barbelane/reflexions/blob/master/photos/me-cadrer-dans-mes-videos-sans-passer-pour-un-clown/hauteur-de-cadre.png)
+![la hauteur de cadre](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/me-cadrer-dans-mes-videos-sans-passer-pour-un-clown/hauteur-de-cadre.png)
 
 ## Visualise un “grille invisible” pour savoir où te placer dans le cadre
 Imagine qu’il y a une grille par dessus ton image. Tu peux te placer au centre, sur le ligne 1 ou sur la ligne 2 . Dans tous les cas fais en sorte que ton nez soit sur une des intersections de la ligne la plus haute.  
 
-![imagine une grille invisible](https://github.com/Julia-barbelane/reflexions/blob/master/photos/me-cadrer-dans-mes-videos-sans-passer-pour-un-clown/la-grille-invisible.png)
+![imagine une grille invisible](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/me-cadrer-dans-mes-videos-sans-passer-pour-un-clown/la-grille-invisible.png)
 
 **Pourquoi se placer sur les lignes 1 ou 2 ?**
 Pour moi, choisir ce type de cadrage à du sens si il se passe quelque chose dans la partie “ouverte”. C’est-à-dire que ça doit apporter quelque chose en plus (du fond ou de la forme) :
@@ -35,7 +35,7 @@ NB : a mon sens, il n’y a cependant pas de “règles” établies pour se po
 
 ## Choisi la valeur de plan qui s’accorde mieux avec ton intention
 
-![exemple de 3 valeurs de plans](https://github.com/Julia-barbelane/reflexions/blob/master/photos/me-cadrer-dans-mes-videos-sans-passer-pour-un-clown/valeurs-de-plans.png)
+![exemple de 3 valeurs de plans](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/me-cadrer-dans-mes-videos-sans-passer-pour-un-clown/valeurs-de-plans.png)
 
 **Plus le plan est serré** plus ça créé une intimité, plus il y a de parti pris, plus tu peux gruger un vilain décor, plus on voit tes “petits défaults”.  
 
