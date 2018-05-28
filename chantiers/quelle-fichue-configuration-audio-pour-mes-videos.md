@@ -25,17 +25,17 @@ Se mettre à la vidéo c'est forcément devoir faire face à la technique et la 
 
 > "Je veux faire un Vlog sur lequel je publie des vidéos spontanées prises avec mon téléphone portable. Je cherche donc un micro à relier directement à mon téléphone. Les prises de vues seront des gros plans fixes sur ma tronche (en intérieur et en extérieur). Je ne veux pas un son professionnel mais juste un son un peu plus clair et focalisé sur ma voix. J'ai un tout petit budget."
 
-**2. Mettre *"les mains dans le cambouis"* et aller voir des tutos, chercher, comparer et oser acheter !**  
+**2. Mettre "les mains dans le cambouis" et aller voir des tutos, chercher, comparer et oser acheter !**  
 Fouille ! Parcours le web, va sur des forums, regarde des vidéos de présentation de matos, lis des articles de comparaison et de test. Non seulement tu vas mieux savoir ce dont tu as besoin mais tu vas aussi développer ton sens de l'autonomie et ton esprit critique.
 > "Maintenant que je sais mieux ce que je veux faire en vidéo, je parcours le web et découvre une grande quantité d'options. Je découvre entre autre que le son de mon kit main libre peut peut-être faire l'affaire. J'achète quand même un micro que plusieurs Youtubeurs conseillent pour tester."
 
-**3. Tester les micros qui t'intéressent** (Test basiques. Pour des configuration plus complexes avec des pré-ampli par exemple, c'est encore autre chose).
+**3. Tester les micros qui t'intéressent** (Test basiques. Pour des configuration plus complexes avec des pré-ampli par exemple, c'est encore autre chose).  
 Une fois que tu as reçu/récupéré les micros ou enregistreurs externes (zoom, dictaphone…) qui t'intéressent, installes-toi confortablement dans une pièce silencieuse qui ne résonne pas.  
 Relies ton micro à ton appareil via l'entrée micro (mic).  
 Enregistres 30 secondes du même propos avec chacun des différents micros (et/ou appareils). Fais aussi une prise sans micro.* Tu vas vite voir ce qui te convient ou pas et quel est le son le plus clair.  
 
-*Points de vigilance:*
-**1 - Le gain :** selon l'appareil qui enregistre tu peux parfois régler le gain (volume de l'entrée du micro réglable depuis le menu de l'appareil qui enregistre). Si c'est le cas, veille à ce que l'audiomètre (celui qui mesure le volume représenté par une petite barre qui monte et qui descend en fonction de si tu parles fort ou pas) affiche le même gain, soir 2/3 de l'affichage au total.
+*Points de vigilance:*  
+**1 - Le gain :** selon l'appareil qui enregistre tu peux parfois régler le gain (volume de l'entrée du micro réglable depuis le menu de l'appareil qui enregistre). Si c'est le cas, veille à ce que l'audiomètre (celui qui mesure le volume représenté par une petite barre qui monte et qui descend en fonction de si tu parles fort ou pas) affiche le même gain, soir 2/3 de l'affichage au total.  
 **2 - la disposition :** veille à ce que pour chacune des prises les micros soient placés au même et au bon endroit (le plus près de la bouche possible et dans le sens du souffle tout en restant vigilant à ce que le gain (représenté par l'audiomètre) ne sature pas.
 
 ## L'exception qui confirme la règle : le smartphone
