@@ -1,5 +1,8 @@
 # Comment mon badge pour SudWeb a atterri au milieu des mes photos de famille
-"Tu vas voir, c'est pas tout à fait des Bisounours mais presque." C'est ce que me disait mon pote sur le trajet en direction d'Aix-en-Provence. Je m'étais joyeusement laissée embarquer à SudWeb pour animer une session de Forum Ouvert pour notre projet "Plein Phare". Il était 16h30 et j'étais loin d'imaginer à quel point c'était vrai…
+*"Tu vas voir, c'est pas tout à fait des Bisounours mais presque." C'est ce que me disait mon pote sur le trajet en direction d'Aix-en-Provence. Je m'étais joyeusement laissée embarquer à SudWeb pour animer une session de Forum Ouvert pour notre projet "Plein Phare". Il était 16h30 et j'étais loin d'imaginer à quel point c'était vrai…*
+
+![Mon badge au milieu des mes photos de famille](https://github.com/Julia-barbelane/reflexions/blob/master/photos/comment-mon-badge-de-sudweb-a-atterit-au-milieu-de-mes-photos-de-familles/badge-au-milieu-de-mes-photos-de-familles.jpeg)
+
 Comment je me suis retrouvée là-bas
 Pendant longtemps j'ai eu envie de développer un projet à destination des jeunes. Un jour j'ai décidé de m'y mettre. Puis Steph est arrivé. On a décidé de s'y mettre à deux, puis à quatre lorsque Sonia et Louna, 17 ans, nous ont rejoints.
 Dès lors, je me suis retrouvée propulsée dans une monde jusqu'alors inconnu : celui de la collaboration, de l'agilité et du web.
