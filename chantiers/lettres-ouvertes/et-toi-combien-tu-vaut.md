@@ -1,6 +1,6 @@
 # Et toi combien tu vaut ? 
 
-![chouette ton chien !](https://github.com/Julia-barbelane/reflexions/blob/master/photos/et-toi-combien-tu-vaut-ok.png)
+![chouette ton chien !](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/et-toi-combien-tu-vaut-ok.png)
 
 Cher·e Client·e
 
