@@ -29,7 +29,8 @@ Un jus d'oranges pressées plus tard, on prend nos clics et nos clacs et on dém
 
 ## 10h15 - 6 rue Levat
 On est accueillis comme des rois au 6 rue Levat au "Gazette Café" et (privilège d'avoir une des serveuses dans notre équipe) on nous ouvre l'accès à la salle de conférence.
-**Étape n°1 : définir le Customer Segment**
+
+**Étape n°1 : définir le Customer Segment**  
 C'est la "tribu" à laquelle on compte s'adresser. Toujours munis de nos feutres et post-it on s'empare de la baie vitrée pour faire nos propositions !
 > " C'est une méthode très facile à comprendre mais extrêmement difficile à mettre en place" - Stéphane Langlois.
 
@@ -41,7 +42,7 @@ Un cappuccino, des nœuds au cerveau et un grand sourire plus tard on quitte la 
 
 En véritables péripatéticiens*, Aurélie et Steph, mettent chaque temps de marche au profit de la journée : questions, rétrospectives, bilans, propositions…ça fuse !
 
-> * "Péripatéticien est un terme tiré du grec ancien περιπατητικός (peripatetikós, littéralement « qui se promène en discutant »). C'est Aristote en personne qui développe l'usage de ce mot. Non pour désigner les femmes aux mœurs légères, mais ses propres disciples ! En fait, l'école aristotélicienne est aussi appelée école péripatéticienne tout simplement parce qu'Aristote et ses disciples ont l'habitude de discuter - ou plutôt de philosopher - en marchant." #ETC
+> "Péripatéticien est un terme tiré du grec ancien περιπατητικός (peripatetikós, littéralement « qui se promène en discutant »). C'est Aristote en personne qui développe l'usage de ce mot. Non pour désigner les femmes aux mœurs légères, mais ses propres disciples ! En fait, l'école aristotélicienne est aussi appelée école péripatéticienne tout simplement parce qu'Aristote et ses disciples ont l'habitude de discuter - ou plutôt de philosopher - en marchant." #ETC
 
 ## 11h30 - 4 Rue de l'École de Pharmacie
 On passe les portes de la "Panacée". C'est à la fois un lieu d'expo et un resto. Ici l'atelier consiste à définir le Customer Segment de nos projets respectifs. Pour ça chacun dessine son propre Lean Canvas (sur son set de table) et c'est reparti ! Une petite équipe en profite même pour travailler en visitant l'exposition.
@@ -55,19 +56,19 @@ Rassasiés direction "l'Instant Thé". On s'installe à l'étage. L'espace est i
 
 ![La tête en bas dans un salon de thé.](https://github.com/Julia-barbelane/reflexions/blob/master/photos/walking-dev-ou-comment-apprendre-en-itin%C3%A9rance/rue-de-luniversit%C3%A9.jpeg)
 
-**Étape n°2 : supposer des problèmes**
+**Étape n°2 : supposer des problèmes**  
 La méthode Running Lean est efficace car elle nécessite qu'on s'interroge réellement sur les besoins auxquels notre produit/service/projet répond. Pour ça, il faut imaginer 3 problèmes auxquels notre Customer Segment peut-être confronté.
 
 ![rue de l'université 2](https://github.com/Julia-barbelane/reflexions/blob/master/photos/walking-dev-ou-comment-apprendre-en-itin%C3%A9rance/rue-de-luniversit%C3%A9-2.jpeg)
 
-**Étape n°3 : les interviews problèmes**
+**Étape n°3 : les interviews problèmes**  
 Pour valider ces "supposés" problèmes, le Running Lean s'utilise avec une méthode "d'interviews problèmes" très spécifique. Par exemple elle ne peut pas durer plus de 23 minutes, chaque phase est strictement chronométrée et il est interdit de prendre des notes pendant l'échange.
 
 > "Pour apprendre à mener les interviews, je vous conseille de vous mettre dans la posture "Shu Ha Ri" utilisée par les maîtres Ninja : Shu : le disciple apprend les fondamentaux en suivant les règles édictées par le maître. Ha : ayant maîtrisé les fondamentaux, le disciple applique les règles en les questionnant, en comprenant leurs subtilités et en cherchant les exceptions. Ri : le disciple ayant maîtrisé les règles, peut les transcender et les adapter."
 
 ![La méthode des interviews problèmes](https://github.com/Julia-barbelane/reflexions/blob/master/photos/walking-dev-ou-comment-apprendre-en-itin%C3%A9rance/rue-de-luniversit%C3%A9-3.jpeg)
 
-##17h - 6 Rue Loys
+## 17h - 6 Rue Loys  
 C'est l'heure du goûter, on atterrit au "Fairview Café". Je suis crevée mais la richesse de tout ce contenu partagé me permet de rester connectée à l'envie d'en savoir plus. Et puis il y a des cheesecakes…
 
 > "Le plus important dans la méthode Running Lean ce sont les étapes 1, 2 et les interviews problèmes. Dès que ce cap est passé, le plus dur est fait."
