@@ -13,11 +13,11 @@ Un endroit ou poser mes réflexions, travaux, articles, idées en cours...Histoi
 
 ### La vidéo et moi 
 [La théorie de l'adorement](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/la-theorie-de-l-adorement.md)  
-[Tournage en résidence avec 2 clientes](https://medium.com/@julia.barbelane/tournage-en-r%C3%A9sidence-avec-2-clientes-91066f80b2a5)  
+[Tournage en résidence avec 2 clientes](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/tournage-en-residence-avec-deux-clientes.md)  
 [Web et vidéo, et si on essayait de pas faire n'importe quoi ?](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/web-et-video-si-on-essayait-de-ne-pas-faire-n-importe-quoi.md)  
 
 ### Tutos vidéos
-[Quelle fichue configuration audio pour mes vidéos ?](https://medium.com/@julia.barbelane/quelle-p-de-configuration-audio-pour-mes-vid%C3%A9os-bea1dc9e5285)  
+[Quelle fichue configuration audio pour mes vidéos ?](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/quelle-fichue-configuration-audio-pour-mes-videos.md)  
 [Me cadrer dans mes vidéos sans passer pour un clown](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/me-cadrer-dans-mes-videos-sans-passer-pour-un-clown.md)  
 
 ### Rencontre & evenements
