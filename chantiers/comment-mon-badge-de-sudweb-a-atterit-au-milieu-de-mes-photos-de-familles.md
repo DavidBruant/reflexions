@@ -3,14 +3,19 @@
 
 ![Mon badge au milieu des mes photos de famille](https://github.com/Julia-barbelane/reflexions/blob/master/photos/comment-mon-badge-de-sudweb-a-atterit-au-milieu-de-mes-photos-de-familles/badge-au-milieu-de-mes-photos-de-familles.jpeg)
 
-Comment je me suis retrouvée là-bas
-Pendant longtemps j'ai eu envie de développer un projet à destination des jeunes. Un jour j'ai décidé de m'y mettre. Puis Steph est arrivé. On a décidé de s'y mettre à deux, puis à quatre lorsque Sonia et Louna, 17 ans, nous ont rejoints.
-Dès lors, je me suis retrouvée propulsée dans une monde jusqu'alors inconnu : celui de la collaboration, de l'agilité et du web.
-Ensemble on a commencé à développer un projet qu'on a appelé "Plein Phare*". L'intention ? Apporter une réponse originale à la question sclérosante "qu'est-ce que je vais faire plus tard ?".
-* Ce sont les filles qui ont choisi ce nom en référence à un problème de math du brevet d'il y a quelques années, qui avait fait des émules tellement les jeunes avaient été stressés par l'épreuve.
-On avait à cœur de monter un projet à la fois pertinent (qui répondait à de vrais besoins) et à la fois enthousiasmant.
-Pour ça on a décidé d'utiliser la méthode Running Lean, d'animer nos rencontres par des jeux, de travailler dans des lieux atypiques, d'utiliser des méthodes de travail interactives et collaboratives et de privilégier les ateliers aux réunions.
-→ Si ça t'inspire, le Github est par là et le site par ici !
+## Comment je me suis retrouvée là-bas
+Pendant longtemps j'ai eu envie de développer un projet à destination des jeunes. Un jour j'ai décidé de m'y mettre. Puis Steph est arrivé. On a décidé de s'y mettre à deux, puis à quatre lorsque Sonia et Louna, 17 ans, nous ont rejoints.  
+Dès lors, je me suis retrouvée propulsée dans une monde jusqu'alors inconnu : celui de la collaboration, de l'agilité et du web.  
+Ensemble on a commencé à développer un projet qu'on a appelé "Plein Phare*". L'intention ? Apporter une réponse originale à la question sclérosante *"qu'est-ce que je vais faire plus tard ?"*.  
+
+>* Ce sont les filles qui ont choisi ce nom en référence à un problème de math du brevet d'il y a quelques années, qui avait fait des émules tellement les jeunes avaient été stressés par l'épreuve.
+
+On avait à cœur de monter un projet à la fois pertinent (qui répondait à de vrais besoins) et à la fois enthousiasmant.  
+
+Pour ça on a décidé d'utiliser la méthode Running Lean, d'animer nos rencontres par des jeux, de travailler dans des lieux atypiques, d'utiliser des méthodes de travail interactives et collaboratives et de privilégier les ateliers aux réunions.  
+
+→ Si ça t'inspire, le Github est par [là](https://github.com/pleinphare) et le site par [ici](http://www.pleinphare.xyz/) !
+
 Résultat : un séminaire autogéré et participatif ponctué par des ateliers interactifs, fun et sexy . Yesss ! On y était. Manquait plus qu'à le confronter maintenant. D'où notre présence à SudWeb…
 Vendredi 20 mai, la soirée communautaire
 18h. On vient d'arriver. Ça applaudit sévère dans la salle de conférence. Ils ont tous l'air contents.
