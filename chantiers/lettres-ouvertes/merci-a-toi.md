@@ -1,6 +1,6 @@
 # Merci à toi.
 
-![la tignasse en pétard](https://github.com/Julia-barbelane/reflexions/blob/master/photos/merci-a-toi.png)
+![la tignasse en pétard](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/merci-a-toi.png)
 
 Cher·e Client·e, 
 
