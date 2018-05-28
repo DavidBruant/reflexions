@@ -1,5 +1,7 @@
 # La précision : gardienne de la pertinence ?
 
+![la précision !](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/precision.png)
+
 ## Lexique
 **Outils et pratiques** : ici il s'agit de l'agilité, la Communication Non Violente, le Lean, le Forum Ouvert, le Scrum, GitHub, Slack, la "formation"...  
 **Façons de faire plus soutenables** : fonctionnements qui privilégient le bien-être (moral, physique, émotionnels) et qui prennent soin du vivant (développement durable au sens très large)  
