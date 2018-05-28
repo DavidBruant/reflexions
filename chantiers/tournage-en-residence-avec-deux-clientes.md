@@ -1,8 +1,8 @@
-*février 2017
+*février 2017*
 
 # Tournage en résidence avec 2 clientes
 
-*Ce que je préfère (et de loin) dans mon métier c'est le challenge et l'aventure du moment du tournage. Bienvenue en imersion….!*
+*Ce que je préfère (et de loin) dans mon métier c'est le challenge et l'aventure du moment du tournage. Bienvenue en immersion….!*
 
 ## Mercredi 15 février
 
@@ -10,9 +10,9 @@
 
 **11h30.** J'arrive au village. J'ai rendez-vous avec Maëlle et Magalie les fondatrices de Ma BiHo Box pour tourner la vidéo qui présente leur univers, leur concept et leur produit. Elles sont avec Jeanne et Gabrielle, 2 ados venues prêter main forte.  
 
-![la team Ma BiHo Box](https://github.com/Julia-barbelane/reflexions/blob/master/photos/tournage-en-residence-avec-deux-clientes/ma-biho-box-team.png)
+![la team Ma BiHo Box](https://github.com/Julia-barbelane/reflexions/blob/master/photos/tournage-en-residence-avec-deux-clientes/ma-biho-box-team.png)  
 
-Maëlle (2) et Magalie (4) fondatrices de Ma BiHo Box, nos 2 assistantes de tournage (1 &2) et moi-même (5) à la fin du tournageMa BiHo Box est une box de produits bios, secs et bruts, livrée à domicile. Elle s'accompagne de vidéos, de recettes et outils cuisine pratiques pour accompagner à manger sain avec gourmandise et autonomie.  
+Ma BiHo Box est une box de produits bios, secs et bruts, livrée à domicile. Elle s'accompagne de vidéos, de recettes et outils cuisine pratiques pour accompagner à manger sain avec gourmandise et autonomie.  
 Le challenge pour le lieu était de trouver une maison avec une cuisine adaptée au tournage : en accord avec l'univers des filles, ouverte, lumineuse, moderne, esthétique, suffisamment spacieuse pour qu'on ait de la mobilité une bonne marge de manœuvre en terme de cadrage.  
 Challenge réussi : on va passer les 3 prochains jours dans une maison d'architecte en pleine campagne.  
 
@@ -56,7 +56,7 @@ Ce moment fait un peu mal au cœur mais c'est une sorte de passage obligé pour 
 
 **14h.** Fin de tournage ! Tout est dans la boîte. Le matos aussi. On profite du repas pour faire une rétrospective. Comment ça s'est passé pour chacune d'entre nous ? Qu'est-ce qui a fonctionné ? Qu'est-ce qui est à améliorer ?
 
-*Notre premier tournage ? Impressionnées, hésitantes mais ravies de cette expérience !*
+*"Notre premier tournage ? Impressionnées, hésitantes mais ravies de cette expérience !"*
 
 **15h30.** Je reprends la route. Un peu fatiguée mais ravie de ces moments partagés, enthousiaste à l'idée de recommencer et surtout pleine de reconnaissance à l'idée de pouvoir vivre des expériences professionnelles aussi épanouissantes. Comme quoi c'est possible : indépendance ne rime pas toujours avec contraintes et difficultés…
 
