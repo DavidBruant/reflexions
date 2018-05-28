@@ -56,3 +56,5 @@ Ce moment fait un peu mal au cœur mais c'est une sorte de passage obligé pour 
 *Notre premier tournage ? Impressionnées, hésitantes mais ravies de cette expérience !*
 
 **15h30.** Je reprends la route. Un peu fatiguée mais ravie de ces moments partagés, enthousiaste à l'idée de recommencer et surtout pleine de reconnaissance à l'idée de pouvoir vivre des expériences professionnelles aussi épanouissantes. Comme quoi c'est possible : indépendance ne rime pas toujours avec contraintes et difficultés…
+
+[![Alt text](https://github.com/Julia-barbelane/reflexions/blob/master/photos/tournage-en-residence-avec-deux-clientes/appercu-video.png)](https://vimeo.com/211286297)]
