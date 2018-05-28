@@ -5,7 +5,7 @@
 
 *Je trouve l’outil vidéo magnifique et je suis enchantée de voir la production audiovisuelle se démocratiser. En même temps, je m’interroge sur le contenu créé et partagé. Est-il réellement créateur de valeur ? J’en doute….*
 
-![web-et-vidéo](https://github.com/Julia-barbelane/reflexions/blob/master/photos/web-et-video.jpeg)
+![web-et-vidéo](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/web-et-video.jpeg)
 
 ## Vive la démocratisation de la production audiovisuelle !
 
