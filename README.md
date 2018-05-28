@@ -19,11 +19,11 @@
 ### Interactions
 [Créer un contexte de collaboration Safe](chantiers/creer-un-cadre-de-collaboration-safe.md)  
 [La théorie de l'angle-mort selon David Bruant](chantiers/la-theorie-de-l-angle-mort.md)  
-[De l'amour pour gérer les crises ?](chantiers/de-lamour-pour-g%C3%A9rer-la-crise.md)  
+[De l'amour pour gérer les crises ?](chantiers/de-lamour-pour-gerer-la-crise.md)  
 
 ### Apprentissage
-[Etre précis·e·s dans l'utilisation de nouveaux outils](chantiers/etre-pr%C3%A9cis-dans-l-utilisation-de-nos-outils-collaboratifs.md)  
-[Walking Dev ou comment apprendre en itinérance](chantiers/walking-dev-ou-comment-apprendre-en-itin%C3%A9rance.md)  
+[Etre précis·e·s dans l'utilisation de nouveaux outils](chantiers/etre-precis-dans-l-utilisation-de-nos-outils-collaboratifs.md)  
+[Walking Dev ou comment apprendre en itinérance](chantiers/walking-dev-ou-comment-apprendre-en-itinerance.md)  
 
 ### L'aventure SudWeb : une série d'articles qui retracent la construction de l'event 2018
 [Ratatiner les croyances pour sublimer les valeurs](https://sudweb.fr/blog/2018/ratatiner-les-croyances-pour-sublimer-les-valeurs/)  
@@ -34,7 +34,7 @@
 - [les Code of conduct](chantiers/code-of-conduct.md)  
 - ["Celles et ceux qui savent font, celles et ceux qui comprennent enseignent"?](chantiers/ceux-qui-savent-font-ceux-qui-comprennent-enseignent.md)  
 - [Sortir du statut quo et agir dans le sens de l'auto-régulation sociale ?](chantiers/sortir-du-statut-quo-et-agir-dans-le-sens-de-l'auto-régulation-sociale.md)  
-- [Et si le collaboratif dans un projet était le projet en lui-même ?](chantiers/le-collaboratif-est-le-projet-lui-m%C3%AAme.md)  
+- [Et si le collaboratif dans un projet était le projet en lui-même ?](chantiers/le-collaboratif-est-le-projet-lui-meme.md)  
 - [Code Of Conduct : Pour VS Contre](chantiers/CoC-pour-VS-contre.md)
 - [Sexisme envers les hommes ?](chantiers/sexisme-envers-les-hommes.md)
 - [Seule ou à plusieurs, je flippe](chantiers/seule-ou-a-plusieur-je-flippe.md)
