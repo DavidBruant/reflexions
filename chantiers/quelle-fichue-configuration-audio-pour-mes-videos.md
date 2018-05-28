@@ -1,3 +1,5 @@
+*avril 2017*
+
 # Quelle fichue configuration audio pour mes vidéos ???
 
 "*Apprendre à présenter son projet avec coeur et les moyens du bord en vidéo". C'est le nom du parcours de formation que j'ai créé. Durant ce parcours (semé d'embuches !) de l'auto-production audiovisuelle, le vidéaste amateur passe indéniablement par la case "prise de son". Quand on sait que "le son prévaut sur l'image", on a de quoi se poser la question. Mauvaise nouvelle, je n'ai pas vraiment encore trouvé de réponses…*
