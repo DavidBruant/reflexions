@@ -21,7 +21,7 @@ Un endroit ou poser mes réflexions, travaux, articles, idées en cours...Histoi
 [Me cadrer dans mes vidéos sans passer pour un clown](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/me-cadrer-dans-mes-videos-sans-passer-pour-un-clown.md)  
 
 ### Rencontre & evenements
-[Comment mon badge de SydWeb a atterit au milieu de mes photos de familles](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/comment-mon-badge-de-sudweb-a-atterit-au-milieu-de-mes-photos-de-familles.md)  
+[Comment mon badge de SudWeb a atterit au milieu de mes photos de familles](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/comment-mon-badge-de-sudweb-a-atterit-au-milieu-de-mes-photos-de-familles.md)  
 
 ### Interactions
 [Créer un contexte de collaboration Safe](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/creer-un-cadre-de-collaboration-safe.md)  
