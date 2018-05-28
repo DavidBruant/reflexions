@@ -10,7 +10,7 @@ Ensemble on a commencé à développer un projet qu'on a appelé "Plein Phare*".
 
 ![capture d'écran du site](https://github.com/Julia-barbelane/reflexions/blob/master/photos/comment-mon-badge-de-sudweb-a-atterit-au-milieu-de-mes-photos-de-familles/capture-photo-plein-phare.jpeg)
 
->* Ce sont les filles qui ont choisi ce nom en référence à un problème de math du brevet d'il y a quelques années, qui avait fait des émules tellement les jeunes avaient été stressés par l'épreuve.
+> Ce sont les filles qui ont choisi ce nom en référence à un problème de math du brevet d'il y a quelques années, qui avait fait des émules tellement les jeunes avaient été stressés par l'épreuve.
 
 On avait à cœur de monter un projet à la fois pertinent (qui répondait à de vrais besoins) et à la fois enthousiasmant.  
 
@@ -25,13 +25,13 @@ Résultat : un séminaire autogéré et participatif ponctué par des ateliers 
 ## Vendredi 20 mai, la soirée communautaire
 
 **18h.** On vient d'arriver. Ça applaudit sévère dans la salle de conférence. Ils ont tous l'air contents.  
-**18h30.** Je me prends une vague de développeurs, designer, intégrateurs, entrepreneurs… dans la tronche. Ils viennent de sortir. Tous sur la pelouse, c'est la photo de famille. Je me fais toute petite… pas évident de débarquer dans la tribu.  
+**18h30.** Je me prends une vague de développeu·r·euse·s, designe·r·euse·s, intégrat·eur·rices·s, entrepren·eur·euse·s… dans la tronche. Il·elle·s viennent de sortir. Tou·te·s sur la pelouse, c'est la photo de famille. Je me fais toute petite… pas évident de débarquer dans la tribu.  
 
 ![photo SudWeb](https://github.com/Julia-barbelane/reflexions/blob/master/photos/comment-mon-badge-de-sudweb-a-atterit-au-milieu-de-mes-photos-de-familles/photo-sudweb-tous-et-toutes.jpeg)
 
 **19h30.** La soirée commence. On se retrouve dans un resto du centre ville autour d'un buffet. Déjà qu'à la sortie de conf' c'était pas très confortable là je suis carrément pas à l'aise ! Tout le monde a l'air de se connaître alors que je connais personne. À ma grande surprise, ça va pas durer longtemps….  
 **20h.** Je décide de m'émanciper. Je quitte les jupons de mes potes et me jette dans le grand bain ! Je fais pas 4 mètres que je rencontre les premières pépites du week-end. Des gens chouettes qui portent de chouettes valeurs et qui s'efforcent de les appliquer : bonheur au travail, collaboration, sens de la vie… tout autant de sujets débattus avec simplicité mais conviction. J'adore !  
-**22h.** Je ne reste pas seule 5min. Ceux qui percutent que je suis "toute neuve" m'interpellent, m'invitent à une table, me font une place, me servent un verre, me présentent aux autres... Wahou ! Je suis surprise par tant d'attention et de bienveillance.  
+**22h.** Je ne reste pas seule 5min. Ceux·celles qui percutent que je suis "toute neuve" m'interpellent, m'invitent à une table, me font une place, me servent un verre, me présentent aux autres... Wahou ! Je suis surprise par tant d'attention et de bienveillance.  
 
 > Le plus drôle c'est me retrouver au milieu de personnes extraordinaires le plus simplement du monde : "des personnes discrètes mais puissantes" comme dirait l'autre !
 
@@ -54,7 +54,7 @@ Résultats : des conseils, de nouvelles questions, des suggestions, des contact
 
 **11h45.** On est 5/6 à se retrouver en salle 17 pour échanger autour du sujet "Parler de son projet autrement : réflexions autour de l'anti-marketing". Les personnes qui sont là sont les bonnes personnes. Jackpot ! Je ressors avec l'envie d'être encore plus congruente et des envies de collaboration qui me chatouillent…  
 **14h.** Ça y'est ! J'ai envie de travailler avec ces gens ! J'en choppe 3 pour les interviewer sur un projet ([VIF, Valeurs In First](http://www.valeursinfirst.com/)) qui a vocation à redonner toute leur place aux valeurs dans nos projets et leur communication.  
-**15h30.** Je m'installe dans la salle 4 "former/transmettre : OK mais comment ?". Le sujet et le débat grattent un peu. Je m'interroge sur nos postures en tant que formateur : comment transmettre sans se mettre d'emblée en position haute ?  
+**15h30.** Je m'installe dans la salle 4 "former/transmettre : OK mais comment ?". Le sujet et le débat grattent un peu. Je m'interroge sur nos postures en tant que format·eur·rice : comment transmettre sans se mettre d'emblée en position haute ?  
 
 ![Atelier formation SudWeb(https://github.com/Julia-barbelane/reflexions/blob/master/photos/comment-mon-badge-de-sudweb-a-atterit-au-milieu-de-mes-photos-de-familles/atelier-formation-sudweb.jpeg)]
 
@@ -70,4 +70,4 @@ Mais plus que du co-développement de projet, je repars avec :
 Pour conclure, je dirais que SudWeb c'est finalement moins le monde des Bisounours que celui de Mary Poppins.
 J'y retrouve à la fois la bienveillance et l'attention d'une nurse et le pétillant d'une magicienne. La créativité d'une artiste et les valeurs d'une insoumise.  
 
-Mais je perçois aussi et surtout le changement de conscience qu'induit cette aventure…Aussi j'ai décidé de continuer… jusqu'à ce que le vent tourne !
+Mais je perçois aussi et surtout le changement de conscience qu'induit cette aventure… Aussi j'ai décidé de continuer… jusqu'à ce que le vent tourne !
