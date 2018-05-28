@@ -1,6 +1,12 @@
-Quelle fichue configuration audio pour mes vidéos ???
-"Apprendre à présenter son projet avec coeur et les moyens du bord en vidéo". C'est le nom du parcours de formation que j'ai créé. Durant ce parcours (semé d'embuches !) de l'auto-production audiovisuelle, le vidéaste amateur passe indéniablement par la case "prise de son". Quand on sait que "le son prévaut sur l'image", on a de quoi se poser la question. Mauvaise nouvelle, je n'ai pas vraiment encore trouvé de réponses…
-Ceci est tout sauf un micro pour faire de vidéos (mais il était vraiment joli…)Pourquoi il n'existe pas de réponse à cette question
+# Quelle fichue configuration audio pour mes vidéos ???
+
+"*Apprendre à présenter son projet avec coeur et les moyens du bord en vidéo". C'est le nom du parcours de formation que j'ai créé. Durant ce parcours (semé d'embuches !) de l'auto-production audiovisuelle, le vidéaste amateur passe indéniablement par la case "prise de son". Quand on sait que "le son prévaut sur l'image", on a de quoi se poser la question. Mauvaise nouvelle, je n'ai pas vraiment encore trouvé de réponses…*
+
+![Ceci est tout sauf un micro pour faire de vidéos (mais il était vraiment joli…)
+](https://github.com/Julia-barbelane/reflexions/blob/master/photos/quelle-fichue-configuration-audio-pour-mes-videos.jpeg)
+
+## Pourquoi il n'existe pas de réponse à cette question.
+
 On ne peut pas conseiller honnêtement d'acheter un micro sans l'avoir testé et comparé à d'autres avant…
 …or, il existe tellement de marques et de modèles différents qu'il est impossible de tous les connaître.
 Il est difficile d'envisager l'achat d'un micro sans prendre en compte la configuration du "parcours du son" (entrées, sorties, préamplification…)…
