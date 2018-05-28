@@ -30,7 +30,7 @@ Un endroit ou poser mes réflexions, travaux, articles, idées en cours...Histoi
 
 ### Apprentissage
 [Etre précis·e·s dans l'utilisation de nouveaux outils](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/etre-pr%C3%A9cis-dans-l-utilisation-de-nos-outils-collaboratifs.md)  
-[Walking Dev ou comment apprendre en itinérance](https://medium.com/@julia.barbelane/walking-dev-ou-comment-apprendre-en-itin%C3%A9rance-426acb12e024)  
+[Walking Dev ou comment apprendre en itinérance](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/walking-dev-ou-comment-apprendre-en-itin%C3%A9rance.md)  
 
 ### L'aventure SudWeb : une série d'articles qui retracent la construction de l'event 2018
 [Ratatiner les croyances pour sublimer les valeurs](https://sudweb.fr/blog/2018/ratatiner-les-croyances-pour-sublimer-les-valeurs/)  
