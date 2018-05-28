@@ -6,7 +6,7 @@ Un endroit où poser mes réflexions, travaux, articles, idées en cours...Histo
 ## Glossaire
 
 ### Lettres ouvertes à mes client·e·s
-[Merci à toi](chantiers/lettres-ouvertes/merci-a-toi)  
+[Merci à toi](chantiers/lettres-ouvertes/merci-a-toi.md)  
 [Ma meilleure pub c'est toi](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/lettres-ouvertes/ma-meilleure-pub-c-est-toi.md)  
 [T'as pas de budget ?](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/lettres-ouvertes/t-as-pas-de-budget.md)  
 [Et toi, combien tu vaut ?](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/lettres-ouvertes/et-toi-combien-tu-vaut.md)  
