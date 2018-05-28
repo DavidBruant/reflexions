@@ -1,14 +1,14 @@
 # Comment mon badge pour SudWeb a atterri au milieu des mes photos de famille
 *"Tu vas voir, c'est pas tout à fait des Bisounours mais presque." C'est ce que me disait mon pote sur le trajet en direction d'Aix-en-Provence. Je m'étais joyeusement laissée embarquer à SudWeb pour animer une session de Forum Ouvert pour notre projet "Plein Phare". Il était 16h30 et j'étais loin d'imaginer à quel point c'était vrai…*
 
-![Mon badge au milieu des mes photos de famille](https://github.com/Julia-barbelane/reflexions/blob/master/photos/comment-mon-badge-de-sudweb-a-atterit-au-milieu-de-mes-photos-de-familles/badge-au-milieu-de-mes-photos-de-familles.jpeg)
+![Mon badge au milieu des mes photos de famille](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/comment-mon-badge-de-sudweb-a-atterit-au-milieu-de-mes-photos-de-familles/badge-au-milieu-de-mes-photos-de-familles.jpeg)
 
 ## Comment je me suis retrouvée là-bas
 Pendant longtemps j'ai eu envie de développer un projet à destination des jeunes. Un jour j'ai décidé de m'y mettre. Puis Steph est arrivé. On a décidé de s'y mettre à deux, puis à quatre lorsque Sonia et Louna, 17 ans, nous ont rejoints.  
 Dès lors, je me suis retrouvée propulsée dans une monde jusqu'alors inconnu : celui de la collaboration, de l'agilité et du web.  
 Ensemble on a commencé à développer un projet qu'on a appelé "Plein Phare*". L'intention ? Apporter une réponse originale à la question sclérosante *"qu'est-ce que je vais faire plus tard ?"*.  
 
-![capture d'écran du site](https://github.com/Julia-barbelane/reflexions/blob/master/photos/comment-mon-badge-de-sudweb-a-atterit-au-milieu-de-mes-photos-de-familles/capture-photo-plein-phare.jpeg)
+![capture d'écran du site](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/comment-mon-badge-de-sudweb-a-atterit-au-milieu-de-mes-photos-de-familles/capture-photo-plein-phare.jpeg)
 
 > Ce sont les filles qui ont choisi ce nom en référence à un problème de math du brevet d'il y a quelques années, qui avait fait des émules tellement les jeunes avaient été stressés par l'épreuve.
 
@@ -18,7 +18,7 @@ Pour ça on a décidé d'utiliser la méthode Running Lean, d'animer nos rencont
 
 → Si ça t'inspire, le Github est par [là](https://github.com/pleinphare) et le site par [ici](http://www.pleinphare.xyz/) !
 
-![atelier plein phare 1](https://github.com/Julia-barbelane/reflexions/blob/master/photos/comment-mon-badge-de-sudweb-a-atterit-au-milieu-de-mes-photos-de-familles/atelier-plein-phare-1.jpeg)
+![atelier plein phare 1](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/comment-mon-badge-de-sudweb-a-atterit-au-milieu-de-mes-photos-de-familles/atelier-plein-phare-1.jpeg)
 
 Résultat : un séminaire autogéré et participatif ponctué par des ateliers interactifs, fun et sexy . Yesss ! On y était. Manquait plus qu'à le confronter maintenant. D'où notre présence à SudWeb…  
 
@@ -27,7 +27,7 @@ Résultat : un séminaire autogéré et participatif ponctué par des ateliers 
 **18h.** On vient d'arriver. Ça applaudit sévère dans la salle de conférence. Ils ont tous l'air contents.  
 **18h30.** Je me prends une vague de développeu·r·euse·s, designe·r·euse·s, intégrat·eur·rices·s, entrepren·eur·euse·s… dans la tronche. Il·elle·s viennent de sortir. Tou·te·s sur la pelouse, c'est la photo de famille. Je me fais toute petite… pas évident de débarquer dans la tribu.  
 
-![photo SudWeb](https://github.com/Julia-barbelane/reflexions/blob/master/photos/comment-mon-badge-de-sudweb-a-atterit-au-milieu-de-mes-photos-de-familles/photo-sudweb-tous-et-toutes.jpeg)
+![photo SudWeb](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/comment-mon-badge-de-sudweb-a-atterit-au-milieu-de-mes-photos-de-familles/photo-sudweb-tous-et-toutes.jpeg)
 
 **19h30.** La soirée commence. On se retrouve dans un resto du centre ville autour d'un buffet. Déjà qu'à la sortie de conf' c'était pas très confortable là je suis carrément pas à l'aise ! Tout le monde a l'air de se connaître alors que je connais personne. À ma grande surprise, ça va pas durer longtemps….  
 **20h.** Je décide de m'émanciper. Je quitte les jupons de mes potes et me jette dans le grand bain ! Je fais pas 4 mètres que je rencontre les premières pépites du week-end. Des gens chouettes qui portent de chouettes valeurs et qui s'efforcent de les appliquer : bonheur au travail, collaboration, sens de la vie… tout autant de sujets débattus avec simplicité mais conviction. J'adore !  
@@ -39,7 +39,7 @@ Résultat : un séminaire autogéré et participatif ponctué par des ateliers 
 
 **9h30.** On y est ! C'est parti. La place du marché est ouverte. Les sujets abondent. On propose le nôtre. Je flippe un peu et en même temps je commence à comprendre que tout roule ici : si tes intentions sont bonnes tu risques rien, à part peut-être un gros câlin.  
 
-![forum ouvert deu SudWeb](https://github.com/Julia-barbelane/reflexions/blob/master/photos/comment-mon-badge-de-sudweb-a-atterit-au-milieu-de-mes-photos-de-familles/sud-web-forum-ouvert.jpeg)
+![forum ouvert deu SudWeb](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/comment-mon-badge-de-sudweb-a-atterit-au-milieu-de-mes-photos-de-familles/sud-web-forum-ouvert.jpeg)
 
 **10h15.** Je m'installe en salle 4 pour 45 min d'échanges autogérés sur le thème "les entreprises alternatives".  
 
@@ -48,7 +48,7 @@ Par soucis d'autorégulation et d'amusement, on a choisi d'utiliser la méthode 
 
 On commence. Tout doucement les questions et retours émergent. Je suis surprise de constater que les personnes présentes se sentent réellement impliquées et je suis aussi touchée de voir à quel point ils ont l'air déterminés à nous aider. Tout ça avec une douceur et une simplicité étonnante !
 
-![Atelier Plein-Phare](https://github.com/Julia-barbelane/reflexions/blob/master/photos/comment-mon-badge-de-sudweb-a-atterit-au-milieu-de-mes-photos-de-familles/atelier-plein-phare-sudweb.jpeg)
+![Atelier Plein-Phare](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/comment-mon-badge-de-sudweb-a-atterit-au-milieu-de-mes-photos-de-familles/atelier-plein-phare-sudweb.jpeg)
 
 Résultats : des conseils, de nouvelles questions, des suggestions, des contacts, des encouragements… (la liste exhaustive ici-même !) mais surtout une grande reconnaissance pour toute cette attention bienveillante portée à notre projet. C'est vraiment inspirant, merci les amis !  
 
@@ -56,7 +56,7 @@ Résultats : des conseils, de nouvelles questions, des suggestions, des contact
 **14h.** Ça y'est ! J'ai envie de travailler avec ces gens ! J'en choppe 3 pour les interviewer sur un projet ([VIF, Valeurs In First](http://www.valeursinfirst.com/)) qui a vocation à redonner toute leur place aux valeurs dans nos projets et leur communication.  
 **15h30.** Je m'installe dans la salle 4 "former/transmettre : OK mais comment ?". Le sujet et le débat grattent un peu. Je m'interroge sur nos postures en tant que format·eur·rice : comment transmettre sans se mettre d'emblée en position haute ?  
 
-![Atelier formation SudWeb][https://github.com/Julia-barbelane/reflexions/blob/master/photos/comment-mon-badge-de-sudweb-a-atterit-au-milieu-de-mes-photos-de-familles/atelier-formation-sudweb.jpeg)]
+![Atelier formation SudWeb](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/comment-mon-badge-de-sudweb-a-atterit-au-milieu-de-mes-photos-de-familles/atelier-formation-sudweb.jpeg)
 
 **16h30.** Je rejoins la team d'organisation pour assister à leur rétrospective. Oui, depuis le début d'aprèm, l'idée de prendre plus part à cette aventure me titille. J'y vais pour voir à quoi ça ressemble de l'intérieur…  
 **17h30.** Je suis explosée et en même temps satisfaite de toutes les pépites que j'ai rencontrées. Je suis aussi contente d'avoir pu contribuer aux réflexions des autres et d'avoir récolté autant de feed-back et d'idées sur mes propres projets.  
