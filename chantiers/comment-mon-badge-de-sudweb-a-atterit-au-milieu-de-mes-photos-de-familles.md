@@ -56,7 +56,7 @@ Résultats : des conseils, de nouvelles questions, des suggestions, des contact
 **14h.** Ça y'est ! J'ai envie de travailler avec ces gens ! J'en choppe 3 pour les interviewer sur un projet ([VIF, Valeurs In First](http://www.valeursinfirst.com/)) qui a vocation à redonner toute leur place aux valeurs dans nos projets et leur communication.  
 **15h30.** Je m'installe dans la salle 4 "former/transmettre : OK mais comment ?". Le sujet et le débat grattent un peu. Je m'interroge sur nos postures en tant que format·eur·rice : comment transmettre sans se mettre d'emblée en position haute ?  
 
-![Atelier formation SudWeb(https://github.com/Julia-barbelane/reflexions/blob/master/photos/comment-mon-badge-de-sudweb-a-atterit-au-milieu-de-mes-photos-de-familles/atelier-formation-sudweb.jpeg)]
+![Atelier formation SudWeb][https://github.com/Julia-barbelane/reflexions/blob/master/photos/comment-mon-badge-de-sudweb-a-atterit-au-milieu-de-mes-photos-de-familles/atelier-formation-sudweb.jpeg)]
 
 **16h30.** Je rejoins la team d'organisation pour assister à leur rétrospective. Oui, depuis le début d'aprèm, l'idée de prendre plus part à cette aventure me titille. J'y vais pour voir à quoi ça ressemble de l'intérieur…  
 **17h30.** Je suis explosée et en même temps satisfaite de toutes les pépites que j'ai rencontrées. Je suis aussi contente d'avoir pu contribuer aux réflexions des autres et d'avoir récolté autant de feed-back et d'idées sur mes propres projets.  
