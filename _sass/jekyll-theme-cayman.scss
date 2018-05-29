@@ -322,6 +322,8 @@ a {
   padding-top: 2rem;
   margin-top: 2rem;
   border-top: solid 1px $hr-border-color;
+  display: flex;
+  justify-content: space-around;
 
   @include large {
     font-size: 1rem;
