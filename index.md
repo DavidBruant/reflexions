@@ -1,3 +1,7 @@
+---
+title : ""
+---
+
 ### Lettres ouvertes à mes client·e·s
 [Merci à toi](chantiers/lettres-ouvertes/merci-a-toi.md)  
 [Ma meilleure pub c'est toi](chantiers/lettres-ouvertes/ma-meilleure-pub-c-est-toi.md)  
