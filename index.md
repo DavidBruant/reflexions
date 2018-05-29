@@ -17,7 +17,7 @@ title : ""
 [Quelle fichue configuration audio pour mes vidéos ?](chantiers/quelle-fichue-configuration-audio-pour-mes-videos.md)  
 [Me cadrer dans mes vidéos sans passer pour un clown](chantiers/me-cadrer-dans-mes-videos-sans-passer-pour-un-clown.md)  
 
-### Rencontre & evenements
+### Rencontre & évènements
 [Comment mon badge de SudWeb a atterit au milieu de mes photos de familles](chantiers/comment-mon-badge-de-sudweb-a-atterit-au-milieu-de-mes-photos-de-familles.md)  
 
 ### Interactions
@@ -34,7 +34,7 @@ title : ""
 [Un week-end pour se jauger et mieux faire ensemble](https://sudweb.fr/blog/2018/un-we-pour-mieux-faire-ensemble/)  
 [Choisir un lieu plutôt qu'une ville](https://sudweb.fr/blog/2018/un-lieu-plutot-qu-une-ville/)  
 
-### Chantiers
+### En chantier
 - [les Code of conduct](chantiers/code-of-conduct.md)  
 - ["Celles et ceux qui savent font, celles et ceux qui comprennent enseignent"?](chantiers/ceux-qui-savent-font-ceux-qui-comprennent-enseignent.md)  
 - [Sortir du statut quo et agir dans le sens de l'auto-régulation sociale ?](chantiers/sortir-du-statut-quo-et-agir-dans-le-sens-de-l'auto-régulation-sociale.md)  
