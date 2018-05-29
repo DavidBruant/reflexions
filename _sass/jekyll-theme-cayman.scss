@@ -92,6 +92,7 @@ a {
   background-color: $header-bg-color;
   background-image: url("https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/site/photo-home.png");
   background-size: cover;
+  background-position: center;
 
   @include large {
     padding: 5rem 6rem;
