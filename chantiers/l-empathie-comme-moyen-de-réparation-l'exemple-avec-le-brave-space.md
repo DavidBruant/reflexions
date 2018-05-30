@@ -1,6 +1,8 @@
 # L'empathie comme moyen de réparation - l'exemple avec le "brave-space"
 
-*Dans le cadre du Forum Ouvert de SudWeb, j'ai décidé de participer à l'atelier "la parole et le genre" proposé par Raphaël Pierquin.* 
+![Des hommes et des femmes](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/l-empathie-comme-moyen-de-reparation.png)
+
+*J'ai fait cette expérience dans le cadre du Forum Ouvert de SudWeb où j'ai décidé de participer à l'atelier "la parole et le genre" proposé par Raphaël Pierquin.* 
 
 ## L'ATELIER
 
