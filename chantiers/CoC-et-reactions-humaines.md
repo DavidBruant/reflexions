@@ -1,3 +1,5 @@
+# En chantier - mise en place d'un COC - observation des réactions humaines
+
 # Intention du document : 
 Suite à la mise en place d'un premier CoC dans un évent, il y a eu plusieurs réactions qui m'ont interpellées et m'ont poussées à me questionner un peu plus sur le sens des CoC. L'idée ici est d'agréger ces retours/réactions et de m'appuyer sur ces dernier·e·s pour (ré)interroger le principe CoC et d'affiner ma pensée.
 
