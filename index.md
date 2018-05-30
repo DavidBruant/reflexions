@@ -17,13 +17,10 @@ title : ""
 [Quelle fichue configuration audio pour mes vidéos ?](chantiers/quelle-fichue-configuration-audio-pour-mes-videos.md)  
 [Me cadrer dans mes vidéos sans passer pour un clown](chantiers/me-cadrer-dans-mes-videos-sans-passer-pour-un-clown.md)  
 
-### Evènements
-[Faire des events autrement ?](chantiers/faire-des-events-autrement.md)  
-
 ### Retours d'expérience
-[L'empathie comme moyen de réparation - l'exemple du brave-space](chantiers/l-empathie-comme-moyen-de-reparation-l'exemple-avec-le-brave-space.md)
+[L'empathie comme moyen de réparation - l'exemple du brave-space](chantiers/l-empathie-comme-moyen-de-reparation-l'exemple-avec-le-brave-space.md)  
 [Comment mon badge de SudWeb a atterit au milieu de mes photos de familles](chantiers/comment-mon-badge-de-sudweb-a-atterit-au-milieu-de-mes-photos-de-familles.md)  
-[Walking Dev ou comment apprendre en itinérance](chantiers/walking-dev-ou-comment-apprendre-en-itinerance.md)  
+[Mon premier Walking Dev ou comment apprendre en itinérance](chantiers/walking-dev-ou-comment-apprendre-en-itinerance.md)  
 
 ### Interactions
 [Créer un contexte de collaboration Safe](chantiers/creer-un-cadre-de-collaboration-safe.md)  
@@ -32,6 +29,9 @@ title : ""
 
 ### Apprentissage
 [Etre précis·e·s dans l'utilisation de nouveaux outils](chantiers/etre-precis-dans-l-utilisation-de-nos-outils-collaboratifs.md)  
+
+### Evènements
+[Faire des events autrement ?](chantiers/faire-des-events-autrement.md)  
 
 ### L'aventure SudWeb : une série d'articles qui retracent la construction de l'event 2018
 [Ratatiner les croyances pour sublimer les valeurs](https://sudweb.fr/blog/2018/ratatiner-les-croyances-pour-sublimer-les-valeurs/)  
