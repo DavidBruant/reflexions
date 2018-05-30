@@ -1,28 +1,74 @@
-# En chantier - Atelier de raphael pierquin - brave space - la parole et le genre
+# Créer de l'empathie pour réparer - l'exemple avec le "brave-space"
 
-Il m'a demandé au cours de l'atelier de "prendre soin de la parole des Femmes" j'ai compris aussi faire la relève auprès des Femmes en présence.
+*Dans le cadre du Forum Ouvert de SudWeb, j'ai décidé de participer à l'atelier "la parole et le genre" proposé par Raphaël Pierquin.* 
 
-L'intention : créer un espace dans lequel les hommes puisse apprendre de la parole des femmes et dans lequel les femmes se sentent libres de s'exprimer.
+## L'ATELIER
 
-Déroulé : 
-des hommes et des femmes
-un cercle
-consigne pour les hommes : vous écoutez principalement, si vous prenez la parole c'est pour poser des questions pour essayer de comprendre ou pour exprimer ce que vous ressentez. 
-consignes pour les femmes ; raconter nous vos histoires de sexisme.
+### 13h
+Je rejoins le cabanon où a lieu l'atelier de Raphaël Pierquin "la parole et le genre". Des chaises, un cercle et quelques hommes sont installés dont Raphaël qui présentement sera le facilitateur de l'atelier. 
 
-Important pour raphael que les hommes "participants" aient ces consignes en têtes. Aussi si des hommes arrivaient en cours de route de l'atelier, ils seraient obesrvateurs et non participants ce qui impliquait qu'ils n'avait pas le droit de parler.
+Je note que Raphaël a l'air content de voir une femme s'installer. Je m'interroge cependant : un homme pour animer un atelier qui parle de la répartition de la parole homme-femme ? Je comprend vite que c'est un test et qu'il est normalement prévu pour être animé par un homme et une femme. Aussi Raphaël me propoe rapidement de prendre le relais pour "*gérer*" la parole des femmes.
 
-De la même manière quand une nouvelle Femme entrait dans le cercle, je l'accueillais discrètement et lui indiquait les consignes. contrairement auc Hommes, elle pouvait participer.
+Très vite d'autres hommes nous rejoignent et puis enfin une autre femme. Yess ! Elle s'installe à mes côtés et nous faisons face aux hommes.
 
-Ce que j'ai vécu : émotion, sensation étrange d'être écoutée, touchée quand un des hommes posait une question de comprhénsion. Ai reçu de l'empathie, me suis sentie écoutée. Compassion pour les Hommes en présence pour qui ça devait être inconfortable.
+### 13h10
+Raphaël : *qu'est-ce que vous venez chercher dans cet atelier ?*
+Les réponses sont variées. Certain·e·s sont curieu·x·ses, d'autre s'attendent à trouver à mieux comprendre les mécanismes de répartitions de la paroles entre hommes et femmes. 
 
-Ce que j'ai aimé : brave sapce est un cadre jsute génial pour se faire rencontrer "opppressé·e·s et oppresseu·r·se·s" dans un contexte ultra safe pour les personnes oppréssées (pas besoin de se justifier, ne va pas se faire attaquer et présence d'un·e facilitat·eur·rice qui appartient à sa "communauté".
+### 13h15
+Raphaël, explique qu'il va présenter les quelques règles qui vont régir l'atelier. Il précise qu'à la fin de cette présentation, tous les hommes qui rentreront seront invité à ne pas parler et se contenter d'un rôle d'observateur. Pour les femmes, rien ne changera, elles seront invitées à participer.  
 
-La rétro : A la fin de l'atelier, Raphaël propose un temps pour faire une rétro sur l'atelier. 
-Les retours sont positifs. celui qui m'a marqué : 
-- un observateur qui dit "ah mais c'était dur de devoir se taire" : à l'inérieur de moi : "allez ! tu vois ce que ça fait"
+Ma curiosité est à son comble. Mais que va-t-il nous faire faire ???  
 
-Bizarement, cet phrase m'a fait connecter avec une partie un peu guerrière de moi qui à ce moment là s'est dit "ah! t'as vi ce que ça fait hein ? Hum ça fat du bien !". C'est là où j'ai pris la mesure de l'impact que la place qui était donnée à ma parole par les hommes. je m'en était pas rendu compte mais en fait ça me fait chier et je souffre subtilement d'un manque d'expression/équité de la parole --> est-ce une bonne chose ? est-ce pas une histoire que je me suis racontée suite à l'atelier ?
+*Messieurs, l'idée ici est d'écouter les participantes. Je vous demande de ne pas prendre la parole, sauf pour poser des questions de compréhension ou exprimer vos ressentis"  
 
-Suite : envie de le refaire, de le tester avec d'autres personnes sur d'autres sujet comme le handicap par exemple, configuration dans laquelle je me positionnerai dans la famille des "oppresseuses" cette fois. 
+Hum. J'aime beaucoup cette invitation mais une petite voix me chuchotte qu'il se peut que ce soit difficile pour les participants. Rares sont ceux qui écoutent vraiment et encore plus rares sont ceux qui arrivent à partager leur sentiments. Ma curiosité est à son comble ! 
+
+*Mesdames, si vous êtes d'accord, je vais vous laisser la parole pour que vous nous racontiez des anecdotes, des histoires, des moments que vous avez mal vécu en lien avec la prise de parole.*  
+
+Trop chouette. Je réfléchi. J'ai quelques anecdotes. Je prends la parole. Au tour de la deuxième femme. 
+
+### 13h30
+De nouvelles personnes rejoignent le cercle. Comme annoncé, Raphaël interpelle discrètement les hommes pour leur proposer de rester silencieux et observateurs. Je décide de m'occuper des nouvelles femmes en leur expliquant l'exercice. C'est chouette parcequ'elles ont toutes l'air de répondre avec plaisir et enhousiasme. 
+
+### 13H35
+Nous sommes finalement 4 femmes, installées côte à côte, et environ 7 hommes (participants et observateurs). Le dialogue continue jusqu'au moment où une des participante exprime son malaise.  
+
+*"Je trouve la configuration du cercle un peu bizzare. Ce bloc de femmes me met un peu mal à l'aise. Ca vous dirait qu'on se mélange ?"*  
+
+5 seconde plus tard, le cercle était plus homogène. La discussion reprend.
+
+### 13H55
+Raphaël propose de clôturer l'atelier par une petite rétro. La parole est d'abord donnée aux participant·e·s puis aux observateurs. J'ai beaucoup de choses à dire. L'expérience était vraiment stimulante. Et je ne suis pas là seule. Comme il faut libérer la place, on décide de continuer la rétro à l'extérieur.  
+
+Je mesure l'enthousiasme créé par l'atelier et l'intérêt pour le sujet car la plus grande partie d'entre-nous décide de rester. 
+
+## LA RÉTRO
+*Ici, je vais me contenter de mon retour. Je laisse celles et ceux qui le souhaitent y partager leurs ressentis.*
+
+Cet atelier à activé plusieurs part de moi.  
+
+**L'Amazone :** je ne m'attendais pas du tout à la rencontrer ici, je ne suis pas très à l'aise avec elle. Elle a surtout été activée lorqu'un des observateurs a dit "*j'avais trop envie de parler, mais je pouvais pas c'était frustrant !"*. Elle a dit un truc du genre "*AHAH ! Tant mieux ! Tu vois ce que ça fait hein ?"*. Cette part de nature assez exigente et vindicative aurai aimé que les participants saisissent cette occasion pour poser plus de questions telles que "*qu'est-ce que tu as ressenti ? Qu'est-ce que tu me conseillerais pour ne pas reproduire cette situation ? Que peut-on faire dans un cas comme ça pour réparer ?"*. Je ne saurais pas dire quelle émotion y été associée exactement, mais ç'était en lien avec les besoins de reconnaissance et d'empathie.   
+**La soeur :** au delà de la question du genre, elle a été touchée du "*pas fait vers nous*". Ca donne plein d'espoir de sentir cette volonté de comprendre pour agir vers plus de paix et d'équité. La soeur s'est sentie en lien avec ses frères quin ont tenté de comprendre et d'accueillir ses expérience dans l'idée d'aller vers du mieux. Je dirais qu'ici c'est la réparation et le lien qui ont été nourris. J'ai ressenti une profonde gratitude pour les hommes en présence.
+**La mère :** cette part là a peut-être pu se connecter à la difficulté de l'exercice pour les hommes. Ca devait être inconfortable pour eux, et elle s'est sentie pleine d'empathie pour eux.  
+**L'exploratrice :** l'expérience a vraiment été stimulante et m'a apporté beaucoup que ma part exploratrice a été très stimulée. Et si on rééssayait ? Et si cette fois je ne faisais partie des oppresseu·r·se·s ? Peut-être pourrais-je apprendre beaucoup ? Peut-être pourrais-je participer à cette "réparation" que j'ai ressenti ? 
+
+C'est décidé, cet outil, je ne vais pas le garder dans ma poche !!!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
