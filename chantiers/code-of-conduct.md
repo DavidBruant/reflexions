@@ -1,4 +1,4 @@
-# En chaniter - Code Of Conducts ou Consignes (de sécurisation) des interactions ?
+# En chantier - Code Of Conducts ou Consignes (de sécurisation) des interactions ?
 (vers un guide des interactions ?)
 
 ## Recherches autour de la sémantique du titre : 
