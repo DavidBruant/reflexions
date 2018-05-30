@@ -1,4 +1,4 @@
-# « Ceux·celles qui savent font, ceux·celles qui comprennent enseignent. »
+# En chantier - « Ceux·celles qui savent font, ceux·celles qui comprennent enseignent. »
 
 → posture haute avec « enseigner »   
 
