@@ -1,4 +1,4 @@
-# Créer de l'empathie pour réparer - l'exemple avec le "brave-space"
+# L'empathie comme moyen de réparation - l'exemple avec le "brave-space"
 
 *Dans le cadre du Forum Ouvert de SudWeb, j'ai décidé de participer à l'atelier "la parole et le genre" proposé par Raphaël Pierquin.* 
 
