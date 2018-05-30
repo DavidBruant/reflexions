@@ -38,14 +38,14 @@ Trop chouette ! Je réfléchi. J'ai quelques anecdotes. Je prends la parole. La 
 ### 13h30
 De nouvelles personnes rejoignent le cercle. Comme annoncé, Raphaël interpelle discrètement les hommes pour leur proposer de rester silencieux et observateurs. Moi je m'occupe d'accueillir les femmes en leur expliquant l'exercice. C'est chouette parcequ'elles ont toutes l'air de répondre avec plaisir et enhousiasme. 
 
-### 13H35
+### 13h35
 Nous sommes finalement 4 femmes, installées côte à côte, et environ 7 hommes (participants et observateurs). Le dialogue continue jusqu'au moment où une des participante exprime son malaise.  
 
 *"Je trouve la configuration du cercle un peu bizzare. Ce bloc de femmes c'est étrange. Ca vous dirait qu'on se mélange ?"*  
 
 5 secondes plus tard, le cercle était plus homogène. La discussion reprend.
 
-### 13H55
+### 13h55
 Raphaël propose de clôturer l'atelier par une petite rétro. La parole est d'abord donnée aux participant·e·s puis aux observateurs. J'ai beaucoup de choses à dire. L'expérience était vraiment stimulante. Et je ne suis pas la seule mais comme il faut libérer la place, on décide de continuer la rétro à l'extérieur.  
 
 Je prends alors la mesure de l'enthousiasme partagé et de l'intérêt pour le sujet car la plus grande partie d'entre-nous décide de rester. 
