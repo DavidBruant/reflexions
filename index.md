@@ -19,6 +19,8 @@ title : ""
 
 ### Rencontre & évènements
 [Comment mon badge de SudWeb a atterit au milieu de mes photos de familles](chantiers/comment-mon-badge-de-sudweb-a-atterit-au-milieu-de-mes-photos-de-familles.md)  
+[Faire des events autrement ?](chantiers/faire-des-events-autrement.md)  
+
 
 ### Interactions
 [Créer un contexte de collaboration Safe](chantiers/creer-un-cadre-de-collaboration-safe.md)  
@@ -42,4 +44,3 @@ title : ""
 - [Code Of Conduct : Pour VS Contre](chantiers/CoC-pour-VS-contre.md)
 - [Sexisme envers les hommes ?](chantiers/sexisme-envers-les-hommes.md)
 - [Seule ou à plusieurs, je flippe](chantiers/seule-ou-a-plusieur-je-flippe.md)
-- [Faire des events autrement ?](chantiers/faire-des-events-autrement.md)
