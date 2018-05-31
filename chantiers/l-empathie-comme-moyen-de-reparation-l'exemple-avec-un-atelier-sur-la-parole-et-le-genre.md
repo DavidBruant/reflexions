@@ -12,7 +12,7 @@ Je rejoins le cabanon où a lieu l'atelier. Des chaises, un cercle et quelques h
 
 > Je m'interroge cependant : un homme pour animer un atelier qui parle de la répartition de la parole homme-femme ? 
 
-Je comprends vite que c'est un test et qu'il est normalement prévu pour être animé par un homme et une femme. Aussi Raphaël me propose rapidement de prendre le relais pour "*gérer*" la parole des femmes.  
+Je comprends vite que c'est une première fois et qu'il est normalement prévu pour être animé par un homme et une femme. Aussi Raphaël me propose rapidement de prendre le relais pour "*gérer*" la parole des femmes.  
 
 Très vite d'autres hommes nous rejoignent et puis enfin une autre femme. Yess ! Elle s'installe à mes côtés et nous faisons face aux hommes.
 
@@ -22,6 +22,7 @@ Raphaël : *Qu'est-ce que vous venez chercher dans cet atelier ?*
 Les réponses sont variées. Certain·e·s sont curieu·x·ses, d'autres s'attendent à trouver des réponses ou à mieux comprendre les mécanismes de répartition de la parole entre hommes et femmes. 
 
 ### 13h15
+
 Raphaël présente les quelques règles qui vont régir l'atelier. Il précise qu'à la fin de cette présentation, tous les hommes qui rentreront seront invités à ne pas parler et à rester observateurs tandis que les femmes, elles, seront invitées à participer.  
 
 Ma curiosité est à son comble. Mais que va-t-il nous faire faire ???  
@@ -31,6 +32,8 @@ Ma curiosité est à son comble. Mais que va-t-il nous faire faire ???
 Hum. J'aime beaucoup cette invitation mais une petite voix me chuchotte qu'il se peut que ce soit difficile pour les participants. Rares sont ceux qui écoutent vraiment et encore plus rares sont ceux qui arrivent à partager leurs sentiments. Ma curiosité est à son comble !  
 
 *"Mesdames, si vous êtes d'accord, je vais vous laisser la parole pour que vous nous racontiez des anecdotes, des histoires, des moments que vous avez mal vécu en lien avec la prise de parole et les hommes."*  
+
+**Il me semble que l'intention de Raphaël est de créer un espace "d'écoute contrainte et sécurisée" entre une population "oppressée" (ici les femmes) et une population "oppressive" (ici les hommes) pour permettre de libérer la parole de l'une devant l'autre. Ici en contraignant la prise de parole des hommes Raphaël créé un cadre safe pour les femmes, qui se sentent libres de parler. C'est volontairement beaucoup moins safe pour les hommes. Et ça me semble cohérent car l'idée est de leur offrir une occasion d'écouter et d'apprendre de "celles qu'ils oppressent" chose c'est impossible si ces derniers ne sont pas "contraints" en posture d'écoute et d'empathie.**
 
 Trop chouette ! Je réfléchis. J'ai quelques anecdotes. Je prends la parole. La deuxième participante enchaîne.
 
