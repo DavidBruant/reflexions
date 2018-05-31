@@ -33,7 +33,9 @@ Hum. J'aime beaucoup cette invitation mais une petite voix me chuchotte qu'il se
 
 *"Mesdames, si vous êtes d'accord, je vais vous laisser la parole pour que vous nous racontiez des anecdotes, des histoires, des moments que vous avez mal vécu en lien avec la prise de parole et les hommes."*  
 
-**Il me semble que l'intention de Raphaël est de créer un espace "d'écoute contrainte et sécurisée" entre une population "oppressée" (ici les femmes) et une population "oppressive" (ici les hommes) pour permettre de libérer la parole de l'une devant l'autre. Ici en contraignant la prise de parole des hommes Raphaël créé un cadre safe pour les femmes, qui se sentent libres de parler. C'est volontairement beaucoup moins safe pour les hommes. Et ça me semble cohérent car l'idée est de leur offrir une occasion d'écouter et d'apprendre de "celles qu'ils oppressent" chose c'est impossible si ces derniers ne sont pas "contraints" en posture d'écoute et d'empathie.**
+**Précision de l'intention
+
+Il me semble que l'intention de Raphaël est de **créer un espace "d'écoute contrainte et sécurisée" entre une population "oppressée" (ici les femmes) et une population "oppressive" (ici les hommes) pour permettre de libérer la parole de l'une devant l'autre.** Ici en contraignant la prise de parole des hommes Raphaël créé un cadre safe pour les femmes, qui se sentent libres de parler. C'est volontairement beaucoup moins safe pour les hommes. Et ça me semble cohérent car l'idée est de leur offrir une occasion d'écouter et d'apprendre de "celles qu'ils oppressent" chose c'est impossible si ces derniers ne sont pas "contraints" en posture d'écoute et d'empathie.
 
 Trop chouette ! Je réfléchis. J'ai quelques anecdotes. Je prends la parole. La deuxième participante enchaîne.
 
