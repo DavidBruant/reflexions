@@ -18,7 +18,7 @@ title : ""
 [Me cadrer dans mes vidéos sans passer pour un clown](chantiers/me-cadrer-dans-mes-videos-sans-passer-pour-un-clown.md)  
 
 ### Retours d'expérience
-[L'empathie comme moyen de réparation - l'exemple du brave-space](chantiers/l-empathie-comme-moyen-de-reparation-l'exemple-avec-le-brave-space.md)  
+[L'empathie comme moyen de réparation - l'exemple avec un atelier sur la parole et le genre](chantiers/l-empathie-comme-moyen-de-reparation-l'exemple-avec-un-atelier-sur-la-parole-et-le-genre.md)  
 [Comment mon badge de SudWeb a atterit au milieu de mes photos de familles](chantiers/comment-mon-badge-de-sudweb-a-atterit-au-milieu-de-mes-photos-de-familles.md)  
 [Mon premier Walking Dev ou comment apprendre en itinérance](chantiers/walking-dev-ou-comment-apprendre-en-itinerance.md)  
 
