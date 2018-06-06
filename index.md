@@ -26,7 +26,7 @@ title : ""
 [Créer un contexte de collaboration Safe](chantiers/creer-un-cadre-de-collaboration-safe.md)  
 [La théorie de l'angle-mort selon David Bruant](chantiers/la-theorie-de-l-angle-mort.md)  
 [De l'amour pour gérer les crises ?](chantiers/de-lamour-pour-gerer-la-crise.md)  
-[Raconter ses mauvaises expériences, safe ou pas safe ?](chantiers/en-chantier-raconter-ses-mauvaises-experiences-collaboratives-safe-ou-pas-safe.md)  
+
 
 ### Apprentissage
 [Etre précis·e·s dans l'utilisation de nouveaux outils](chantiers/etre-precis-dans-l-utilisation-de-nos-outils-collaboratifs.md)  
@@ -47,3 +47,4 @@ title : ""
 - [Code Of Conduct : Pour VS Contre](chantiers/CoC-pour-VS-contre.md)
 - [Sexisme envers les hommes ?](chantiers/sexisme-envers-les-hommes.md)
 - [Seule ou à plusieurs, je flippe](chantiers/seule-ou-a-plusieur-je-flippe.md)
+- [Raconter ses mauvaises expériences, safe ou pas safe ?](chantiers/en-chantier-raconter-ses-mauvaises-experiences-collaboratives-safe-ou-pas-safe.md)  
