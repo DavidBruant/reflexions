@@ -46,5 +46,5 @@ title : ""
 - [Et si le collaboratif dans un projet était le projet en lui-même ?](chantiers/le-collaboratif-est-le-projet-lui-meme.md)  
 - [Code Of Conduct : Pour VS Contre](chantiers/CoC-pour-VS-contre.md)
 - [Sexisme envers les hommes ?](chantiers/sexisme-envers-les-hommes.md)
-- [Seule ou à plusieurs, je flippe](chantiers/seule-ou-a-plusieur-je-flippe.md)
+- [Faire des trucs seule ou à plusieurs, Arg ! Il n'y a pas de recette miracle.](chantiers/Faire-des-trucs-seule-ou-a-plusieurs-%3F-Arg-!-il-ny-a-pas-de-recette-miracle.md)
 - [Raconter ses mauvaises expériences, safe ou pas safe ?](chantiers/en-chantier-raconter-ses-mauvaises-experiences-collaboratives-safe-ou-pas-safe.md)  
