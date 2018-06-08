@@ -3,7 +3,7 @@
 # L'empathie comme moyen de réparation - l'exemple avec un atelier sur la parole et le genre.
 ![Des hommes et des femmes](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/l-empathie-comme-moyen-de-reparation.png)
 
-*J'ai fait cette expérience dans le cadre du Forum Ouvert de SudWeb où j'ai décidé de participer à l'atelier "la parole et le genre" proposé par [Raphaël Pierquin](https://twitter.com/perafoo) qui s'est beaucoup appuyé sur la littérature du brave space pour imaginer le déroulement de la session.* 
+*J'ai fait cette expérience dans le cadre du Forum Ouvert de SudWeb où j'ai décidé de participer à l'atelier "la parole et le genre" proposé par [Raphaël Pierquin](https://twitter.com/perafoo) qui s'est beaucoup appuyé sur [la littérature du brave space](https://ssw.umich.edu/sites/default/files/documents/events/colc/from-safe-spaces-to-brave-spaces.pdf) pour imaginer le déroulement de la session.* 
 
 ## L'ATELIER
 
