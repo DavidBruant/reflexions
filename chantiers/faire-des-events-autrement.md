@@ -1,5 +1,5 @@
 # Réinventer les évents ? 
-![réinventer les évents ?](https://github.com/Julia-barbelane/reflexions/blob/master/photos/reinventer-les-events.png)
+![réinventer les évents ?](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/reinventer-les-events.png)
 
 ## Contexte
 J'ai lu cet article ["Pourquoi il est urgent de réinventer les événements tech !"](https://medium.com/futuresfestivals/r%C3%A9inventons-les-%C3%A9v%C3%A9nements-b5138da7adad) de Camille Pène. J'ai cogité. C'est surtout l'idée de "réinventer" qui m'a parlé. Faire autrement.   
