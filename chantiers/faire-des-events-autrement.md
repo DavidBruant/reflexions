@@ -26,7 +26,7 @@ J'ai une anecdote à ce sujet. Je faisais alors partie d'une équipe. "On" avait
 - Repenser l'organisation des salles de conférences : disposer les participant·e·s en demi cercle, positionner l'orat·eur·rice de plein pied à l'intérieur du demi-cercle
 - Faciliter la circulation des participant·e·s pour qu'ils·elles puissent facilement quitter la conférence si il·elle le souhaite : créer des espaces entre les chaises, faire des ilôts de chaises plutôt que des grandes lignes (cf schéma ci-dessous avec l'exemple de l'organisation de la salle de conférence de SudWeb)...
 
-![organisation de la salle de conférence de SudWeb](https://github.com/Julia-barbelane/reflexions/blob/master/photos/faire-des-events-autrement/orga-salle-conf-sudweb.jpg)
+![organisation de la salle de conférence de SudWeb](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/faire-des-events-autrement/orga-salle-conf-sudweb.jpg)
 
 
 ### Co-créer - utiliser l'intelligence collective
