@@ -73,7 +73,7 @@ Résultat, j'ai commencé à agréger quelques retours.
 
 Merci les ami·e·s !
 
-- [Julien](https://www.julienpradet.fr/reactions/la-parole-et-le-genre/) "En tant qu'oppresseur, je me sens tout de suite beaucoup plus responsable."
+- [Julien](https://www.julienpradet.fr/reactions/la-parole-et-le-genre/) "*En tant qu'oppresseur, je me sens tout de suite beaucoup plus responsable.**"
 
 
 
