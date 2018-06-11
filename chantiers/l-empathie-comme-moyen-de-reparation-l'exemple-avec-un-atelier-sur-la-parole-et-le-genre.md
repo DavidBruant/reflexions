@@ -67,13 +67,13 @@ Cet atelier a activé plusieurs parts de moi.
 **L'exploratrice :** celle-ci a été très stimulée ! Et si on rééssayait ? Et si cette fois je faisais partie du groupe des "*oppresseu·r·se·s*" ? Peut-être pourrais-je apprendre beaucoup ? Peut-être pourrais-je participer à cette "réparation" que j'ai ressentie ?   
 
 ## LA SUITE
-Au delà de mon envie de réitérer l'expérience, j'ai aussi décidé d'aller interpeller les autres personnes qui y ont participé.   
+Au delà de mon envie de réitérer l'expérience, j'ai aussi décidé d'aller interpeller les autres personnes qui y ont participé. L'idée : avoir plusieurs points de vue avec une curiosité particulière pour celui des hommes.     
 ![extrait du tweet](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/extrait-du-tweet.png).   
 Résultat, j'ai commencé à agréger quelques retours.   
 
 Merci les ami·e·s !
 
-- [Julien](https://www.julienpradet.fr/reactions/la-parole-et-le-genre/) "*En tant qu'oppresseur, je me sens tout de suite beaucoup plus responsable.**"
+- [Julien](https://www.julienpradet.fr/reactions/la-parole-et-le-genre/) "*En tant qu'oppresseur, je me sens tout de suite beaucoup plus responsable.*"
 
 
 
