@@ -44,7 +44,7 @@ title : ""
 - ["Celles et ceux qui savent font, celles et ceux qui comprennent enseignent"?](chantiers/ceux-qui-savent-font-ceux-qui-comprennent-enseignent.md)  
 - [Sortir du statut quo et agir dans le sens de l'auto-régulation sociale ?](chantiers/sortir-du-statut-quo-et-agir-dans-le-sens-de-l'auto-régulation-sociale.md)  
 - [Et si le collaboratif dans un projet était le projet en lui-même ?](chantiers/le-collaboratif-est-le-projet-lui-meme.md)  
-- [Code Of Conduct : Pour VS Contre](chantiers/CoC-pour-VS-contre.md)
+- [Code Of Conduct : observation des réactions humaines](chantiers/chantiersCoC-et-reactions-humaines.md)
 - [Sexisme envers les hommes ?](chantiers/sexisme-envers-les-hommes.md)
 - [Faire des trucs seule ou à plusieurs, Arg ! Il n'y a pas de recette miracle.](chantiers/Faire-des-trucs-seule-ou-a-plusieurs-%3F-Arg-!-il-ny-a-pas-de-recette-miracle.md)
 - [Raconter ses mauvaises expériences, safe ou pas safe ?](chantiers/en-chantier-raconter-ses-mauvaises-experiences-collaboratives-safe-ou-pas-safe.md)  
