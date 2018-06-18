@@ -74,6 +74,7 @@ Résultat, j'ai commencé à agréger quelques retours.
 Merci les ami·e·s !
 
 - [Julien](https://www.julienpradet.fr/reactions/la-parole-et-le-genre/) "*En tant qu'oppresseur, je me sens tout de suite beaucoup plus responsable.*"
+- [Noémie](https://estcequecestdutravail.xyz/2018/06/le-genre-et-la-parole-au-travail.html) *Tant d’hommes silencieux dans une salle je crois que ça ne m’est jamais arrivé.*
 
 
 
