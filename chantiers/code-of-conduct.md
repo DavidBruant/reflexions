@@ -1,34 +1,53 @@
-# En chantier - Code Of Conducts ou Consignes (de sécurisation) des interactions ?
-(vers un guide des interactions ?)
+# En chantier - Code Of Conducts 
 
-## Recherches autour de la sémantique du titre : 
-- Consigne = condition non négociable
-- Interactions = cool mais trop unilateral, prends pas en compte l’ether, ce qui est indirect, non palpable tel que l’inconscient collectif
-- Interférence humaine ? (« combinaison de deux énergies humaines susceptibles d'interagir. »)
-
-## Définitions du contenu
-- Le truc pas cool : 
-- Blagues oppressives : 	
-
-## Du story Telling pour expliquer l'intérêt d'un CoC ?
-Imagine. Je suis un homme. Je suis blanc. J’ai entre 30 et 40 ans. J’ai une bonne situation. Tout ça fait que je fais partie de la poignée de privilégiés. Ce contexte de privilège fait que je suis en haut de la pyramide (donc rien me tombe dessus, j’ai rarement de problème. Ne vous ait-il pas déjà arrivé de dire « ben non, moi ça m’est jamais arrivé » ou que lorsque ça arrive, c’est tellement rare qu’on relève pas et comme on relève pas, on alimente pas et ça se calme tout seul). Autrement dit, je vis rarement des situations d’oppression. De fait, j’ai pas forcément conscience de l’impact de certaines de mes paroles/attitudes/comportements puisqu’on les vit pas (on en est rarement la cible) qui peuvent blesser des personnes qui elles le vivent au quotidien (exemple : les femmes quant on dit « ça c’est un truc de meuf »).  
- 
-
-## Tentative d'intro 
-On n’utilise pas les mêmes mots pour définir les choses, on ne vit pas les même choses pour une même situation, on n’utilise pas les mêmes mots pour définir ce qu’on ressent… Résultat : vivre/gérer/résoudre des interactions qui peuvent être vécues comme inconfortables ou violentes est complexe.   
-
-On propose un code de conduite mais on a bien conscience que chaque cas est unique et c’est « normal ». Le code de conduite est une intention/un cadre/une base mais qu’il n’est pas La réponse idéale.   
-
-Conscience du subtil et du complexe de ce genre de situations. Des fois tu baffou la règle et c’est OK et des fois tu suis super bien la règle mais c’est pas OK. En gros, parfois on peut respecter l’intention traduite par la règle et c’est ça qui prévaut.  
+## CONTEXTE
+J'explore les pistes pour créer des cadres d'intéractions safe et inclusifs. J'ai découvert les Codes Of Conduct qui ont pour vocations de créer des espaces "sécurisés" particulièrement pour les communautés sous-représentées dans un évènement qui par définition (comme elles sont sous-représentée) sont plus sucspetibles de vivre des oppressions.
 
 
-Il y aura toujours des contradictions et c’est OK aussi, on est prêt·e·s à s’améliorer au cas par cas. On accepte aussi l’echec de l’intéraction.  
+## Réflexion n°1 - Le nom "Code Of Conduct" est-il approprié ? 
+### 1) Et bien pour moi pas vraiment...
+- Code Of Conduct vient des Etats-Unis. Sauf qu'ici on est en Europe. Le contexte est différent, c'est peut-être pas si pertinent de conserver la même nomination
+- Code. N'est-ce pas un peu figé et directif ? 
+- de Conduite. Ca sonne un peu la posture haute nan ? "*T'as vu comme tu te conduis ?*" 
 
-Intention que ce soit les membres de la team chargé·e·s de gérer le problème soient des personnes formée/aiguisées/douées en terme de communication et de gestion relationnelles. Intelligence relationnelle/émotionnelle (personnes désignées et connues ?)  
+Le truc c'est que les participant·e·s et organisat·eur·rice·s d'évènements ont l'habitude de cette nomination. Quand ils·elles l'entendent, ils savent d'emblée de quoi il en retourne. Si on change le nom, est-ce qu'on perd pas un peu de consistance ? 
 
-On tend a être un maximum inclusif et en même temps des fois si ça marche pas, ben ça marche pas.   
+### 2) D'autres propositions
 
-## 3 attitudes possibles ?
+Consignes de sécurisation des interactions ? Guide des interactions ? Consignes pour créer un cadre d’interaction bientraitant et protecteur ?  
+- Consigne = +1 car transmet le caractère non négociable  
+- Interactions = +1 car précise sur quoi on cherche à agir et comprends le verbal et le non verbal mai -1 car ne prend pas en compte l’ether, ce qui est indirect, non palpable tel que l’inconscient collectif.  
+- Interférence humaine = +1 si on s'en réfaire à la [défintion](https://fr.wikipedia.org/wiki/Interf%C3%A9rence) " combinaison de deux énergies humaines susceptibles d'interagir. » mais -1 car on l'utilise plutôt pour signifier un bug de communication.   
+
+En attendant de trouver une équivalence en français, je préconiserais plutôt d'utiliser le nom anglais.
+
+## Réflexion n°2 - un Code of Conduct pour quoi faire ? 
+
+## Story telling - prends conscience que tu es un privilégié pour prendre soin de celles et ceux qui ne le sont pas.
+Imagine. Je suis un homme blanc de 40 ans hétérosexuel qui a "une bonne situation" (pas de difficultés financière, peu partir en vacances et manger varié). Tout ça fait que je fais partie de la poignée de privilégiés. Ce contexte de privilèges fait que je suis en haut de la pyramide. Aussi je vis rarement des situations d’oppression. Rien "ne me tombe dessus", j’ai rarement de problèmes (agressions, blagues blessantes sur ma couleur de peau, mon orientation sexuelle...). Quand quelqu'un·e me raconte une situation d'oppression qu'il·elle a vécu, il n'est pas rare que je réponde un truc du genre « *ben non, moi ça m’est jamais arrivé*» ou que lorsque ça arrive, c’est tellement rare que je ne prends pas la peine de relever. Et comme on relève pas, on alimente pas et ça se calme tout seul.
+
+De fait, j’ai pas forcément conscience de l’impact de certaines de mes paroles/attitudes/comportements puisque je ne les vit pas (autrement dit, j'en suis rarement la cible) qui peuvent blesser des personnes qui elles le vivent au quotidien (exemple : les femmes quant on dit «*ça c’est un truc de meuf*»). 
+
+## Prendre soin des communautés sous-représentées parceque "par définition" elles sont susceptibles d'être oppressées
+*Extrait du Code Of Conduct de SudWeb 2018*
+
+Dans chaque groupement, collectif ou rassemblement, il y a une culture dominante principale et des personnes qui n’appartiennent pas à cette culture. Ces personnes sont donc sous-représentées dans le contexte, et naturellement, elles sont plus susceptibles d’être « oppressées » par la communauté principale. Souvent, cette oppression se manifeste par des comportements ou attitudes blessantes adoptées sans s’en rendre compte.
+
+Ici, les consignes de sécurisation des interactions permettent de créer un contexte « safe 1 » pour celles et ceux qui sont sous-représenté·e·s en mettant en lumière une problématique.
+
+Imaginons-les comme un principe de précaution qui permet d’anticiper des situations pouvant aller de l’inconfortable à l’oppressif pour certain·e·s, inhérentes à un contexte.
+
+En adoptant ces consignes, nous cherchons à établir un lien de confiance et de soin pour inviter celles et ceux qui sont sous-représenté·e·s à intégrer la communauté en toute tranquillité, dans l’objectif d’encourager et promouvoir la diversité.
+
+
+## Réflexion n°3 - Le code de conduite n'est pas LA réponse idéale notamment parceque c'est complexe
+
+1) Un code de conduite permet d'aider à gérer les interactions, mais ceci sans oublier que chaque cas est unique et c’est « normal ». Le code de conduite est une intention/un cadre/une base mais qu’il n’est pas forcément La réponse idéale.   
+2) Gardons en tête le subtil et le complexe de ce genre de situations. Des fois tu baffoues la règle et c’est OK et des fois tu suis super bien la règle mais c’est pas OK. 
+3) Il y aura toujours des contradictions et c’est OK aussi, on est prêt·e·s à s’améliorer au cas par cas. On accepte aussi l’echec de l’interaction.  
+4) On tend a être un maximum inclusif et en même temps des fois si ça marche pas, ben ça marche pas.   
+
+## Réflexion n°4 - 3 "postures" possibles pour un Code Of Conduct ?
 - Neutre : ne va ni dans le sens d’inclure plus, ni dans le sens d’exclure plus 
 - Encourageante : actions qui promeuent/encouragent l’accueil et l’inclusion
 - Empêchante : actions qui freinent/suppriment l’exclusion/l’oppression
@@ -40,8 +59,12 @@ On tend a être un maximum inclusif et en même temps des fois si ça marche pas
 - Si quelqu’un me fait remarquer que j’ai eu un comportement opressif, c’est pas la mort. Proposer plus de voir ça comme une occasion de progresser et de prendre plus soin qu’une attaque personnelle. 
 - Si je dois faire remarquer à quelqu’un qu’il a eu un comportement opressif : être vigilant à la façon dont on fait remarquer. (expliquer comment ? )
 
+## Réflexion n°5 - L'importance de tenir ses engagements
+C'est ce qui différencie un CoC d'une charte. L'engagement que l'équipe prend à agir si quelque chose se passe.  
+S'il se passe quelq
+
 ## Si le code of conduct n’est pas respecté :
-- Intention de la team de faire quelque chose, de ne pas laisser sans suite si on a l’info
+- Intention de l'équipe de faire quelque chose, de ne pas laisser sans suite si un·e membre de l'équipe à eu a l’info.
 - Team aspire en priorité à soutenir les personnes qui ont vécu un truc pas cool.  On agit d’abord pour la personne qui a vécu un truc pas cool. On pense que l’enjeu premier est alors de tout faire pour que la personne se sente mieux.  Idéalement, la team aspire à  construire la réparation avec la personne qui a vécu un truc pas cool, pour qu’elle sente la réparation. Ici l’exclusion n’est pas obligatoire. Il y a une granularité possible.
 
 ## Expliquer pourquoi on fait un Code of Conduct
@@ -63,6 +86,8 @@ On tend a être un maximum inclusif et en même temps des fois si ça marche pas
 - Je vérifie que c’était bien une situation mal vécue par la personne. M’assure qu’elle se sent bien / vérifie qu’elle se sent pas mal. - Si je me sens, lui demande si je peux faire quelque chose pour elle. Si oui, lui demander comment est-ce qu’elle souhaite gérer la situation. 
 
 ## Inutile de mettre un CoC en place si l'équipe est pas préparée
+Intention que ce soit les membres de la team chargé·e·s de gérer le problème soient des personnes formée/aiguisées/douées en terme de communication et de gestion relationnelles. Intelligence relationnelle/émotionnelle (personnes désignées et connues ?)  
+
 Mettre en place un CoC est pertinent que si l'équipe d'orga est préparée à le gérer : 
 Si j'annonce "Vous êtes légitime" et "vous serez pris au sérieux" je me dois de tout faire pour tenir ces engagements envers les participants. Il me semble que c'est important d'en prendre soin. Comment s'organiser, définir les rôles et choisir la posture en interne ? 
 - Qui se sent de gérer si une situation se présente / quelles sont les personnes ressources (équipe et hors équipe) ?
