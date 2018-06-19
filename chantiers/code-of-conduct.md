@@ -1,8 +1,7 @@
 # En chantier - Code Of Conducts 
 
 ## CONTEXTE
-J'explore les pistes pour créer des cadres d'intéractions safe et inclusifs. J'ai découvert les Codes Of Conduct qui ont pour vocations de créer des espaces "sécurisés" particulièrement pour les communautés sous-représentées dans un évènement qui par définition (comme elles sont sous-représentée) sont plus sucspetibles de vivre des oppressions.
-
+J'explore les pistes pour créer des cadres d'intéractions safe et inclusifs. J'ai découvert les Codes Of Conduct qui ont pour vocations de sécuriser les espaces.
 
 ## Réflexion n°1 - Le nom "Code Of Conduct" est-il approprié ? 
 ### 1) Et bien pour moi pas vraiment...
@@ -12,7 +11,7 @@ J'explore les pistes pour créer des cadres d'intéractions safe et inclusifs. J
 
 Le truc c'est que les participant·e·s et organisat·eur·rice·s d'évènements ont l'habitude de cette nomination. Quand ils·elles l'entendent, ils savent d'emblée de quoi il en retourne. Si on change le nom, est-ce qu'on perd pas un peu de consistance ? 
 
-### 2) D'autres propositions
+### 2) D'autres propositions ?
 
 Consignes de sécurisation des interactions ? Guide des interactions ? Consignes pour créer un cadre d’interaction bientraitant et protecteur ?  
 - Consigne = +1 car transmet le caractère non négociable  
@@ -23,12 +22,12 @@ En attendant de trouver une équivalence en français, je préconiserais plutôt
 
 ## Réflexion n°2 - un Code of Conduct pour quoi faire ? 
 
-## Story telling - prends conscience que tu es un privilégié pour prendre soin de celles et ceux qui ne le sont pas.
+**Prenons conscience de nos statuts de privilégié·e·s pour prendre soin de celles et ceux qui ne le sont pas.**
 Imagine. Je suis un homme blanc de 40 ans hétérosexuel qui a "une bonne situation" (pas de difficultés financière, peu partir en vacances et manger varié). Tout ça fait que je fais partie de la poignée de privilégiés. Ce contexte de privilèges fait que je suis en haut de la pyramide. Aussi je vis rarement des situations d’oppression. Rien "ne me tombe dessus", j’ai rarement de problèmes (agressions, blagues blessantes sur ma couleur de peau, mon orientation sexuelle...). Quand quelqu'un·e me raconte une situation d'oppression qu'il·elle a vécu, il n'est pas rare que je réponde un truc du genre « *ben non, moi ça m’est jamais arrivé*» ou que lorsque ça arrive, c’est tellement rare que je ne prends pas la peine de relever. Et comme on relève pas, on alimente pas et ça se calme tout seul.
 
 De fait, j’ai pas forcément conscience de l’impact de certaines de mes paroles/attitudes/comportements puisque je ne les vit pas (autrement dit, j'en suis rarement la cible) qui peuvent blesser des personnes qui elles le vivent au quotidien (exemple : les femmes quant on dit «*ça c’est un truc de meuf*»). 
 
-## Prendre soin des communautés sous-représentées parceque "par définition" elles sont susceptibles d'être oppressées
+**Prendre soin des communautés sous-représentées parceque "par définition" elles sont susceptibles d'être oppressées**
 *Extrait du Code Of Conduct de SudWeb 2018*
 
 Dans chaque groupement, collectif ou rassemblement, il y a une culture dominante principale et des personnes qui n’appartiennent pas à cette culture. Ces personnes sont donc sous-représentées dans le contexte, et naturellement, elles sont plus susceptibles d’être « oppressées » par la communauté principale. Souvent, cette oppression se manifeste par des comportements ou attitudes blessantes adoptées sans s’en rendre compte.
