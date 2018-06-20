@@ -8,7 +8,7 @@ title : ""
 [T'as pas de budget ?](chantiers/lettres-ouvertes/t-as-pas-de-budget.md)  
 [Et toi, combien tu vaut ?](chantiers/lettres-ouvertes/et-toi-combien-tu-vaut.md)  
 
-### La vidéo et moi 
+### La vidéo et moi
 [La théorie de l'adorement](chantiers/la-theorie-de-l-adorement.md)  
 [Tournage en résidence avec 2 clientes](chantiers/tournage-en-residence-avec-deux-clientes.md)  
 [Web et vidéo, et si on essayait de pas faire n'importe quoi ?](chantiers/web-et-video-si-on-essayait-de-ne-pas-faire-n-importe-quoi.md)  
@@ -33,6 +33,9 @@ title : ""
 
 ### Evènements
 [Faire des events autrement ?](chantiers/faire-des-events-autrement.md)  
+
+### Code of conduct
+[#1 - Le nom "Code of Conduct" est-il approprié ?]()
 
 ### L'aventure SudWeb : une série d'articles qui retracent la construction de l'event 2018
 [Ratatiner les croyances pour sublimer les valeurs](https://sudweb.fr/blog/2018/ratatiner-les-croyances-pour-sublimer-les-valeurs/)  
