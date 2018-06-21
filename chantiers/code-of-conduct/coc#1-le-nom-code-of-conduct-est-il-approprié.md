@@ -1,4 +1,5 @@
 # Réflexion n°1 - Le nom "Code Of Conduct" est-il approprié ?
+
 ## Pas sur...
 - Le CoC vient des Etats-Unis, territoire dans lequel la liberté d'expression fonctionne différemment qu'en france. Là-bas il semblerait qu'on peut tout dire, la loi ne sanctionne pas les insultes (à préciser) et le langage oppressif. Les CoC ont été mis en place pour pallier à ça dans les évents.
 En france c'est tout à fait différent puisque la loi intervient sur ce type de problématiques.
