@@ -12,16 +12,25 @@ De fait, j’ai pas forcément conscience de l’impact de certaines de mes paro
 
 Dans chaque groupement, collectif ou rassemblement, il y a une culture dominante principale et des personnes qui n’appartiennent pas à cette culture. Ces personnes sont donc sous-représentées dans le contexte, et naturellement, elles sont plus susceptibles d’être « oppressées » par la communauté principale. Souvent, cette oppression se manifeste par des comportements ou attitudes blessantes adoptées sans s’en rendre compte.
 
-Ici, les consignes de sécurisation des interactions permettent de créer un contexte « safe 1 » pour celles et ceux qui sont sous-représenté·e·s en mettant en lumière une problématique.
+Ici, les consignes de sécurisation des interactions permettent de créer un contexte « safe » pour celles et ceux qui sont sous-représenté·e·s en mettant en lumière une problématique.
 
 Imaginons-les comme un principe de précaution qui permet d’anticiper des situations pouvant aller de l’inconfortable à l’oppressif pour certain·e·s, inhérentes à un contexte.
 
 En adoptant ces consignes, nous cherchons à établir un lien de confiance et de soin pour inviter celles et ceux qui sont sous-représenté·e·s à intégrer la communauté en toute tranquillité, dans l’objectif d’encourager et promouvoir la diversité.
 
-**Autre**
-- Encourager/promouvoir la diverstié en incluant les personnes sous-représentées dans une communauté
-- Dans chaque groupement/collectif/rassemblement, il y a une culture dominante/principale et des personnes qui n’appartiennent pas à cette culture qui sont donc sous-représentées dans le contexte.
-- Naturellement ces personnes sous-représentées sont plus susceptibles d’être « oppressées » par la communauté principale
-- CoC permet de créer un cadre aux interactions et d’empêcher
-- Créer un contexte Safe pour ces minorités et les inviter à intégrer la communauté
-- On peut avoir des comportements blessant sans s’en rendre compte, CoC permet de mettre en lumière une problématique = principe de précaution
+**Ce n'est pas parceque je n'ai jamais eu vent d'oppression qu'il n'y en a pas eu ou qu'il n'y en aura pas**
+Comme je le disais plus haut, en tant que privilégié·e·s on n'est moins souvent victimes d'oppressions. De fait, comme on ne le vit pas (ou moins) on y es est moins attenti·f·ve·s. On en les voit/perçoit pas forcément. Mais cela ne signifie pas pour autant que ces oppressions ne sont pas présentes. 
+
+A l'inverse, quand on ne fait pas partie des privilégié·e·s, on subit régulièrement des oppressions. Et malheureusement, rares sont les fois où "quelque chose se passe" quand ça arrive. Aussi on s'y habitue sans relevé. C'est désagréable mais ça devient "normal" en quelque sorte. 
+
+Un Code of Conduct permet de mettre de la lumière sur des oppressions qu'on ne remarque pas en tant que privilégié·e·s et de sortir du statut quo là où celles et ceux qui sont moins voir pas privilégié·e·s peuvent laisser faire par habitude, lassitude, désemparement...
+
+**Je peux avoir des comportements blessants sans m’en rendre compte.** 
+En tant que privilégié·e·s on pense souvent être "conscient·e" et sensible à ces postures d'oppression : "*je suis pas machiste moi !*; "*Je suis pas raciste moi !*", "*Je suis pas validiste moi...!*". Mais en fait peut-être que non. Je pense même ne pas trop me tromper en affirmant que Non. Parcequ'en tant que blanche je ne suis pas noire, en tant qu'homme, je ne suis pas femme (dans le contexte cis-genre traditionnel), en tant que valide je ne suis pas handicapé·e.
+
+Or, c'est justement lorsqu'on affirme ne pas être un·e oppresseu·r·se que c'est le plus incidieux. Cette posture sous-entend que la remise en question est plus difficile. Ce qui rajoute une posture oppressive implicite.
+
+
+
+
+
