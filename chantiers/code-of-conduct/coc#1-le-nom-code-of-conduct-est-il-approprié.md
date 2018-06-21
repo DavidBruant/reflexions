@@ -1,10 +1,5 @@
-# En chantier - Code Of Conducts
-
-## CONTEXTE
-J'explore les pistes pour créer des cadres d'intéractions safe et inclusifs. J'ai découvert les Codes Of Conduct qui ont pour vocations de sécuriser les espaces.
-
-## Réflexion n°1 - Le nom "Code Of Conduct" est-il approprié ?
-### 1) Et bien pour moi pas vraiment...
+# Réflexion n°1 - Le nom "Code Of Conduct" est-il approprié ?
+## Pas sur...
 - Le CoC vient des Etats-Unis, territoire dans lequel la liberté d'expression fonctionne différemment qu'en france. Là-bas il semblerait qu'on peut tout dire, la loi ne sanctionne pas les insultes (à préciser) et le langage oppressif. Les CoC ont été mis en place pour pallier à ça dans les évents.
 En france c'est tout à fait différent puisque la loi intervient sur ce type de problématiques.
 - Code. N'est-ce pas un peu figé et directif ?
@@ -12,7 +7,7 @@ En france c'est tout à fait différent puisque la loi intervient sur ce type de
 
 Le truc c'est que les participant·e·s et organisat·eur·rice·s d'évènements ont l'habitude de cette nomination. Quand ils·elles l'entendent, ils savent d'emblée de quoi il en retourne. Si on change le nom, est-ce qu'on perd pas un peu de consistance ?
 
-### 2) D'autres propositions ?
+### D'autres propositions ?
 
 Consignes de sécurisation des interactions ? Guide des interactions ? Consignes pour créer un cadre d’interaction bientraitant et protecteur ?  
 - Consigne = +1 car transmet le caractère non négociable  
