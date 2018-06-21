@@ -1,4 +1,4 @@
-#Code of Conduct - Expliquer son intérêt ?
+# Code of Conduct - Expliquer son intérêt ?
 
 **Prenons conscience de nos statuts de privilégié·e·s pour prendre soin de celles et ceux qui ne le sont pas.**  
 
