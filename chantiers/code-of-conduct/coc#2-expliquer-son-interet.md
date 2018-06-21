@@ -1,4 +1,4 @@
-# Code of Conduct - Les arguments en faveur 
+# Quelques arguments en faveur des Code of Conduct
 
 **Argument n°1 - Prenons conscience de nos statuts de privilégié·e·s pour prendre soin de celles et ceux qui ne le sont pas.**  
 
