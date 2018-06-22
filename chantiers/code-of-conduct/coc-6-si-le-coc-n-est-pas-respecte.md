@@ -1,4 +1,14 @@
 # Code of Conduct #6 - Et si le CoC n’est pas respecté ? 
+La première chose à faire, si l'info est remontée jusuq'à l'équipe (si ce n'est pas le cas, celle-ci doit se demander pourquoi) est de faire quelque chose. C'est ce qui fait qu'un Code of Conduct est pertinent.
 
-- Intention de l'équipe de faire quelque chose, de ne pas laisser sans suite si un·e membre de l'équipe à eu a l’info.
-- Team aspire en priorité à soutenir les personnes qui ont vécu un truc pas cool.  On agit d’abord pour la personne qui a vécu un truc pas cool. On pense que l’enjeu premier est alors de tout faire pour que la personne se sente mieux.  Idéalement, la team aspire à  construire la réparation avec la personne qui a vécu un truc pas cool, pour qu’elle sente la réparation. Ici l’exclusion n’est pas obligatoire. Il y a une granularité possible.
+## 2 postures : 
+**La sanction**: c'est lorsque le "faire quelque chose" consiste à priviléguer la sanction de l'oppresseur·se. 
+**La réparation**: c'est lorsque l'intention première est de prendre soin de la personne qui a été blessée pour faire en sorte qu'elle se sente mieux. L'idée est alors de réparer le préjudice, réparation que ne passe pas nécessairement par la "punition" de l'oppresseur·se. Pour ça il s'agit de voir avec la personnes qui a vécu un préjudice ce qui pourrait être fait pour qu'elle est le "sentiment de réparation". 
+
+## A minima informer l'oppresseur·se...
+Dans tous les cas, il me paraît important que la personne à l'origine du préjudice est à minima l'info qu'elle a blessé/violenté/heurté une autre personne. Ce qui est délicat si la personne blessée n'est pas consentente pour le faire. Dans ce cas, il y a plusieurs stratégie possibles à définir avec elle : 
+- la contacter post-évènement
+- ne pas la citer
+
+
+
