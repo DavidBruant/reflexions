@@ -1,4 +1,4 @@
-# Code of Conduct #4 - 3 "postures" possibles pour le CoC ?
+# 3 "postures" possibles pour le CoC ?
 
 - Neutre : ne va ni dans le sens d’inclure plus, ni dans le sens d’exclure plus
 - Encourageante : actions qui promeuent/encouragent l’accueil et l’inclusion
