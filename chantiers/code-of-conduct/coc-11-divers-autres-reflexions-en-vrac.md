@@ -1,5 +1,5 @@
 
-# Divers/autres réflexions/en vrac
+# Code of Conduct #11 - Divers/autres réflexions/en vrac
 
 - Vigilence sur l’emploi des terme : donner des définitions
 - Etre précis sans être infantilisant ?
