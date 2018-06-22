@@ -35,7 +35,7 @@ title : ""
 [Faire des events autrement ?](chantiers/faire-des-events-autrement.md)  
 
 ### Code of conduct
-[1 - Le nom "Code of Conduct" est-il approprié ?](chantiers/code-of-conduct/coc%231-le-nom-code-of-conduct-est-il-appropri%C3%A9.md)  
+[1 - Le nom "Code of Conduct" est-il approprié ?](chantiers/code-of-conduct/coc-1-le-nom-code-of-conduct-est-il-approprie.md)  
 [#2 - Expliquer son intérêt](chantiers/code-of-conduct/coc%232-expliquer-son-interet.md)  
 [#3 - Il n'est pas la réponse idéale](chantiers/code-of-conduct/coc%233-il-n-est-pas-la-reponse-ideale.md)  
 [#4 - 3 postures possibles pour le CoC](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/code-of-conduct/coc%234-3-postures-possibles-pour-le-coc.md)  
