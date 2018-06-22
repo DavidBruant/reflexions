@@ -36,18 +36,18 @@ title : ""
 
 ### Code of conduct
 [1 - Le nom "Code of Conduct" est-il approprié ?](chantiers/code-of-conduct/coc-1-le-nom-code-of-conduct-est-il-approprie.md)  
-[#2 - Expliquer son intérêt](chantiers/code-of-conduct/coc%232-expliquer-son-interet.md)  
-[#3 - Il n'est pas la réponse idéale](chantiers/code-of-conduct/coc%233-il-n-est-pas-la-reponse-ideale.md)  
-[#4 - 3 postures possibles pour le CoC](https://github.com/Julia-barbelane/reflexions/blob/master/chantiers/code-of-conduct/coc%234-3-postures-possibles-pour-le-coc.md)  
-[#5 - L'importance de tenir ses engagements en tant qu'équipe organisatrice](chantiers/code-of-conduct/coc%235-l-importance-de-tenir-ses-engagements-en-tant-qu-equipe-organisatrice.md)  
-[#6 - Et si le CoC n'est pas respecté ?](chantiers/code-of-conduct/coc%236-si-le-coc-n-est-pas-respecte.md)  
-[#7 - Quand on s'adresse à la personne qui a vécu une oppresion/violence](chantiers/code-of-conduct/coc%237-quand-on-s-adresse-a-la-personne-qui-a-vecu-une-oppression-violence.md)  
-[#8 - Si j'observe une situation oppressive](chantiers/code-of-conduct/coc%238-si-j-observe-une-situation-oppressive.md)
-[#9 - L'importance d'une équipe alignée et équipée](chantiers/code-of-conduct/coc%239-l-importance-d-une-equipe-d-organisation-alignee-et-equipee.md)  
-[#10 - Le CoC doit-il dépasser de l'évenement et protéger l'expérience plus que l'espace ?](chantiers/code-of-conduct/coc%2310-le-coc-doit-il-depasser-de-l-evenement-et-proteger-l-experience-plus-que-l-espace.md)  
-[#11 - Divers/autres réflexions/en vrac](chantiers/code-of-conduct/coc%2311-divers-autres-reflexions-en-vrac.md)  
-[# 12 - Ressources inspirantes](chantiers/code-of-conduct/coc%2312-ressources-inspirantes.md)
-- [Code Of Conduct : observation des réactions humaines](chantiers/chantiersCoC-et-reactions-humaines.md)
+[2 - Quelques arguments en faveur des Code of Conduct](chantiers/code-of-conduct/coc%232-expliquer-son-interet.md)  
+[3 - Il n'est pas la réponse idéale](chantiers/code-of-conduct/coc-3-il-n-est-pas-la-reponse-ideale.md)  
+[4 - Trois postures possibles pour le CoC](chantiers/code-of-conduct/coc-4-3-postures-possibles-pour-le-coc.md)  
+[5 - L'importance de tenir ses engagements en tant qu'équipe organisatrice](chantiers/code-of-conduct/coc-5-l-importance-de-tenir-ses-engagements-en-tant-qu-equipe-organisatrice.md)  
+[6 - Et si le CoC n'est pas respecté ?](chantiers/code-of-conduct/coc-6-si-le-coc-n-est-pas-respecte.md)  
+[7 - Quand on s'adresse à la personne qui a vécu une oppresion/violence](chantiers/code-of-conduct/coc-7-quand-on-s-adresse-a-la-personne-qui-a-vecu-une-oppression-violence.md)  
+[8 - Si j'observe une situation oppressive](chantiers/code-of-conduct/coc-8-si-j-observe-une-situation-oppressive.md)
+[9 - L'importance d'une équipe alignée et équipée](chantiers/code-of-conduct/coc-9-l-importance-d-une-equipe-d-organisation-alignee-et-equipee.md)  
+[10 - Le CoC doit-il dépasser de l'évenement et protéger l'expérience plus que l'espace ?](chantiers/code-of-conduct/coc-10-le-coc-doit-il-depasser-de-l-evenement-et-proteger-l-experience-plus-que-l-espace.md)  
+[11 - Divers/autres réflexions/en vrac](chantiers/code-of-conduct/coc-11-divers-autres-reflexions-en-vrac.md)  
+[12 - Ressources inspirantes](chantiers/code-of-conduct/12-ressources-inspirantes.md)
+[Code Of Conduct : observation des réactions humaines](chantiers/code-of-conduct/coc-et-reactions-humaines.md)
 
 
 ### L'aventure SudWeb : une série d'articles qui retracent la construction de l'event 2018
