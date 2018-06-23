@@ -1,5 +1,7 @@
 # Code of Conduct #7 - Quand on s'adresse à la personne qui a vécu une oppression/violence :
 
+![coc7](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/code-of-conduct/coc-7.png)
+
 ## Si la personne est à l’aise et à l’énergie
 L'inviter à signaler l'incident à la personne qui a eu un comportement oppressif et/ou prévenir les organisatrice·eur·s.
 
