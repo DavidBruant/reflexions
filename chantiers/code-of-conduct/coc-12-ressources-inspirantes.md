@@ -1,4 +1,7 @@
-## Code of Conduct #12 - Ressources inspirantes :
+## Code of Conduct #12 - Ressources inspirantes
+
+![coc12](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/code-of-conduct/coc-12.png)
+
 - [Le reset](https://lereset.org/charte.html)  
 - [Write the docs](http://www.writethedocs.org/code-of-conduct/)  
 - [Agile Tour Montpellier 2018](http://agiletour-montpellier.fr/code-de-conduite/)   
