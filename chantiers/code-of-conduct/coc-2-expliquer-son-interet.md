@@ -10,7 +10,7 @@ De fait, je ne peux pas voir vraiment conscience de l’impact de certaines de m
 
 ## Argument n°2 - Prendre soin des communautés sous-représentées parceque "par définition" elles sont susceptibles d'être oppressées  
 
-*Extrait du Code Of Conduct de SudWeb 2018*
+*[Extrait du Code Of Conduct de SudWeb 2018](https://sudweb.fr/2018/code-de-conduite/)*
 
 Dans chaque groupement, collectif ou rassemblement, il y a une culture dominante principale et des personnes qui n’appartiennent pas à cette culture. Ces personnes sont donc sous-représentées dans le contexte, et naturellement, elles sont plus susceptibles d’être « oppressées » par la communauté principale. Souvent, cette oppression se manifeste par des comportements ou attitudes blessantes adoptées sans s’en rendre compte.
 
