@@ -9,3 +9,4 @@
 - [The diversity charter](http://diversitycharter.org/)  
 - [Charte Blend Web Mix 2018](https://www.blendwebmix.com/wp-content/uploads/2018/03/charte-speakers-blend-2018.pdf)  
 - [Code of Conduct de 18F (USA)](https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md)  
+- [confcodeofconduct.com](http://confcodeofconduct.com/)
