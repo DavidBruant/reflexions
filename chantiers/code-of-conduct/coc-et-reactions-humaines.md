@@ -1,20 +1,22 @@
 # En chantier - mise en place d'un COC - observation des réactions humaines
 
+![coc13](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/code-of-conduct/coc-13.png)
+
 # Intention du document : 
-Suite à la mise en place d'un premier CoC dans un évent, il y a eu plusieurs réactions qui m'ont interpellées et m'ont poussées à me questionner un peu plus sur le sens des CoC. L'idée ici est d'agréger ces retours/réactions et de m'appuyer sur ces dernier·e·s pour (ré)interroger le principe CoC et d'affiner ma pensée.
+Suite à la mise en place du premier [Code of Conduct de SudWeb](https://sudweb.fr/2018/code-de-conduite/), il y a eu plusieurs réactions qui m'ont interpellées et m'ont poussées à me questionner un peu plus sur le sens des CoC. L'idée ici est d'agréger ces retours/réactions et de m'appuyer sur ces dernier·e·s pour (ré)interroger le principe CoC et d'affiner ma pensée.
 
 # Les arguments en défaveur : 
-- Rime avec "Deresponsabilisation. Infantilisation." si les indications sont très précises
+- Rime avec "Déresponsabilisation. Infantilisation." si les indications sont très précises
 - La lecture est vécue comme oppressive et comparée à Orwell et Consorts. Fait se sentir mal à l'aise.
-- La bienveillance d'un évènement peut se construire toute seule, à travers les sujets et les gens qui viennent, parce qu'ils adhèrent aux sujets. C'est le duo organisation/participants qui construit ça, pas un code imposé.
+- La bienveillance d'un évènement peut se construire toute seule, à travers les sujets et les gens qui viennent, parce qu'ils adhèrent aux sujets. C'est le duo organisation/participant·e·s qui construit ça, pas un code imposé.
 - C'est présenté comme des interdits, c'est vécu comme quelque-chose de stressant (eh ben non, t'as plus le droit de faire ça) du coup c'est infantilisant.
 - Interdire les avances, le flirt, la drague : En quoi un flirt bilatéral pouvant amener à une belle histoire (ou pas) serait proscrit ?.
 - L'interdiction appel la transgression : "J’ai l’impression de m’adresser à ma fille quand je lui dis « ne t’habille pas, c’est interdit » pour qu’elle fasse le contraire."
 - Trop centré sur le négatif : "Je pense que ce code est construit sur la base de problèmes et non de solutions."
-- Risque de la prophétie auto-réalisatrice : https://fr.wikipedia.org/wiki/Proph%C3%A9tie_autor%C3%A9alisatrice. "Le soucis c’est qu’en faisait ça tu crées un groupe qui va se comporter comme tel et donc ça risque d’avoir l’effet inverse à celui recherché."
+- Risque de la prophétie auto-réalisatrice : https://fr.wikipedia.org/wiki/Proph%C3%A9tie_autor%C3%A9alisatrice. "Le soucis c’est qu’en faisant ça tu crées un groupe qui va se comporter comme tel et donc ça risque d’avoir l’effet inverse à celui recherché."
 - Pourquoi ne pas s'en référer à la loi plutôt que de le faire gérer par des bénévoles inexpérimentés ? : https://larlet.fr/david/stream/2018/01/12/ 
 - Est-ce qu'on réinvente pas la roue ? Des lois exsitent pour gérer ça.
-- Contre-productif dans la résolution des problèmes : " Tu peux te retrouver à ne PAS pouvoir sanctionner quelqu’un parce qu’il te demande de lui trouver dans le CoC où ce qu’il a fait est condamné…"
+- Contre-productif dans la résolution des problèmes : "Tu peux te retrouver à ne PAS pouvoir sanctionner quelqu’un parce qu’il te demande de lui trouver dans le CoC où ce qu’il a fait est condamné…"
 
 
 # Les arguments en faveur :
@@ -34,16 +36,15 @@ Vécu comme liberticide si on se met du point de vue d'un homme blanc qui a de b
 - Rédigé avec prudence (un minimum de "il faut" + privilégier le propositionnel dès que possible)
 - Un minimum d'injonctions punitives en privilégiant le soin à la personne qui a vécu un truc inconfortable
 - Préciser l'intention, l'objectif
-- Co-rédigé : permettre à tous les participants d'intéragir dessus et le co-créer avec les communautés concernées.
+- Co-rédigé : permettre à tou·te·s les participant·e·s d'intéragir dessus et le co-créer avec les communautés concernées.
 - Adoption collégiale : au lieu de l'imposer, on pourrait décider de l'appliquer uniquement s'il est validé par un pourcentage minimum de la communauté
-- La résolution du problème pourrait-être gérée par les participants volontaires eux-même et non l'équipe d'organisation
+- La résolution du problème pourrait-être gérée par les participant·e·s volontaires eux·elles-même et non l'équipe d'organisation
 - Accepter de résoudre le problème à d'autres temporalités (plus tard et avec d'autres personnes)
 - Que les personnes référentes du CoC soient outillées et vigilente sur leur posture (pas de posture haute)
 
-
 # Question :  Pourquoi certain·e·s participant·e·s réagissent négativement au CoC ? 
-- **Pas au clair avec moi-même ?** : Est-ce que le fait que des participant·e·s réagissent fortement appuie l'idée que c'est d'autant plus nécessaire ? Si tout le monde était sûr d'avoir un comportement "Safe" envers les autres, ils·elles ne devraient avoir aucun problème avec le CoC ? 
-- **J'ai vécu trop d'injustice de la part d'une autorité ?** : Le CoC est-il réellement liberticide dans la mesure où l'intention de base est honnête ? Le refus de l'injonction d'une autorité vient-elle du fait qu'on est trop habitué à recevoir des ordres de la part d'une autorité malhonnête ? Cela signifie-t-il que toute autorité (représentée ici par un CoC) est illégitime ? Mais alors comment faire quand l'intention de cette "autorité" (créer un cadre d’interaction bientraitant et protecteur) est honnête ? 
+- **Pas au clair avec moi-même ?** : Est-ce que le fait que des participant·e·s réagissent fortement appuie l'idée que c'est d'autant plus nécessaire ? Si tout le monde était sûr d'avoir un comportement "Safe et inclusif" envers les autres, ils·elles ne devraient avoir aucun problème avec le CoC ? 
+- **J'ai vécu trop d'injustice de la part d'une autorité ?** : Le CoC est-il réellement liberticide dans la mesure où l'intention de base est honnête ? Le refus de l'injonction d'une autorité vient-elle du fait qu'on est trop habitué·e·s à recevoir des ordres de la part d'une autorité malhonnête ? Cela signifie-t-il que toute autorité (représentée ici par un CoC) est illégitime ? Mais alors comment faire quand l'intention de cette "autorité" (créer un cadre d’interaction bientraitant et protecteur) est honnête ? 
 
 
 
