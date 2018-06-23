@@ -23,7 +23,7 @@ De fait, je ne peux pas voir vraiment conscience de l’impact de certaines de m
 ## Argument n°3 - Ce n'est pas parce que je n'ai jamais eu vent d'oppression qu'il n'y en a pas eu ou qu'il n'y en aura pas
 Comme je le disais plus haut, en tant que privilégié·e·s on est moins souvent victimes d'oppressions. De fait, comme on ne les vit pas (ou moins) on y est moins attenti·f·ve·s. On ne les voit/perçoit pas forcément. Mais cela ne signifie pas pour autant que ces oppressions ne sont pas présentes. 
 
-A l'inverse, quand on ne fait pas partie des privilégié·e·s, on subit régulièrement des oppressions. Et malheureusement, rares sont les fois où "quelque chose se passe" quand ça arrive. Aussi, à force, on s'y habitue sans relever. C'est désagréable mais ça devient "normal" en quelque sorte. 
+A l'inverse, quand on ne fait pas partie des privilégié·e·s, on subit régulièrement des oppressions. Et malheureusement, rares sont les fois où "quelque chose se passe" quand ça arrive. Aussi, à force, on s'y habitue sans relever. C'est désagréable mais ça devient "habituel" ou "attendu" en quelque sorte. 
 
 **Un Code of Conduct permet de mettre de la lumière sur des oppressions qu'on ne remarque pas en tant que privilégié·e·s et d'offrir la possibilité à celles et ceux qui les subissent de sortir du statut quo.**
 
