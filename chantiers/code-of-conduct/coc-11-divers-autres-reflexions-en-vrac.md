@@ -3,7 +3,7 @@
 
 ![coc11](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/code-of-conduct/coc-11.png)
 
-Ici des sujets que j'aimerai développer dans d'autres petits articles pour étayer la réflexion.
+**Ici des sujets que j'aimerais développer dans d'autres petits articles pour étayer la réflexion. Si toi aussi lect·eur·rice, tu as des idées mais que t'as pas de trop réponses, fais moi signe (par mail à julia.barbelane@gmail.com ou en via une Pull Request, je serais heureuse d'y réfléchir avec toi !**
 
 - Etre vigilent·e·s sur l’emploi des termes : donner des définitions ?
 - Veiller à être précis·e·s sans être infantilisant·e·s ?
