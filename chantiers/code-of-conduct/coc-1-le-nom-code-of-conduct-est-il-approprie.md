@@ -1,5 +1,7 @@
 # Code of Conduct #1 - Le nom "Code Of Conduct" est-il approprié ?
 
+![coc-1](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/code-of-conduct/coc-1.png)
+
 ## Pas sûre...
 - Le CoC vient des Etats-Unis, territoire dans lequel le rapport à la liberté d'expression fonctionne différemment qu'en France. Là-bas il semblerait qu'on peut tout dire, la loi ne sanctionne pas les oppressions verbales (information à préciser). Les CoC ont été mis en place pour pallier à ça dans les évènements. En France c'est tout à fait différent puisque la loi intervient sur ce type de problématiques.
 - Code. N'est-ce pas un peu figé et directif ?
