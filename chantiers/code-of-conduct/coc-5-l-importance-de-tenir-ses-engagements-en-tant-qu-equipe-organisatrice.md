@@ -2,9 +2,9 @@
 
 ![coc5](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/code-of-conduct/coc-5.png)
 
-**Il est inutile de mettre un CoC en place si l'équipe d'organisaton n'est pas préparée à le gérer. Si celle-ci annonce "*Vous êtes légitime*" et "*Vous serez pris au sérieux*" elle se doit de tout faire pour tenir ces engagements envers les participant·e·s.** 
+**Il est inutile de mettre un CoC en place si l'équipe d'organisaton n'est pas préparée à le gérer. Si celle-ci annonce "*Vous êtes légitime*" et "*Vous serez pris·e au sérieux*" elle se doit de tout faire pour tenir ces engagements envers les participant·e·s.** 
 
-## C'est qui fait la différence entre une charte et un Code of Conduct
+## C'est ce qui fait la différence entre une charte et un Code of Conduct
 Un Code of Conduct fait la promesse que quelque chose sera fait. C'est ce qui créé le sentiment de sécurité.
 
 ## Une équipe "équipée"
