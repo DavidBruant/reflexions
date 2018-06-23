@@ -12,13 +12,13 @@ De fait, je ne peux pas voir vraiment conscience de l’impact de certaines de m
 
 *Extrait du Code Of Conduct de SudWeb 2018*
 
-Dans chaque groupement, collectif ou rassemblement, il y a une culture dominante principale et des personnes qui n’appartiennent pas à cette culture. Ces personnes sont donc sous-représentées dans le contexte, et naturellement, elles sont plus susceptibles d’être « oppressées » par la communauté principale. Souvent, cette oppression se manifeste par des comportements ou attitudes blessantes adoptées sans s’en rendre compte.
-
-Ici, les consignes de sécurisation des interactions permettent de créer un contexte « safe » pour celles et ceux qui sont sous-représenté·e·s en mettant en lumière une problématique.
-
-Imaginons-les comme un principe de précaution qui permet d’anticiper des situations pouvant aller de l’inconfortable à l’oppressif pour certain·e·s, inhérentes à un contexte.
-
-En adoptant ces consignes, nous cherchons à établir un lien de confiance et de soin pour inviter celles et ceux qui sont sous-représenté·e·s à intégrer la communauté en toute tranquillité, dans l’objectif d’encourager et promouvoir la diversité.
+> Dans chaque groupement, collectif ou rassemblement, il y a une culture dominante principale et des personnes qui n’appartiennent pas à cette culture. Ces personnes sont donc sous-représentées dans le contexte, et naturellement, elles sont plus susceptibles d’être « oppressées » par la communauté principale. Souvent, cette oppression se manifeste par des comportements ou attitudes blessantes adoptées sans s’en rendre compte.
+>
+> Ici, les consignes de sécurisation des interactions permettent de créer un contexte « safe » pour celles et ceux qui sont sous-représenté·e·s en mettant en lumière une problématique.
+>
+> Imaginons-les comme un principe de précaution qui permet d’anticiper des situations pouvant aller de l’inconfortable à l’oppressif pour certain·e·s, inhérentes à un contexte.
+>
+> En adoptant ces consignes, nous cherchons à établir un lien de confiance et de soin pour inviter celles et ceux qui sont sous-représenté·e·s à intégrer la communauté en toute tranquillité, dans l’objectif d’encourager et promouvoir la diversité.
 
 ## Argument n°3 - Ce n'est pas parceque je n'ai jamais eu vent d'oppression qu'il n'y en a pas eu ou qu'il n'y en aura pas
 Comme je le disais plus haut, en tant que privilégié·e·s on est moins souvent victimes d'oppressions. De fait, comme on ne les vit pas (ou moins) on y es est moins attenti·f·ve·s. On en les voit/perçoit pas forcément. Mais cela ne signifie pas pour autant que ces oppressions ne sont pas présentes. 
