@@ -2,6 +2,8 @@
 
 ![coc7](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/code-of-conduct/coc-7.png)
 
+**Avant toute chose l'équipe et le CoC sont là pour lui envoyer un message tel que "*Tu es totalement légitime de dire que tu ne suis pas à l’aise avec quelque chose qui se passe et tu es invité·e à le faire savoir le plus tôt possible*"**
+
 ## Si la personne est à l’aise et à l’énergie
 L'inviter à signaler l'incident à la personne qui a eu un comportement oppressif et/ou prévenir les organisatrice·eur·s.
 
