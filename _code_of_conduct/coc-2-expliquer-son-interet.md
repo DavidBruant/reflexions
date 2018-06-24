@@ -1,3 +1,6 @@
+---
+---
+
 # Code of Conduct #2 - Quelques arguments en faveur
 
 ![coc-2](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/code-of-conduct/coc-2.png)

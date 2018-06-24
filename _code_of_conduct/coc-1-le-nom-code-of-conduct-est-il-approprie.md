@@ -1,3 +1,6 @@
+---
+---
+
 # Code of Conduct #1 - Le nom "Code Of Conduct" est-il approprié ?
 
 ![coc-1](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/code-of-conduct/coc-1.png)

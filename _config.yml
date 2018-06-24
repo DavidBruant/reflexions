@@ -1,2 +1,14 @@
 title: Réflexions
 description: Un endroit ou poser mes réflexions, travaux, articles, idées en cours...
+
+collections:
+  code_of_conduct:
+    output: true
+
+defaults:
+  - 
+    scope:
+      path: ""
+      type: code_of_conduct
+    values:
+      layout: code_of_conduct
