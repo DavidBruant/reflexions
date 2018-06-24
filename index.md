@@ -45,7 +45,7 @@ title : ""
 [#8 - Si j'observe une situation oppressive](chantiers/code-of-conduct/coc-8-si-j-observe-une-situation-oppressive.md)    
 [#10 - Le CoC doit-il dépasser de l'évenement et protéger l'expérience plus que l'espace ?](chantiers/code-of-conduct/coc-10-le-coc-doit-il-depasser-de-l-evenement-et-proteger-l-experience-plus-que-l-espace.md)  
 [#11 - Divers/autres réflexions/en vrac](chantiers/code-of-conduct/coc-11-divers-autres-reflexions-en-vrac.md)  
-[#12 - Ressources inspirantes](chantiers/code-of-conduct/12-ressources-inspirantes.md)  
+[#12 - Ressources inspirantes](chantiers/code-of-conduct/coc-12-ressources-inspirantes.md)  
 [#13 - Observation des réactions humaines suite à la mise en place d'un CoC](chantiers/code-of-conduct/coc-et-reactions-humaines.md)
 
 
