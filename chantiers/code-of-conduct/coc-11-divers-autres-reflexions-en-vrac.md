@@ -11,3 +11,5 @@
 - Un Code of Conduct ne remplace pas la culture d'un évenement.
 - Si quelqu’un me fait remarquer que j’ai eu un comportement opressif ? Ben c’est pas la mort. Proposer plus de voir ça comme une occasion de progresser et de prendre plus soin qu’une attaque personnelle.
 - Si je dois faire remarquer à quelqu’un qu’il a eu un comportement opressif ? être vigilant à la façon dont on fait remarquer. (expliquer comment ? )
+- Editer une checklist des points importants à vérifier pour veiller à la "bonne application" d'un CoC ? ( Diversité de "l'équipe de réponse"...)
+
