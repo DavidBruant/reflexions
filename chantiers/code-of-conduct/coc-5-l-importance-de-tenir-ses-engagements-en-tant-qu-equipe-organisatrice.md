@@ -38,5 +38,11 @@ A minima une femme et un homme pour :
 2) **Expliquer quelle posture d'écoute prendra l'équipe¨** si une personne vient demander de l'aide. Pour que ce soit Safe, les personnes doivent s'engager à minima à utiliser l'écoute empathique, à ne pas donner de conseils si la personne n'en demande pas et à utiliser des principes de reformulation pour bien comprendre les faits et faire écho aux sentiments.  
 3) **Des personnes identifiées et accessibles**. Les personnes en charge du Code of Conduct, doivent être identifiées dès le début de l'évènement et leurs coordonnées doivent être faciles à trouver même discrètement.  
 
+## Et si l'équipe n'est ni alignée, ni équipée, ni mixte.... ? 
+C'est bien de le savoir et d'en avoir conscience. Dans ce cas, peut-être n'est-ce pas la peine de mettre en place un CoC...Comme je le disais plus haut, c'est une promesse qu'on fait. Ne pas tenir cette promesse par manque de clarté ou de rigeur c'est abuser de la confiance de personnes déjà potentiellement "vigilentes". 
 
-
+Dans ce cas, il peut y avoir plusieurs options : 
+- décider de ne pas faire d'évènement si l'équipe ne peut pas garantir le respect d'un CoC
+- faire appel à quelqu'un·e qui peut vous aider à mettre en place un contexte favorable au CoC et en prendre soin en amont et lors de l'évènement. 
+- annoncer clairement que l'équipe n'a peut-être pas les moyens de son intention histoire que les participant·e·s s'inscrivent en connaissance de cause. 
+- si vous avez d'autres idées, je suis preneuse !
