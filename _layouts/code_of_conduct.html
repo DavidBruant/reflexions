@@ -9,19 +9,30 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   </head>
   <body>
-    <header>
-        <h1>Yo ! CoC C0llection !</h1>
-        <ul>
-            {% assign cocpages = site.code_of_conduct | sort: 'order' %}
-            {% for cocpage in cocpages %}
-            <li><a href="{{cocpage.url}}">{{cocpage.title}}</a></li>
-            {% endfor %}
-        </ul>
-    </header>
-
     <section class="main-content">
       {{ content }}
 
+      <footer>
+        {% assign cocpages = site.code_of_conduct | sort: 'order' %}
+        {% for p in cocpages %}
+          {% if p.title == page.title %}
+            {% unless forloop.first %}
+              {% assign prevurl = prev.url %}
+              {% assign prevtitle = prev.title %}
+            {% endunless %}
+            {% unless forloop.last %}
+              {% assign next = cocpages[forloop.index] %}
+              {% assign nexttitle = next.title %}
+              {% assign nexturl = next.url %}
+            {% endunless %}
+          {% endif %}
+          {% assign prev = p %}
+        {% endfor %}
+
+        {% if prevurl %}<a href="{{ prevurl }}"><strong>Précédent :</strong> {{ prevtitle l}}</a>{% endif %}
+
+        {% if nexturl %}<a href="{{ nexturl }}"><strong>Suivant :</strong> {{ nexttitle }}</a>{% endif %}
+      </footer>
       <footer class="site-footer">
         <a href="https://julia-barbelane.github.io/reflexions/">Voir tout</a>
         <a href="https://github.com/Julia-barbelane/reflexions/tree/master/chantiers">Contribuer</a>
