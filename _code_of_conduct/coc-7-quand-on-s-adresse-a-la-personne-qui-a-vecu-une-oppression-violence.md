@@ -1,3 +1,6 @@
+---
+---
+
 # Code of Conduct #7 - Quand on s'adresse à la personne qui a vécu une oppression/violence :
 
 ![coc7](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/code-of-conduct/coc-7.png)

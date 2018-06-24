@@ -1,3 +1,6 @@
+---
+---
+
 # En chantier - mise en place d'un COC - observation des réactions humaines
 
 ![coc13](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/code-of-conduct/coc-13.png)

@@ -1,3 +1,6 @@
+---
+---
+
 # Code of Conduct #3 - Il n'est pas LA réponse idéale
 
 ![coc-3](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/code-of-conduct/coc-3.png)

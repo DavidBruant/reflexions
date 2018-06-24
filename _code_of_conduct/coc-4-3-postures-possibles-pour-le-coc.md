@@ -1,3 +1,6 @@
+---
+---
+
 # Code of Conduct #4 - Trois "postures" possibles pour le CoC ?
 
 - Neutre : ne va ni dans le sens d’inclure plus, ni dans le sens d’exclure plus
