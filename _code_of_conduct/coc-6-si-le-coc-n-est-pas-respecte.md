@@ -1,4 +1,5 @@
 ---
+order: 6
 ---
 
 # Code of Conduct #6 - Et si le CoC n’est pas respecté ? 

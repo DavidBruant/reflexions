@@ -1,4 +1,5 @@
 ---
+order: 1
 ---
 
 # Code of Conduct #1 - Le nom "Code Of Conduct" est-il approprié ?

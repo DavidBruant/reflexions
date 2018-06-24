@@ -1,4 +1,5 @@
 ---
+order: 4
 ---
 
 # Code of Conduct #4 - Trois "postures" possibles pour le CoC ?

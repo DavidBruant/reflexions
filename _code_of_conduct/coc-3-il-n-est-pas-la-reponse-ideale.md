@@ -1,4 +1,5 @@
 ---
+order: 3
 ---
 
 # Code of Conduct #3 - Il n'est pas LA réponse idéale

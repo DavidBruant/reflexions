@@ -1,4 +1,5 @@
 ---
+order: 7
 ---
 
 # Code of Conduct #7 - Quand on s'adresse à la personne qui a vécu une oppression/violence :

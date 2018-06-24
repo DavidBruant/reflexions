@@ -1,4 +1,5 @@
 ---
+order: 8
 ---
 
 # Code of Conduct #8 - Si j’observe une situation oppressive

@@ -1,4 +1,5 @@
 ---
+order: 5
 ---
 
 # Code of Conduct #5 - L'importance de tenir ses engagements en tant qu'équipe organisatrice

@@ -11,6 +11,12 @@
   <body>
     <header>
         <h1>Yo ! CoC C0llection !</h1>
+        <ul>
+            {% assign cocpages = site.code_of_conduct | sort: 'order' %}
+            {% for cocpage in cocpages %}
+            <li><a href="{{cocpage.url}}">{{cocpage.title}}</a></li>
+            {% endfor %}
+        </ul>
     </header>
 
     <section class="main-content">

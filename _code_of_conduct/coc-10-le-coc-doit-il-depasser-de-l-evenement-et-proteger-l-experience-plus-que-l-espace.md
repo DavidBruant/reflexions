@@ -1,4 +1,5 @@
 ---
+order: 10
 ---
 
 # Code of Conduct #10 - Le CoC doit-il dépasser de l'évenement et protéger l'expérience plus que l'espace ?

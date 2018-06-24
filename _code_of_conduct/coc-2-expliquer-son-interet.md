@@ -1,4 +1,5 @@
 ---
+order: 2
 ---
 
 # Code of Conduct #2 - Quelques arguments en faveur
