@@ -1,5 +1,7 @@
 # Quelques pistes pour créer un cadre de collaboration Safe
 
+![Meuf tranquille en pleine ville](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/creer-cadre-collaboration-safe.png)
+
 ## Contexte de l'article 
 Depuis 2015, j'évolue au sein de plusieurs collectifs. 2 raisons m'ont poussées à rédiger cet article :   
 1 - Lorsque le contexte relationnel est "Safe" je me sens mieux donc je collabore mieux donc je créé et réfléchi mieux.  
@@ -7,7 +9,7 @@ Depuis 2015, j'évolue au sein de plusieurs collectifs. 2 raisons m'ont poussée
 
 Du coup, j’ai décidé d’observer et questionner mes acolytes pour essayer d'identifier les “trucs” qui empêchent ou encouragent la création d'un contexte relationnel Safe… Retour sur cette exploration (non exhaustif !)
 
-## Défintion
+## Définition
 Pour moi, un contexte "Safe" incarne un climat de confiance, de tranquillité et d’harmonie dans lequel je me sens "soignée" et en sécurité affective et émotionnelle. C'est un contexte dans lequel je n'ai pas besoin d'être sur "mes gardes". C'est à dire que je suis exemptée de peurs telle que "Et si l'autre me juge ? Et s'il.elle se moque de moi ? Et si je me trompe ? Et si l'autre me demande de me justifier ?". 
 
 ## Ce que ce cadre "Safe" peut apporter concrètement
@@ -16,10 +18,10 @@ L'observation principale que je fais est qu'un contexte "safe" permet de pouvoir
 ## 1) Quelques trucs qui peuvent participer à la création d’un cadre Safe 
 
 **Parler au « Je »** Souvent ça me permet d’éviter un peu les jugements et de ne pas imposer mon point de vue.  
-Par exemple dire “*La discussion d'hier ne nous a servi à rien*.” n’évoque pas la même chose que “*J'ai l'impression que la discussion d'hier ne m'a rien qpportée.”. La première version implique l’ensemble des autres participants, mais qu’est-ce qui dit qu’elle n’a rien apportée à Jacqueline ou Loric ?  
+Par exemple dire “*La discussion d'hier ne nous a servi à rien*.” n’évoque pas la même chose que “*J'ai l'impression que la discussion d'hier ne m'a rien apportée.*”. La première version implique l’ensemble des autres participants, mais qu’est-ce qui dit qu’elle n’a rien apportée à Jacqueline ou Loric ?  
 Aussi, faire l'effort de parler au “Je” est une belle invitation à prendre ses “responsabilités”. C’est plus impliquant, je suis donc généralement plus précautionneuse : je prends le temps de vérifier ce qui se passe pour moi et je fais plus attention aux mots que j’emploie.
 
-**Utiliser le langage inclusif** 
+**Utiliser le langage inclusif** *Réflexion en cours. A développer. Idées pas encore assez claires. Préfère ne pas se prononcer pour l'instant. Mais l'idée est là.* 
 
 **Faire preuve de bienveillance et vérifier qu'on est aussi dans la bientraitance** La bienveillance serait l’intention qui vise le bien et le bonheur de l’autre. La bientraitance serait la mise en action de cette intention. Elles me paraissent complémentaires.  
 Ben ouais… je peux tout à fait avoir une intention bienveillante et être maltraitante dans mes actes.  
@@ -77,10 +79,10 @@ Au lieu de ça, je tente d'adopter un posture d'écoute empathique, qui (assez g
 
 # "Oh lala tu compliques tout !"
 Voilà un retour récurrent quand je parle de cette exploration. Nombreu.se.s.x sont celles et ceux qui jugent cette posture compliquée à mettre en oeuvre, liberticide ou non-authentique.  
-Je comprends, sauf que j'ai choisi de le voir comme our moi un apprentissage.  
+Je comprends, sauf que j'ai choisi de le voir comme un apprentissage.  
 Prenons l'exemple de l'éducation : il y a moins de 100 ans, si un enfants désobissait, il prenait une tarte et on l'enfermait dans sa chambre. C'était simple, efficace et pas trop contraignant pour les parents. Mais un peu pauvre pour l'enfant non ? D'ailleurs, aujourd'hui, cette posture éducative est bien moins répandue. Les parents, tentent désormais d'apprendre à faire mieux : expliquer, comprendre, saisir ce qui se passe pour l'enfant, trouver des solutions pour que ça ne se reproduise pas... dans l'idée d'améliorer leur relation avec leurs enfants.
 
 Pour moi, l'enjeux de créer un cadre de collaboration Safe est le même. Et réinterroger nos pratiques, prendre le temps de s'ajuster, d'observer et de prendre soin de l'autre ben ça s'apprend ! Et comme n'importe quel apprentissage, ça me demander du temps et de l'énergie. 
 
 
-*Un grand "Merci !" à toutes les personnes qui (de près où de loin) m'ont partagé leurs billes (et/ou m'ont offert de magnifiques feed-back) ce qui a largement contribué atayer ma pensée et pondre ces quelques lignes : Isabelle Desplat, Stéphane Langlois, Maïtané Lenoir, Antoine Vernois, Aude Lorriaux, Fabrice Aimetti, Thomas Wolf, Ash Dryden, David de Bruant, Erick Gardin, Pauline Bendjebbar, Magali Toulouse, Lucas Fristchi, la Thym de SudWeb 2017, Brasiers et Cerisiers...*
+*Un grand "Merci !" à toutes les personnes qui (de près où de loin) m'ont partagé leurs billes (et/ou m'ont offert de magnifiques feed-back) ce qui a largement contribué atayer ma pensée et pondre ces quelques lignes : Isabelle Desplat, Stéphane Langlois, Maïtané Lenoir, Antoine Vernois, Aude Lorriaux, Fabrice Aimetti, Thomas Wolff, Ashe Dryden, David de Bruant, Erick Gardin, Pauline Bendjebbar, Magali Toulouse, Lucas Fristchi, la Thym de SudWeb 2017, Brasiers et Cerisiers, Moe...*
