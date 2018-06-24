@@ -24,6 +24,7 @@ Mettre en place un CoC n'est pertinent que si l'équipe d'organisation s'est pr�
 - Gestion : quelle posture ? Comment j'écoute ? Comment j'agis ?
 - Organisation : comment on se réparti les tâches si ça arrive ?
 - Comment on fait si je suis mal à l'aise avec la personne qui vient me voir ou son sujet ? Vers qui je la renvoie ? Comment ?
+- Que faire si une des personnes de l'équipe d'orga/de réponse est impliquée dans un problème d'oppression ?
 - Qu'est-ce qu'on peut mettre en place pour que ce soit "facile" de venir nous voir pour en parler ?
 - Comment on communique entre nous autour de ça tout en restant zen et discret·e·s ?
 - Comment faire pour que si ça arrive, cela n'impacte pas "trop" l'évènement ?
