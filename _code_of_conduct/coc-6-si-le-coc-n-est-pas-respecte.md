@@ -1,8 +1,7 @@
 ---
 order: 6
+title: Et si le CoC n’est pas respecté ? 
 ---
-
-# Code of Conduct #6 - Et si le CoC n’est pas respecté ? 
 
 ![coc-6](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/code-of-conduct/coc-6.png)
 

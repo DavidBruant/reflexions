@@ -1,8 +1,8 @@
 ---
 order: 11
+title: Divers/autres réflexions/en vrac
 ---
 
-# Code of Conduct #11 - Divers/autres réflexions/en vrac
 
 ![coc11](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/code-of-conduct/coc-11.png)
 

@@ -1,8 +1,8 @@
 ---
 order: 5
+title: L'importance de tenir ses engagements en tant qu'équipe organisatrice
 ---
 
-# Code of Conduct #5 - L'importance de tenir ses engagements en tant qu'équipe organisatrice
 
 ![coc5](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/code-of-conduct/coc-5.png)
 

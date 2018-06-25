@@ -1,8 +1,7 @@
 ---
 order: 8
+title: Si j’observe une situation oppressive
 ---
-
-# Code of Conduct #8 - Si j’observe une situation oppressive
 
 ![coc8](https://raw.githubusercontent.com/Julia-barbelane/reflexions/master/photos/code-of-conduct/coc-8.png)
 
